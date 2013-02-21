@@ -8,7 +8,7 @@
 
 #import "ANLCAppDelegate.h"
 
-#import "ANLCFirstViewController.h"
+#import "ANLCLanguagesController.h"
 
 #import "ANLCSecondViewController.h"
 
@@ -19,13 +19,14 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
 	UIViewController *viewController1, *viewController2;
-	if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone) {
-	    viewController1 = [[ANLCFirstViewController alloc] initWithNibName:@"ANLCFirstViewController_iPhone" bundle:nil];
+//	if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone) {
+		viewController1 = [[UINavigationController alloc] initWithRootViewController:
+						   [[ANLCLanguagesController alloc]initWithNibName:@"ANLCPhrasesController_iPhone" bundle:nil]];
 	    viewController2 = [[ANLCSecondViewController alloc] initWithNibName:@"ANLCSecondViewController_iPhone" bundle:nil];
-	} else {
-	    viewController1 = [[ANLCFirstViewController alloc] initWithNibName:@"ANLCFirstViewController_iPad" bundle:nil];
-	    viewController2 = [[ANLCSecondViewController alloc] initWithNibName:@"ANLCSecondViewController_iPad" bundle:nil];
-	}
+//	} else {
+//	    viewController1 = [[ANLCPhrasesController alloc] initWithNibName:@"ANLCFirstViewController_iPad" bundle:nil];
+//	    viewController2 = [[ANLCSecondViewController alloc] initWithNibName:@"ANLCSecondViewController_iPad" bundle:nil];
+//	}
 	self.tabBarController = [[UITabBarController alloc] init];
 	self.tabBarController.viewControllers = @[viewController1, viewController2];
 	self.window.rootViewController = self.tabBarController;

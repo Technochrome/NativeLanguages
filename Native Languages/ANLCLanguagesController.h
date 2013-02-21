@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ANLCFirstViewController : UIViewController
-
+@interface ANLCLanguagesController : UITableViewController {
+	NSArray *categories;
+	NSMutableDictionary * languages;
+}
 @end
