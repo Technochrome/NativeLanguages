@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>english</key>
+		<string>What shall we do? / Let's go to the basketball game. / Let's go fishing.</string>
+		<key>native</key>
+		<string>Suniaqpisa? // Aqsriqityaqtaunukta. / Niksigiaqta.</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>english</key>
+		<string>Where are you coming from? / From the school. / From my house. / From the airport.</string>
+		<key>native</key>
+		<string>Nakikŋaqpich? / Aglagviŋmiñ. / Tupimniñ. / Mirviŋmiñ.</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>english</key>
+		<string>When did you come? / I came last night. / This morning.</string>
+		<key>native</key>
+		<string>Qaŋa aglaan aggiqpich? / Unnuaq aggiqsuaŋa. / Uvlaaq.</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>english</key>
+		<string>How long will you be here? / One week. / All winter. / One month.</string>
+		<key>native</key>
+		<string>Qanutun maaniinniaqpich? / Week-saami. / Ukiupak. / Tatqimi.</string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>english</key>
+		<string>What are you going to do here? / I'm going to work. / I'm going to study.</string>
+		<key>native</key>
+		<string>Suniaqpich maani? / Savaŋniaqtuŋa. / Iḷisaġniaqtuŋa.</string>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>english</key>
+		<string>When are you going home? / Tomorrow. / Day after tomorrow.  / In a few days.</string>
+		<key>native</key>
+		<string>Qakugun aiñiaqpich? / Uvlaakun. / Uvlaakutqigun. / Ikpaksraaġun.</string>
+	</dict>
+	<key>15</key>
+	<dict>
+		<key>english</key>
+		<string>Who are your parents? / Qapuk and Aŋutvak.</string>
+		<key>native</key>
+		<string>Kisuŋnik aŋayuqaaqaqpich? / Qapuglu, Aŋutvaglu.</string>
+	</dict>
+	<key>16</key>
+	<dict>
+		<key>english</key>
+		<string>Do you have any children? / Yes, two. / Three. / Four. / Five.</string>
+		<key>native</key>
+		<string>Qitunġaqaqpiich? / Ii, malġuŋnik. / Piŋasunik. / Sisamanik. / Tallimanik.</string>
+	</dict>
+	<key>17</key>
+	<dict>
+		<key>english</key>
+		<string>Whose is this? / This is mine. / This is Aqi's. / This is yours.</string>
+		<key>native</key>
+		<string>Kia una pia? / Una pigigiga. / Una pigigaa Aqim. / Una pigigiñ.</string>
+	</dict>
+	<key>18</key>
+	<dict>
+		<key>english</key>
+		<string>Whose are these? / These are mine. / These are Aqi's. / These are yours.</string>
+		<key>native</key>
+		<string>Kia ukua piŋi? / Ukua pigigitka. / Ukua pigigai Aqim. / Ukua pigigitin.</string>
+	</dict>
+	<key>19</key>
+	<dict>
+		<key>english</key>
+		<string>Who is your mother? / My mother is Qapuk. / Qapuk is my mother.</string>
+		<key>native</key>
+		<string>Kiña aakan? / Aakaga Qapuk. / Qapuk aakagigiga.</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>english</key>
+		<string>What are you going to do? / What do you want to do? / I want to go to the basketball game. / I want to go fishing.</string>
+		<key>native</key>
+		<string>Suniaqpich? / Susukpich? / Aqsriqityaqtaunuguktuŋa. / Niksigiaġuktuŋa.</string>
+	</dict>
+	<key>20</key>
+	<dict>
+		<key>english</key>
+		<string>Who is your father? / My father is Niksik. / Niksik is my father.</string>
+		<key>native</key>
+		<string>Kiña aapan? / Aapaga Niksik. / Niksik aapagigiga.</string>
+	</dict>
+	<key>21</key>
+	<dict>
+		<key>english</key>
+		<string>Is your grandmother (grandfather) still living? / Yes, he/she is alive but has gotten old.</string>
+		<key>native</key>
+		<string>Aanan (ataatan) iñuuva suli? / Ii, iñuuruq aglaan utuqqaġuqtuq.</string>
+	</dict>
+	<key>22</key>
+	<dict>
+		<key>english</key>
+		<string>Where do you work? / I work at the school. / At the hospital.</string>
+		<key>native</key>
+		<string>Nani savakpich? / Savaktuŋa aglagviŋmi. / Naŋirviŋmi.</string>
+	</dict>
+	<key>23</key>
+	<dict>
+		<key>english</key>
+		<string>When are you leaving? / I leave tomorrow. / On Wednesday.</string>
+		<key>native</key>
+		<string>Qakugun aullaġniaqpich? / Uvlaakun aullaġniaqtuŋa. / Wednesday-mi.</string>
+	</dict>
+	<key>24</key>
+	<dict>
+		<key>english</key>
+		<string>Will you(1) come back some time? / Yes, I'll come back next summer. / Next fall.</string>
+		<key>native</key>
+		<string>Utiġniaqpich iḷaatni? / Ii, upinġaaqpan utiġniaqtuŋa. / Ukiaġun.</string>
+	</dict>
+	<key>25</key>
+	<dict>
+		<key>english</key>
+		<string>Do you eat Native food? / Yes, I like to eat maktak. / But I don't like fermented whale meat.</string>
+		<key>native</key>
+		<string>Niqipiaqtuġuuvich? / Ii, maktaktuġuuruŋa. / Aglaan mikigaqtulaitchuŋa.</string>
+	</dict>
+	<key>26</key>
+	<dict>
+		<key>english</key>
+		<string>How much does that cost? / It costs a dollar. / It costs a quarter.</string>
+		<key>native</key>
+		<string>Qanutuqpa taamna? /Tamałhutuqtuq. / Qupitchuŋaqtuqtuq.</string>
+	</dict>
+	<key>27</key>
+	<dict>
+		<key>english</key>
+		<string>Do you understand me? / Yes, when you speak slowly. / No, I don't understand you.</string>
+		<key>native</key>
+		<string>Kaŋiqsiviŋa? / Ii, sukaiḷuuraqavich. / Naagga, kaŋiqsiŋitkikpiñ.</string>
+	</dict>
+	<key>28</key>
+	<dict>
+		<key>english</key>
+		<string>Do you like this? / Yes, I like it. / No, I don't like it.</string>
+		<key>native</key>
+		<string>Nakuaġiviuŋ una? / Ii, nakuaġigiga. / Naagga, nakuaġiŋitkiga.</string>
+	</dict>
+	<key>29</key>
+	<dict>
+		<key>english</key>
+		<string>May I go with you? / Go ahead.</string>
+		<key>native</key>
+		<string>Maliglakpiiñ? / Kiikaa.</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>english</key>
+		<string>What are you doing? / I'm making Eskimo ice cream. / I'm reading. / I'm sewing. / I'm washing dishes.</string>
+		<key>native</key>
+		<string>Suvich? / Akutchiruŋa. / Agliqiruŋa. / Killaiyaqtuŋa.  / Puggutchiqiruŋa.</string>
+	</dict>
+	<key>30</key>
+	<dict>
+		<key>english</key>
+		<string>How should I do it? / Like this. / Like that.</string>
+		<key>native</key>
+		<string>Qanuġluŋa? / Itna. / Taatna.</string>
+	</dict>
+	<key>31</key>
+	<dict>
+		<key>english</key>
+		<string>Who is this? / Niksik. / My father.</string>
+		<key>native</key>
+		<string>Kiña una? / Niksik. / Aapaga.</string>
+	</dict>
+	<key>32</key>
+	<dict>
+		<key>english</key>
+		<string>What kind of hot drink do you want? / Coffee. / Tea.</string>
+		<key>native</key>
+		<string>Sumik yuuqqaġukpich? / Kuukpiamik. / Saigumik.</string>
+	</dict>
+	<key>33</key>
+	<dict>
+		<key>english</key>
+		<string>What is this in Iñupiaq? / A chair.</string>
+		<key>native</key>
+		<string>Suna una Iñupiatun? / Aquppiutaq.</string>
+	</dict>
+	<key>34</key>
+	<dict>
+		<key>english</key>
+		<string>What is this in English?</string>
+		<key>native</key>
+		<string>Suna una Naluaġmiutun?</string>
+	</dict>
+	<key>35</key>
+	<dict>
+		<key>english</key>
+		<string>"How do you say ""wolverine"" in Iñupiaq? / We say, ""qapvik."""</string>
+		<key>native</key>
+		<string>"Qanuq taiñaqpa ""wolverine"" Iñupiatun? / Taisuugikput ""qapvik."""</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>english</key>
+		<string>What shall we eat? / Muktuk /  Dried fish or meat. / Frozen fish or meat. / Fish.</string>
+		<key>native</key>
+		<string>Sumik niġiñiaqpisa? / Maktaŋmik. / Paniqtamik. / Quamik.  / Iqaluŋmik.</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>english</key>
+		<string>What do you want to eat? / Bread. / Berries. / Eskimo ice cream. / Pilot bread.</string>
+		<key>native</key>
+		<string>Sumik niġisukpich? / Qaqqiamik. / Asianik. / Akutumik. / Qaqqulaamik.</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>english</key>
+		<string>What do you want? / A knñe. / A parka. / An ulu. / A pencil or pen.</string>
+		<key>native</key>
+		<string>Sumik pisukpich? / Saviŋmik. / Atigimik. / Ulumik. / Aglautmik.</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>english</key>
+		<string>Where are you going? / To the store. / To the school. / To the meeting.</string>
+		<key>native</key>
+		<string>Napmuŋniaqpich? / Tauqsiġñiaġviŋmun. / Aglagviŋmun. / Katimmaviŋmun.</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>english</key>
+		<string>Where are you staying? / At the hotel. / At the school. / With Pakik and family.</string>
+		<key>native</key>
+		<string>Nani itpich? / Nullaġviŋmi. / Aglagviŋmi. / Pakitkukni.</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>english</key>
+		<string>Where are you from? / I'm from Noatak. / I'm from Kotzebue. / I'm from Barrow. / I'm from Nome.</string>
+		<key>native</key>
+		<string>Sumiuŋuvich? / Nuataaġmiuŋuruŋa. / Qikiqtaġruŋmiuŋuruŋa. / Utqiaġviŋmiuŋuruŋa. / Sitŋasuaġmiuŋuruŋa.</string>
+	</dict>
+</dict>
+</plist>

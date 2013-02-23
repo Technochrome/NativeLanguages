@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>english</key>
+		<string>When will you travel to Shungnak?</string>
+		<key>native</key>
+		<string>Qakugun aullaġniaqpich Isiŋnamun?</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>english</key>
+		<string>My cross-cousin and family live in Noorvik.</string>
+		<key>native</key>
+		<string>Iḷḷutkut Nuurviŋmiittut.</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>english</key>
+		<string>How far is it from Kotzebue?</string>
+		<key>native</key>
+		<string>Qanutun uŋasiksilaaqaqpa Qikiqtaġruŋmiñ?</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>english</key>
+		<string>It's thirty minutes by airplane or three hours by snowmachine.</string>
+		<key>native</key>
+		<string>Thirty minutes tiŋmiñaqtuq, aasii aputikuaġutikun piŋasut sassaġniġmi.</string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>english</key>
+		<string>Are there lots of fish in Noorvik in the Kobuk River?</string>
+		<key>native</key>
+		<string>Aqaluuva Nuurviŋmi, Kuuvaum Kuuŋani?</string>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>english</key>
+		<string>Yes, there are trout, sheefish, salmon, and northern pike.</string>
+		<key>native</key>
+		<string>Ii, aqalukpiqaqtuq, siiñiglu, aqalugruaniglu, siulirjniglu.</string>
+	</dict>
+	<key>15</key>
+	<dict>
+		<key>english</key>
+		<string>Noorvik is on a bluff on the banks of the Kobuk.</string>
+		<key>native</key>
+		<string>Nuurvik ikpiŋmiittuq, Kuuvaum siñaaniittuq.</string>
+	</dict>
+	<key>16</key>
+	<dict>
+		<key>english</key>
+		<string>Is there another village close to Noorvik?</string>
+		<key>native</key>
+		<string>Atlamik nunaaqqiqaqpa Nuurvium qaniŋani?</string>
+	</dict>
+	<key>17</key>
+	<dict>
+		<key>english</key>
+		<string>Yes, Kiana isn't far. It's on the Kobuk too.</string>
+		<key>native</key>
+		<string>Ii, Katyaaq uŋasiŋitchuq. Kuuvuŋmiitmiuq.</string>
+	</dict>
+	<key>18</key>
+	<dict>
+		<key>english</key>
+		<string>How long will you be gone?</string>
+		<key>native</key>
+		<string>Qanutun piiññiaqpich?</string>
+	</dict>
+	<key>19</key>
+	<dict>
+		<key>english</key>
+		<string>One week.</string>
+		<key>native</key>
+		<string>Week-saami.</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>english</key>
+		<string>I'm leaving tomorrow.</string>
+		<key>native</key>
+		<string>Uvlaakun aullaġniaqtuŋa.</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>english</key>
+		<string>I won't be going to Shungnak. I'll go to Noorvik.</string>
+		<key>native</key>
+		<string>Isiŋnaġniaŋnitchuŋa, Nuurviŋñiaqtuŋa.</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>english</key>
+		<string>What will you do in Noorvik?</string>
+		<key>native</key>
+		<string>Suniaqpich Nuurviŋmi?</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>english</key>
+		<string>I'll go to a meeting.</string>
+		<key>native</key>
+		<string>Katimmatyiaġniaqtuŋa.</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>english</key>
+		<string>Is your wife/husband going too?</string>
+		<key>native</key>
+		<string>Nulian/Uiñ aullaġniaqmivaa?</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>english</key>
+		<string>No, she/he is staying home with the children.</string>
+		<key>native</key>
+		<string>Naagga, paggitriñiaqtuq iḷiḷgaanik.</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>english</key>
+		<string>Do you have friends in Noorvik?</string>
+		<key>native</key>
+		<string>Iḷannaqaqpich Nuurviŋmi?</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>english</key>
+		<string>I have relatives in Noorvik.</string>
+		<key>native</key>
+		<string>Iḷaqaqtuŋa Nuurviŋmi.</string>
+	</dict>
+</dict>
+</plist>

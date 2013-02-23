@@ -7,25 +7,39 @@
 //
 
 #import "ANLCPhraseCategoriesController.h"
+#import "ANLCPhrasesController.h"
 
 @implementation ANLCPhraseCategoriesController
 
--(id) initWithPhrases: (NSArray*) p {
+-(id) initWithCategories: (NSDictionary*) c {
 	if((self = [super init])) {
-		phrases = p;
+		NSArray * unsortedCategories = [c allKeys];
+		tableData = [unsortedCategories sortedArrayUsingComparator:^NSComparisonResult(id obj1, id obj2) {
+			return [c[obj1] compare: c[obj2]];
+		}];
+		categories = c;
 	}
 	return self;
 }
 
 -(NSInteger) tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-	return [phrases count];
+	return [tableData count];
 }
 -(UITableViewCell*) tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
 	UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"UITableViewCell"];
 	if(!cell)
 		cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"UITableViewCell"];
 	
-	[[cell textLabel] setText:phrases[indexPath.row]];
+	[[cell textLabel] setText:tableData[indexPath.row]];
 	return cell;
+}
+-(void) tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+	NSURL *url = [[NSBundle mainBundle] URLForResource:[NSString stringWithFormat:@"%@/%@" , self.title, categories[tableData[indexPath.row]]]
+										 withExtension:@".plist"
+										  subdirectory:@"LanguageFiles"];
+	
+	ANLCPhrasesController *cntrl = [[ANLCPhrasesController alloc] initWithPhrases:[NSDictionary dictionaryWithContentsOfURL:url]];
+	cntrl.title = tableData[indexPath.row];
+	[self.navigationController pushViewController:cntrl animated:YES];
 }
 @end

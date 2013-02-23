@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>english</key>
+		<string>one // I have one older sister.</string>
+		<key>native</key>
+		<string>atausiq // Atautchimik aatauraqaqtuŋa.</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>english</key>
+		<string>ten // Ten women sang on Sunday.</string>
+		<key>native</key>
+		<string>qulit // Qulit aġnat atuġuurut Savaiḷiġmi.</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>english</key>
+		<string>eleven // The man caught eleven fish.</string>
+		<key>native</key>
+		<string>qulit atausiq // Qulit atautchimik iqaluktuq aŋun.</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>english</key>
+		<string>twelve // Twelve dogs are pulling a sled.</string>
+		<key>native</key>
+		<string>qulit malġuk // Qulit malġuk qipmich qimuktut.</string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>english</key>
+		<string>thirteen // Father caught thirteen muskrats.</string>
+		<key>native</key>
+		<string>qulit piŋasut // Qulit piŋasunik kigvaluktuq aapa.</string>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>english</key>
+		<string>fourteen // I have fourteen students in my class.</string>
+		<key>native</key>
+		<string>akimiaġutaiḷaq // Akimiaqġutaiḷanik aglaktuaqaqtuŋa class-amni.</string>
+	</dict>
+	<key>15</key>
+	<dict>
+		<key>english</key>
+		<string>fifteen // I found fifteen wild eggs.</string>
+		<key>native</key>
+		<string>akimiaq // Pikuuttuŋa akimianik.</string>
+	</dict>
+	<key>16</key>
+	<dict>
+		<key>english</key>
+		<string>sixteen // My daughter turned sixteen years old.</string>
+		<key>native</key>
+		<string>akimiaq atausiq // Paniga akimiaq atausimik ukiuniktuq.</string>
+	</dict>
+	<key>17</key>
+	<dict>
+		<key>english</key>
+		<string>seventeen // Seventeen people are going to Barrow.</string>
+		<key>native</key>
+		<string>akimiaq malġuk // Akimiaq malġuk iñuich.</string>
+	</dict>
+	<key>18</key>
+	<dict>
+		<key>english</key>
+		<string>eighteen // How many caribou are there? Eighteen.</string>
+		<key>native</key>
+		<string>akimiaq piŋasut // Qavsiuvat tuttut? Akimiaq piŋasut.</string>
+	</dict>
+	<key>19</key>
+	<dict>
+		<key>english</key>
+		<string>nineteen // My shoes(2) cost nineteen dollars.</string>
+		<key>native</key>
+		<string>iñuiññaġutaiḷaq // Sappakiika iñuiññaġutaiḷaqtuqtuk.</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>english</key>
+		<string>two // I have two younger siblings.</string>
+		<key>native</key>
+		<string>malġuk // Malġuŋnik nukatchiaqaquŋa.</string>
+	</dict>
+	<key>20</key>
+	<dict>
+		<key>english</key>
+		<string>twenty // We have twenty fingers and toes.</string>
+		<key>native</key>
+		<string>iñuiññaq // Iñuiññanik iñugauraqaqtugut.</string>
+	</dict>
+	<key>21</key>
+	<dict>
+		<key>english</key>
+		<string>twenty-one // I paid him twenty-one dollars.</string>
+		<key>native</key>
+		<string>iñuiññaq atausiq // Akiḷiġiga iñuiññaq atausimik.</string>
+	</dict>
+	<key>22</key>
+	<dict>
+		<key>english</key>
+		<string>thirty // A month has thirty days.</string>
+		<key>native</key>
+		<string>iñuiññaq qulit / Tatqiq iñuiññaq qulinik uvluqaqtuq.</string>
+	</dict>
+	<key>23</key>
+	<dict>
+		<key>english</key>
+		<string>forty // I cried hard when I turned forty.</string>
+		<key>native</key>
+		<string>malġukipiaq // Qiaqpaktuŋa malġukipiamik ukiunikama.</string>
+	</dict>
+	<key>24</key>
+	<dict>
+		<key>english</key>
+		<string>sixty // Are you sixty years old?</string>
+		<key>native</key>
+		<string>piŋasukipiaq // Piŋasukipiaġuqpiich?</string>
+	</dict>
+	<key>25</key>
+	<dict>
+		<key>english</key>
+		<string>one hundred // One hundred people arrived by airplane.</string>
+		<key>native</key>
+		<string>tallimakipiaq // Tallimakipiat iñuich tiŋmisuutikun tikitchut.</string>
+	</dict>
+	<key>26</key>
+	<dict>
+		<key>english</key>
+		<string>thousand // More than a thousand people live in Kotzebue.</string>
+		<key>native</key>
+		<string>kavluutit // Kavluutit sipitlugich iñuqaqtuq Qikiqtaġruŋmi.</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>english</key>
+		<string>three // I have three children.</string>
+		<key>native</key>
+		<string>piŋasut // Piŋasunik qitunġaqaqtuŋa.</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>english</key>
+		<string>four // We(2) have four daughters.</string>
+		<key>native</key>
+		<string>sisamat // Sisamanik paniqaqtuguk.</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>english</key>
+		<string>five // I have five sons.</string>
+		<key>native</key>
+		<string>tallimat // Tallimanik iġñiqaqtuŋa.</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>english</key>
+		<string>six // We(2) have six grandchildren.</string>
+		<key>native</key>
+		<string>itchaksrat // Itchaksranik tutitchiaqaqtuguk.</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>english</key>
+		<string>seven // We have seven dogs.</string>
+		<key>native</key>
+		<string>tallimat malġuk // Tallimat malġuŋnik qipmiqaqtugut.</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>english</key>
+		<string>eight // Give me eight of them.</string>
+		<key>native</key>
+		<string>tallimat piŋasut // Tallimat piŋasut qaitki.</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>english</key>
+		<string>nine // Nine people came.</string>
+		<key>native</key>
+		<string>quiliŋuġutaiḷaq // Quliŋutġutaiḷat iñuich aggiqsut.</string>
+	</dict>
+</dict>
+</plist>

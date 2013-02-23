@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>english</key>
+		<string>Yes</string>
+		<key>native</key>
+		<string>Ii</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>english</key>
+		<string>I don't want to.</string>
+		<key>native</key>
+		<string>Pisuŋitchuŋa.</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>english</key>
+		<string>May I come in.</string>
+		<key>native</key>
+		<string>Isiġlaŋa.</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>english</key>
+		<string>Excuse me. I didn't mean to.</string>
+		<key>native</key>
+		<string>Pisaŋŋitkikpiñ.</string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>english</key>
+		<string>Here! Take it!</string>
+		<key>native</key>
+		<string>Uvva.</string>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>english</key>
+		<string>Where? Where is it?</string>
+		<key>native</key>
+		<string>Naami?</string>
+	</dict>
+	<key>15</key>
+	<dict>
+		<key>english</key>
+		<string>Thank you.</string>
+		<key>native</key>
+		<string>Taikuu. // Quyaanna.</string>
+	</dict>
+	<key>16</key>
+	<dict>
+		<key>english</key>
+		<string>Go ahead!</string>
+		<key>native</key>
+		<string>Ki.</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>english</key>
+		<string>No</string>
+		<key>native</key>
+		<string>Naagga</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>english</key>
+		<string>More, again</string>
+		<key>native</key>
+		<string>Suli</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>english</key>
+		<string>Enough. That's all!</string>
+		<key>native</key>
+		<string>Tavra</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>english</key>
+		<string>It's good.</string>
+		<key>native</key>
+		<string>Nakuuruq.</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>english</key>
+		<string>What's up? What's the matter? [lit., What is he/she/it doing?]</string>
+		<key>native</key>
+		<string>Suva?</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>english</key>
+		<string>Where are you from?</string>
+		<key>native</key>
+		<string>Sumiŋuvich?</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>english</key>
+		<string>Who are you? What is your name?</string>
+		<key>native</key>
+		<string>Kiña ilvich? // Kisuuvich?</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>english</key>
+		<string>I want to.</string>
+		<key>native</key>
+		<string>Pisuktuŋa.</string>
+	</dict>
+</dict>
+</plist>

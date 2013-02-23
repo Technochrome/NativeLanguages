@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>english</key>
+		<string>Are you hungry? // I'm hungry. / I'm not hungry.</string>
+		<key>native</key>
+		<string>Kaakpiich? // Kaaliqsuŋa. / Kaaŋitchuŋa.</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>english</key>
+		<string>Are you hot? // I'm hot. / I'm not hot.</string>
+		<key>native</key>
+		<string>Uunniqiviich? // Uunniqiruŋa. / Uunniqiŋitchuŋa.</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>english</key>
+		<string>Do you have a stomachache? // I have a stomachache. / I don't have a stomachache.</string>
+		<key>native</key>
+		<string>Narraanŋuviich? // Narraanŋuruŋa. / Narraanŋuŋitchuŋa.</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>english</key>
+		<string>Are you lonely? // I'm lonely. / I'm not lonely.</string>
+		<key>native</key>
+		<string>Alianniuqpiich? // Alianniuqtuŋa. / Alianniuŋitchuŋa.</string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>english</key>
+		<string>Are you happy? // I'm happy. / I'm not happy.</string>
+		<key>native</key>
+		<string>Quviasukpiich? // Quviasuktuŋa. / Quviasuŋitchuŋa.</string>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>english</key>
+		<string>Are you homesick? // I'm homesick. / I'm not homesick.</string>
+		<key>native</key>
+		<string>Aisuliqpiich? // Aisuliqsuŋa. / Aisuliŋitchuŋa.</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>english</key>
+		<string>Do you want to eat? // I want to eat. / I don't want to eat.</string>
+		<key>native</key>
+		<string>Niġisuliqpiich? // Niġisuliqsuŋa. / Niġisuŋitchuŋa.</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>english</key>
+		<string>Are you sleepy? // I'm sleepy. / I'm not sleepy.</string>
+		<key>native</key>
+		<string>Uiñġaliqpiich? // Uiñġaliqsŋa. / Uiñġaŋitchuŋa.</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>english</key>
+		<string>Are you tired? // I'm tired. / I'm not tired.</string>
+		<key>native</key>
+		<string>Minġuqpiich? // Minġuqtuŋa. / Minġuŋitchuŋa.</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>english</key>
+		<string>Are you sick?  // I'm sick. / I'm not sick.</string>
+		<key>native</key>
+		<string>Atniġñaqpiich? // Atniġñaqtuŋa. / Atniġñaŋitchuŋa.</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>english</key>
+		<string>Do you have a headache? // I have a headache. / I don't have a headache.</string>
+		<key>native</key>
+		<string>Niaqunŋuviich? // Niaqunŋuruŋa. / Niaqunŋuŋitchuŋa.</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>english</key>
+		<string>Do you want a hot drink? // I want a hot drink. / I don't want a hot drink.</string>
+		<key>native</key>
+		<string>Yuuqqaġukpiich? // Yuuqqaġuktuŋa. / Yuuqqaġuŋitchuŋa.</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>english</key>
+		<string>Are you cold? // I'm cold. / I'm not cold.</string>
+		<key>native</key>
+		<string>Qiunŋuviich? // Qiunŋuruŋa. / Qiunŋuŋnitchuŋa.</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>english</key>
+		<string>Are your feet cold? // My feet are cold. / My feet are not cold.</string>
+		<key>native</key>
+		<string>Isigaiyaqpatiin? // Isigaiyaġaaŋa./ Isigaiyaŋitkaaŋa.</string>
+	</dict>
+</dict>
+</plist>

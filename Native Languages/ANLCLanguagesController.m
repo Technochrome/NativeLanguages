@@ -19,7 +19,9 @@
 		self.tabBarItem.image = [UIImage imageNamed:@"first"];
 		[self.navigationController setNavigationBarHidden:NO animated:YES];
 		
-		languages = [[NSMutableDictionary alloc] initWithContentsOfURL:[[NSBundle mainBundle] URLForResource:@"Languages" withExtension:@"plist"]];
+		NSURL *langURL = [[NSBundle mainBundle] URLForResource:@"languages" withExtension:@"plist" subdirectory:@"LanguageFiles"];
+		languages = [[NSMutableDictionary alloc] initWithContentsOfURL:langURL];
+//		languages = [[NSMutableDictionary alloc] initWithContentsOfURL:[[NSBundle mainBundle] URLForResource:@"Languages" withExtension:@"plist"]];
 		categories = [languages allKeys];
     }
     return self;
@@ -37,7 +39,9 @@
 	return cell;
 }
 -(void) tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-	ANLCPhraseCategoriesController * cntrl = [[ANLCPhraseCategoriesController alloc] initWithPhrases:@[@"test", @"test2"]];
+	ANLCPhraseCategoriesController * cntrl = [[ANLCPhraseCategoriesController alloc]
+											  initWithCategories:languages[categories[indexPath.row]]];
+	cntrl.title = categories[indexPath.row];
 	[self.navigationController pushViewController:cntrl animated:YES];
 }
 

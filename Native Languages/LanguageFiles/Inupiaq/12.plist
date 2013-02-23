@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>english</key>
+		<string>Where are you from?</string>
+		<key>native</key>
+		<string>Sumiuŋuvich?</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>english</key>
+		<string>Where do you want to go eat?</string>
+		<key>native</key>
+		<string>Napmun niġiyaqtuaġukpich?</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>english</key>
+		<string>Let's(2) go to the Nullaġvik Hotel.</string>
+		<key>native</key>
+		<string>Nullaġviŋmugluk.</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>english</key>
+		<string>Do you want to come to my house? I have some fish.</string>
+		<key>native</key>
+		<string>Uvamnugukpich? Iqaluutiqaqtuŋa.</string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>english</key>
+		<string>I like fish. What kind are they?</string>
+		<key>native</key>
+		<string>Iqaluktutlaturuŋa. Qanusiuvat?</string>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>english</key>
+		<string>trout / sheefish / small whitefish / chum salmon</string>
+		<key>native</key>
+		<string>iqalukpik / sii / anigaaqtaq / iqalugruaq</string>
+	</dict>
+	<key>15</key>
+	<dict>
+		<key>english</key>
+		<string>That's fine, thank you very much.</string>
+		<key>native</key>
+		<string>Aarigaa, taikuu.</string>
+	</dict>
+	<key>16</key>
+	<dict>
+		<key>english</key>
+		<string>Do you want to spend the night at our house?</string>
+		<key>native</key>
+		<string>Siñiktaġiaġukpich uvaptiknun?</string>
+	</dict>
+	<key>17</key>
+	<dict>
+		<key>english</key>
+		<string>I won't be here. I have to leave this evening.</string>
+		<key>native</key>
+		<string>Maaniinniaŋitchuŋa. Aullaqtuksrauruŋa anaqapak.</string>
+	</dict>
+	<key>18</key>
+	<dict>
+		<key>english</key>
+		<string>When you come back, please stay here.</string>
+		<key>native</key>
+		<string>Utiġuvich, maaniitchurnautin.</string>
+	</dict>
+	<key>19</key>
+	<dict>
+		<key>english</key>
+		<string>I'll be back for the quarterly meeting in March.</string>
+		<key>native</key>
+		<string>Utiġniaqtuŋa quarterly-meetiqpata March-mi.</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>english</key>
+		<string>I'm from California.</string>
+		<key>native</key>
+		<string>California-ġmiuŋuruŋa.</string>
+	</dict>
+	<key>20</key>
+	<dict>
+		<key>english</key>
+		<string>It's time to go. Thank you for letting me eat.</string>
+		<key>native</key>
+		<string>Aullaġnaqsigaa. Taikuu niġipkaġluġikma.</string>
+	</dict>
+	<key>21</key>
+	<dict>
+		<key>english</key>
+		<string>I'll see you again sometime.</string>
+		<key>native</key>
+		<string>Qiñiġisigikpiñ iḷaatni.</string>
+	</dict>
+	<key>22</key>
+	<dict>
+		<key>english</key>
+		<string>Tell your wife I say hello.</string>
+		<key>native</key>
+		<string>Nulianguuq halauġiga.</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>english</key>
+		<string>Where do you live now?</string>
+		<key>native</key>
+		<string>Naniitpich pakmapak?</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>english</key>
+		<string>Now I live in Kotzebue.</string>
+		<key>native</key>
+		<string>Pakmapak Qikiqtaġruŋmiittuŋa.</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>english</key>
+		<string>What is your job in Kotzebue?</string>
+		<key>native</key>
+		<string>Qanusimik savaaqaqpich Qikiqtaġruŋmi?</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>english</key>
+		<string>I teach at the school. / I'm a doctor at the hospital.</string>
+		<key>native</key>
+		<string>Iḷisautriruŋa aglagviŋmi. / Taaktiŋuruŋa naŋirviŋmi.</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>english</key>
+		<string>Have you eaten yet?</string>
+		<key>native</key>
+		<string>Niġianikpiich?</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>english</key>
+		<string>I haven't eaten yet today.</string>
+		<key>native</key>
+		<string>Niġiŋaitchuŋa uvlupak.</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>english</key>
+		<string>Let's(2) go eat.</string>
+		<key>native</key>
+		<string>Niġiyaqtuaġluk.</string>
+	</dict>
+</dict>
+</plist>

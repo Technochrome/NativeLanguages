@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>english</key>
+		<string>We hardly hunt for molting ducks around here.</string>
+		<key>native</key>
+		<string>Isanniatlaiqsugut maani.</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>english</key>
+		<string>They're gone. They are over where there's not much traffic.</string>
+		<key>native</key>
+		<string>Piiqsut, avani iñuiḷaamiittut.</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>english</key>
+		<string>Why not?</string>
+		<key>native</key>
+		<string>Suvaata?</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>english</key>
+		<string>There is too much activity.</string>
+		<key>native</key>
+		<string>Iññiqpaitḷuni.</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>english</key>
+		<string>But there are molting ducks where there are no people.</string>
+		<key>native</key>
+		<string>Aglaan samma ñluiḷaamiittut isat.</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>english</key>
+		<string>A long time ago there used to be some in Anigaaq.</string>
+		<key>native</key>
+		<string>Iŋiḷġaan isaqaġuuruaq Anigaami.</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>english</key>
+		<string>Where is Anigaaq located?</string>
+		<key>native</key>
+		<string>Sumiitpa Anigaaq?</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>english</key>
+		<string>It's past Sisualik.</string>
+		<key>native</key>
+		<string>Sisualgum avanitchiaŋaniittuq.</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>english</key>
+		<string>There used to be molting ducks there in the grass.</string>
+		<key>native</key>
+		<string>Tamaani ivigaani isaqaġuuniqsuaq.</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>english</key>
+		<string>How about now, are they gone?</string>
+		<key>native</key>
+		<string>Aasii pakma, piiqpaat?</string>
+	</dict>
+</dict>
+</plist>

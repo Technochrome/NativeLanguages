@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>english</key>
+		<string>Who are you?</string>
+		<key>native</key>
+		<string>Kisuuvich? / Kiña ilvich?</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>english</key>
+		<string>We(2) are cross-cousins [meaning that our parents are brother and sister].</string>
+		<key>native</key>
+		<string>Iḷḷuġuksuguk.</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>english</key>
+		<string>I'm Kapniaq.</string>
+		<key>native</key>
+		<string>Uvaŋa Kapniaq. / Kapniaŋuruŋa.</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>english</key>
+		<string>Where are you from?</string>
+		<key>native</key>
+		<string>Sumiuŋuvich?</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>english</key>
+		<string>I'm from Kotzebue.</string>
+		<key>native</key>
+		<string>Qikiqtaġruŋmiuŋuruŋa.</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>english</key>
+		<string>Who(2) are your parents(2)?</string>
+		<key>native</key>
+		<string>Kisuk aŋayuqaakiñ?</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>english</key>
+		<string>Aŋutvak and Qapuk are my parents(2).</string>
+		<key>native</key>
+		<string>Aŋutvaglu Qapuglu aŋayuqaaka.</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>english</key>
+		<string>Are you my relative?</string>
+		<key>native</key>
+		<string>Iḷagivigiiñ?</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>english</key>
+		<string>You're my relative!</string>
+		<key>native</key>
+		<string>Iḷagigikpiñ.</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>english</key>
+		<string>How are we(2) related?</string>
+		<key>native</key>
+		<string>Qanuq iḷagiikpiñuk?</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>english</key>
+		<string>fish // Have some fish.</string>
+		<key>native</key>
+		<string>iqaluk, aqaluk, qaluk // Iqaluktuġiñ.</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>english</key>
+		<string>seal // Seals have good hides.</string>
+		<key>native</key>
+		<string>natchiq // Natchiich amiġiksut.</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>english</key>
+		<string>bearded seal // We dry the bearded seal meat.</string>
+		<key>native</key>
+		<string>ugruk // Ugruich paniqtitchuugivut.</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>english</key>
+		<string>walrus // Walrus often wash up on the beach.</string>
+		<key>native</key>
+		<string>aiviq // Aivġich tipisuugai taġium siñaanun.</string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>english</key>
+		<string>beluga // Beluga hardly come anymore.</string>
+		<key>native</key>
+		<string>sisuaq // Sisuat aggipiatliaqsut.</string>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>english</key>
+		<string>bear // Bears are scary.</string>
+		<key>native</key>
+		<string>akłaq // Akłat iqsñlaqtut.</string>
+	</dict>
+	<key>15</key>
+	<dict>
+		<key>english</key>
+		<string>beaver // He has a beaver hat.</string>
+		<key>native</key>
+		<string>pałuqtaq // Pałuqtamik nasautiqaqtuq.</string>
+	</dict>
+	<key>16</key>
+	<dict>
+		<key>english</key>
+		<string>wolverine // Wolverine make good ruffs.</string>
+		<key>native</key>
+		<string>qapvik // Qapviich isiġvigiksut.</string>
+	</dict>
+	<key>17</key>
+	<dict>
+		<key>english</key>
+		<string>wolf // Wolves also make good ruffs.</string>
+		<key>native</key>
+		<string>amaġuq // Amaqqut isiġvigikmiut.</string>
+	</dict>
+	<key>18</key>
+	<dict>
+		<key>english</key>
+		<string>lynx // Lynx eat rabbits.</string>
+		<key>native</key>
+		<string>niutuiyiq // Niutuiyit ukalliqsuġuurut.</string>
+	</dict>
+	<key>19</key>
+	<dict>
+		<key>english</key>
+		<string>muskrat // I have a muskrat parka.</string>
+		<key>native</key>
+		<string>kigvaluk // Kigvaluŋnik atigiqaqtuŋa.</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>english</key>
+		<string>salmon // Is there any salmon around here?</string>
+		<key>native</key>
+		<string>iqalugruaq // Iqalugruaqaqpa maani?</string>
+	</dict>
+	<key>20</key>
+	<dict>
+		<key>english</key>
+		<string>ground squirrel // My dog hunts ground squirrels.</string>
+		<key>native</key>
+		<string>siksrik // Siksriŋniaguuruq qipmiġa.</string>
+	</dict>
+	<key>21</key>
+	<dict>
+		<key>english</key>
+		<string>bird, duck, goose // Birds lay their eggs around here in the springtime. ·</string>
+		<key>native</key>
+		<string>tiŋmiaq // Tiŋmiat ivasuurut maani upinġaksrami.</string>
+	</dict>
+	<key>22</key>
+	<dict>
+		<key>english</key>
+		<string>hawk // Hawks arrive the very first [of all the birds in spring].</string>
+		<key>native</key>
+		<string>qiḷġiq // Qiḷġich aggiqqaaġuurut</string>
+	</dict>
+	<key>23</key>
+	<dict>
+		<key>english</key>
+		<string>seagull // Seagulls usually arrive early [in spring].</string>
+		<key>native</key>
+		<string>nauyaq // Nauyat aggiġñaġiaġuurut.</string>
+	</dict>
+	<key>24</key>
+	<dict>
+		<key>english</key>
+		<string>raven // Ravens are black.</string>
+		<key>native</key>
+		<string>tulugaq // Tulukkat taaqtut.</string>
+	</dict>
+	<key>25</key>
+	<dict>
+		<key>english</key>
+		<string>pintail duck // Pintail ducks have bugs.</string>
+		<key>native</key>
+		<string>kurugaq // Kurukkat kumaqaqtut.</string>
+	</dict>
+	<key>26</key>
+	<dict>
+		<key>english</key>
+		<string>Arctic tern // Arctic terns are noisy.</string>
+		<key>native</key>
+		<string>mitqutaiḷaq // Mitqutaiḷat nipaturut.</string>
+	</dict>
+	<key>27</key>
+	<dict>
+		<key>english</key>
+		<string>swan // Swans have long necks.</string>
+		<key>native</key>
+		<string>qugruk // Qugruich quŋusiqpaqaqtut.</string>
+	</dict>
+	<key>28</key>
+	<dict>
+		<key>english</key>
+		<string>sandhill crane // Cranes have long legs.</string>
+		<key>native</key>
+		<string>tatirgaq // Tatirgat kanaakturut.</string>
+	</dict>
+	<key>29</key>
+	<dict>
+		<key>english</key>
+		<string>oldsquaw [long-tailed] duck // Oldsquaws are found in lakes.</string>
+		<key>native</key>
+		<string>aahaaliq // Aahaallich narvaniitchwrut.</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>english</key>
+		<string>trout // Trout make good frozen fish.</string>
+		<key>native</key>
+		<string>iqalukpik // Iqalukpiich quaġiksut.</string>
+	</dict>
+	<key>30</key>
+	<dict>
+		<key>english</key>
+		<string>black brant goose // Black brants make good soup.</string>
+		<key>native</key>
+		<string>niġliq // Niġliġich imiġauraġiksut.</string>
+	</dict>
+	<key>31</key>
+	<dict>
+		<key>english</key>
+		<string>snowy owl // Some people eat snowy owl.</string>
+		<key>native</key>
+		<string>ukpik // Ukpiktuġuurut iḷaŋich iñuich.</string>
+	</dict>
+	<key>32</key>
+	<dict>
+		<key>english</key>
+		<string>common snipe // It's good to hear the common snipe.</string>
+		<key>native</key>
+		<string>kuukukiaq // Tusaasuġnaqtut kuukukiat.</string>
+	</dict>
+	<key>33</key>
+	<dict>
+		<key>english</key>
+		<string>eagle // The giant eagles of long ago must be extinct.</string>
+		<key>native</key>
+		<string>tiŋmiaqpak // Tiŋmiaqpaich ipkua nuŋusuknaqtut.</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>english</key>
+		<string>sheefish // Sheefish are big.</string>
+		<key>native</key>
+		<string>sii // Siich aŋirut.</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>english</key>
+		<string>tomcod // In the fall they hook for tomcod through the ice.</string>
+		<key>native</key>
+		<string>uugaq // Ukiaġmi manaqtuġuurut uukkanun.</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>english</key>
+		<string>smelt // I love to eat smelt.</string>
+		<key>native</key>
+		<string>iłqhuaġniq // Iłqhuaġniqtutlaturuŋa.</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>english</key>
+		<string>herring // Herring are shiny.</string>
+		<key>native</key>
+		<string>uqsruqtuuq // Uqsruqtuut qivliqtut.</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>english</key>
+		<string>caribou // They have gone caribou hunting.</string>
+		<key>native</key>
+		<string>tuttu // Tuttuliaqtut.</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>english</key>
+		<string>moose // Moose are big.</string>
+		<key>native</key>
+		<string>tiniikaq // Tmiikat aŋirut.</string>
+	</dict>
+</dict>
+</plist>

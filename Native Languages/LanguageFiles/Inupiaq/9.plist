@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>english</key>
+		<string>What is your English name?</string>
+		<key>native</key>
+		<string>Kiña Naluaġmiutchisin?</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>english</key>
+		<string>I have a husband.</string>
+		<key>native</key>
+		<string>Uiqaqtuŋa.</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>english</key>
+		<string>Do you have a wife?</string>
+		<key>native</key>
+		<string>Nuliaqaqpiich?</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>english</key>
+		<string>I have a wife.</string>
+		<key>native</key>
+		<string>Nuliaqaqtuŋa.</string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>english</key>
+		<string>My spouse is Niġukkaq.</string>
+		<key>native</key>
+		<string>Niġukkamik tuvaaqatiqaqtuŋa.</string>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>english</key>
+		<string>Do you have children?</string>
+		<key>native</key>
+		<string>Qitunġaqaqpiich?</string>
+	</dict>
+	<key>15</key>
+	<dict>
+		<key>english</key>
+		<string>How many children do you have?</string>
+		<key>native</key>
+		<string>Qavsiñik qitunġaqaqpich?</string>
+	</dict>
+	<key>16</key>
+	<dict>
+		<key>english</key>
+		<string>I have five children, three boys and two girls.</string>
+		<key>native</key>
+		<string>Tallimanik qitunġaqaqtuuŋa, piŋasunik aŋutinik aasii malġuŋnik aġnaŋnik.</string>
+	</dict>
+	<key>17</key>
+	<dict>
+		<key>english</key>
+		<string>How old are you?</string>
+		<key>native</key>
+		<string>Qanutun ukiutilaaqaqpich? or Qanuq utuqqautilaaqaqpich?</string>
+	</dict>
+	<key>18</key>
+	<dict>
+		<key>english</key>
+		<string>I am thirty.</string>
+		<key>native</key>
+		<string>Iñuiññaq qulinik utuqqautilaaqaqtuŋa.</string>
+	</dict>
+	<key>19</key>
+	<dict>
+		<key>english</key>
+		<string>What do your children do?</string>
+		<key>native</key>
+		<string>Qitunġatin susuuvat?</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>english</key>
+		<string>My name is Larry.</string>
+		<key>native</key>
+		<string>Atiġa Larry.</string>
+	</dict>
+	<key>20</key>
+	<dict>
+		<key>english</key>
+		<string>They attend school in Kotzebue.</string>
+		<key>native</key>
+		<string>Qikiqtaġruŋmi aglaktut.</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>english</key>
+		<string>What is your Eskimo name?</string>
+		<key>native</key>
+		<string>Kiña Iñupiaqsisin?</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>english</key>
+		<string>My Eskimo name is Taġġaq [means 'shadow'].</string>
+		<key>native</key>
+		<string>Iñupiaqsisiga Taġġaq.</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>english</key>
+		<string>What is your older sister's Eskimo name?</string>
+		<key>native</key>
+		<string>Aatauran kimik Iñupiaqsisiqaqpa?</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>english</key>
+		<string>Her Eskimo name is Qaliaq.</string>
+		<key>native</key>
+		<string>Qaliamik Iñiupiaqsisiqaqtuq.</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>english</key>
+		<string>What is your younger sibling's English name?</string>
+		<key>native</key>
+		<string>Nukatchian kimik Naluaġmiutchisiqaqpa?</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>english</key>
+		<string>His name is Bill.</string>
+		<key>native</key>
+		<string>Atqa Bill.</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>english</key>
+		<string>Are you married? [lit., do you have a spouse?]</string>
+		<key>native</key>
+		<string>Tuvaaqatiqaqpiich?</string>
+	</dict>
+</dict>
+</plist>

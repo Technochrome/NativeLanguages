@@ -9,8 +9,9 @@
 #import <Foundation/Foundation.h>
 
 @interface ANLCPhraseCategoriesController : UITableViewController {
-	NSArray * phrases;
+	NSDictionary * categories;
+	NSArray * tableData;
 }
 
--(id) initWithPhrases: (NSArray*) phrases;
+-(id) initWithCategories: (NSDictionary*) categories;
 @end

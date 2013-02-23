@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>english</key>
+		<string>spring // In spring we go out to camp on the coast.</string>
+		<key>native</key>
+		<string>upinġaksraq // Upinġaksraqman atiġuurugut.</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>english</key>
+		<string>summer // In summer we fish and it's hot.</string>
+		<key>native</key>
+		<string>upinġaaq // Upinġaami iqaluŋniaġuurugut, uunaqmiuq.</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>english</key>
+		<string>autumn // In autumn we hunt caribou.</string>
+		<key>native</key>
+		<string>ukiaq // Ukiaġmi tuttuliaġuurugut.</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>english</key>
+		<string>winter // In winter it's windy and cold.</string>
+		<key>native</key>
+		<string>ukiuq // Ukiumi anuqliġuuruq, alappaaŋupmiuq.</string>
+	</dict>
+</dict>
+</plist>

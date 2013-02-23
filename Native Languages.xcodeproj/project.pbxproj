@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F0B2CE316D886A300F1ADC7 /* ANLCPhrasesController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F0B2CE216D886A300F1ADC7 /* ANLCPhrasesController.m */; };
 		2F93812A16D6A72A000AA5BF /* example_category.xml in Resources */ = {isa = PBXBuildFile; fileRef = 2F93812816D6A72A000AA5BF /* example_category.xml */; };
 		2F93812C16D6AD6A000AA5BF /* Languages.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2F93812B16D6AD6A000AA5BF /* Languages.plist */; };
 		2FA9D64116BB648100BD5252 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2FA9D64016BB648100BD5252 /* UIKit.framework */; };
@@ -28,9 +29,12 @@
 		2FA9D66E16BB648100BD5252 /* ANLCSecondViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9D66C16BB648100BD5252 /* ANLCSecondViewController_iPhone.xib */; };
 		2FA9D67116BB648100BD5252 /* ANLCSecondViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9D66F16BB648100BD5252 /* ANLCSecondViewController_iPad.xib */; };
 		2FD2D1A716D6BA31003538C8 /* ANLCPhraseCategoriesController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FD2D1A616D6BA31003538C8 /* ANLCPhraseCategoriesController.m */; };
+		2FD2D1A916D6FDFD003538C8 /* LanguageFiles in Resources */ = {isa = PBXBuildFile; fileRef = 2FD2D1A816D6FDFD003538C8 /* LanguageFiles */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2F0B2CE116D886A300F1ADC7 /* ANLCPhrasesController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANLCPhrasesController.h; sourceTree = "<group>"; };
+		2F0B2CE216D886A300F1ADC7 /* ANLCPhrasesController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ANLCPhrasesController.m; sourceTree = "<group>"; };
 		2F93812816D6A72A000AA5BF /* example_category.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = example_category.xml; sourceTree = "<group>"; };
 		2F93812B16D6AD6A000AA5BF /* Languages.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Languages.plist; sourceTree = "<group>"; };
 		2FA9D63D16BB648100BD5252 /* Native Languages.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Native Languages.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -59,6 +63,7 @@
 		2FA9D67016BB648100BD5252 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ANLCSecondViewController_iPad.xib; sourceTree = "<group>"; };
 		2FD2D1A516D6BA31003538C8 /* ANLCPhraseCategoriesController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANLCPhraseCategoriesController.h; sourceTree = "<group>"; };
 		2FD2D1A616D6BA31003538C8 /* ANLCPhraseCategoriesController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ANLCPhraseCategoriesController.m; sourceTree = "<group>"; };
+		2FD2D1A816D6FDFD003538C8 /* LanguageFiles */ = {isa = PBXFileReference; lastKnownFileType = folder; path = LanguageFiles; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +88,8 @@
 				2FA9D65916BB648100BD5252 /* ANLCLanguagesController.m */,
 				2FD2D1A516D6BA31003538C8 /* ANLCPhraseCategoriesController.h */,
 				2FD2D1A616D6BA31003538C8 /* ANLCPhraseCategoriesController.m */,
+				2F0B2CE116D886A300F1ADC7 /* ANLCPhrasesController.h */,
+				2F0B2CE216D886A300F1ADC7 /* ANLCPhrasesController.m */,
 			);
 			name = Phrases;
 			sourceTree = "<group>";
@@ -154,6 +161,7 @@
 		2FA9D64716BB648100BD5252 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2FD2D1A816D6FDFD003538C8 /* LanguageFiles */,
 				2FA9D64816BB648100BD5252 /* Native Languages-Info.plist */,
 				2FA9D64916BB648100BD5252 /* InfoPlist.strings */,
 				2FA9D64C16BB648100BD5252 /* main.m */,
@@ -230,6 +238,7 @@
 				2FA9D67116BB648100BD5252 /* ANLCSecondViewController_iPad.xib in Resources */,
 				2F93812A16D6A72A000AA5BF /* example_category.xml in Resources */,
 				2F93812C16D6AD6A000AA5BF /* Languages.plist in Resources */,
+				2FD2D1A916D6FDFD003538C8 /* LanguageFiles in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -245,6 +254,7 @@
 				2FA9D65A16BB648100BD5252 /* ANLCLanguagesController.m in Sources */,
 				2FA9D66116BB648100BD5252 /* ANLCSecondViewController.m in Sources */,
 				2FD2D1A716D6BA31003538C8 /* ANLCPhraseCategoriesController.m in Sources */,
+				2F0B2CE316D886A300F1ADC7 /* ANLCPhrasesController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

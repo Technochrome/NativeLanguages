@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>english</key>
+		<string>That man is my husband.</string>
+		<key>native</key>
+		<string>aŋun // Taamna aŋun uigigiga.</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>english</key>
+		<string>church // Is it time to go to church?</string>
+		<key>native</key>
+		<string>agaayuvik // Agaayyiaġnaqsivaa?</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>english</key>
+		<string>river  // Noatak is on a big river.</string>
+		<key>native</key>
+		<string>kuuk // Nuataaq kuukpaqaqtuq.</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>english</key>
+		<string>sea, ocean // My parents(2) are fishing at the beach (seashore).</string>
+		<key>native</key>
+		<string>taġiuq //  Aŋayuqaaka niksiksuqtuk taġium siñaani.</string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>english</key>
+		<string>airport // Can you take me to the airport?</string>
+		<key>native</key>
+		<string>mirvik // Mirviŋmuutitlaviŋaa?</string>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>english</key>
+		<string>land // The land up there has lots of berries.</string>
+		<key>native</key>
+		<string>nuna // Pamna nuna asiaŋuruq.</string>
+	</dict>
+	<key>15</key>
+	<dict>
+		<key>english</key>
+		<string>lake // The lakes up there have sourdock.</string>
+		<key>native</key>
+		<string>narvaq // Papkua narvat quaġaqaqtut.</string>
+	</dict>
+	<key>16</key>
+	<dict>
+		<key>english</key>
+		<string>mosquito // In summer there are lots of mosquitoes here.</string>
+		<key>native</key>
+		<string>kiktuġiaq // Upinġaami kiktuġiaŋuruq apai.</string>
+	</dict>
+	<key>17</key>
+	<dict>
+		<key>english</key>
+		<string>dog // The dog is unchained.</string>
+		<key>native</key>
+		<string>qipmiq // Qipmiq pituitchuq.</string>
+	</dict>
+	<key>18</key>
+	<dict>
+		<key>english</key>
+		<string>airplane // Airplanes go to Sisualik oñen.</string>
+		<key>native</key>
+		<string>tiŋmisuun // Tiŋmisuutit Sisualiŋmuguurut.</string>
+	</dict>
+	<key>19</key>
+	<dict>
+		<key>english</key>
+		<string>rifle // What kind of rifle do you have?</string>
+		<key>native</key>
+		<string>suppun // Qanusimik supputiqaqpich?</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>english</key>
+		<string>woman // Is this woman your wife? /Yes, she is my wife.</string>
+		<key>native</key>
+		<string>aġnaq // Una aġnaq nuliaġiviuŋ? / Ii, nuliaġigiga.</string>
+	</dict>
+	<key>20</key>
+	<dict>
+		<key>english</key>
+		<string>rain // Is it going to rain?</string>
+		<key>native</key>
+		<string>sialuk // Sialuguġniaqpagguuq?</string>
+	</dict>
+	<key>21</key>
+	<dict>
+		<key>english</key>
+		<string>Iñupiaq Eskimo // Do you speak Iñupiaq to your grandmother?</string>
+		<key>native</key>
+		<string>Iñupiaq // Aanaqnun Iñupiuraaġuuviich?</string>
+	</dict>
+	<key>22</key>
+	<dict>
+		<key>english</key>
+		<string>white person, English // The white person has red hair.  // The Iñiupiat people didn't speak English long ago.</string>
+		<key>native</key>
+		<string>Naluaġmiu // Naluaġmiu kaviqsaanik nuyaqaqtuq. // Iñupiat Naluaġmiuraalaitchut iŋiḷġaan.</string>
+	</dict>
+	<key>23</key>
+	<dict>
+		<key>english</key>
+		<string>husband // My husband likes to eat muktuk.</string>
+		<key>native</key>
+		<string>ui // Uiga maktaktutlaturuq.</string>
+	</dict>
+	<key>24</key>
+	<dict>
+		<key>english</key>
+		<string>wife // My wife sews a lot.</string>
+		<key>native</key>
+		<string>nuliaq // Nuliaġa killaiyaġuuruq.</string>
+	</dict>
+	<key>25</key>
+	<dict>
+		<key>english</key>
+		<string>daughter // Is your daughter in college?</string>
+		<key>native</key>
+		<string>panik // Paniiñ college-miitpaa?</string>
+	</dict>
+	<key>26</key>
+	<dict>
+		<key>english</key>
+		<string>son // Her son is a good hunter.</string>
+		<key>native</key>
+		<string>iġñiq // Iġñiŋa aŋuniaqtilluatauruq.</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>english</key>
+		<string>boat // We(2) are going to Sisualik in my boat.</string>
+		<key>native</key>
+		<string>umiaq // Sisualiŋmuŋniaqtuguk umiapkun.</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>english</key>
+		<string>house // Do you have a house in Sisualik?</string>
+		<key>native</key>
+		<string>tupiq // Tupiqaqpich Sisualiŋmi?</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>english</key>
+		<string>tent // No, I have a tent.</string>
+		<key>native</key>
+		<string>palapkaaq // Naagga, palapkaaqaqtuŋa.</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>english</key>
+		<string>school // My aunt teaches Iñupiaq at the school.</string>
+		<key>native</key>
+		<string>aglagvik // Atchaga aglagviŋmi aglaktitchiruq Iñiupiatun.</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>english</key>
+		<string>child, offspring // How many children do you(2) have?</string>
+		<key>native</key>
+		<string>qitunġaq // Qavsiñik qitunġaqaqpisik?</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>english</key>
+		<string>small child // The children are being rambunctious.</string>
+		<key>native</key>
+		<string>iḷiḷgaaq // Iḷiḷgaat alapisaaqtut.</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>english</key>
+		<string>store/ /How many stores are there in Kotzebue?</string>
+		<key>native</key>
+		<string>tauqsiġñiaġvik // Qavsiñik tauqsiġñiaġviqaqpa Qikiqtaġruŋmi?</string>
+	</dict>
+</dict>
+</plist>

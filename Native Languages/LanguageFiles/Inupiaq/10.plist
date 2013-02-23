@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>english</key>
+		<string>Where were you born?</string>
+		<key>native</key>
+		<string>Nani aniruatiin?</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>english</key>
+		<string>And where were you born?</string>
+		<key>native</key>
+		<string>Aasiiñ ilvich, nani aniruatiin?</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>english</key>
+		<string>I was born in Anchorage.</string>
+		<key>native</key>
+		<string>Anchorage-mi aniruaŋaa.</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>english</key>
+		<string>I was born in Noatak.</string>
+		<key>native</key>
+		<string>Nuataami aniruaŋa.</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>english</key>
+		<string>Where do you live?</string>
+		<key>native</key>
+		<string>Nani iñuuniaqpich?</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>english</key>
+		<string>I live in Barrow.</string>
+		<key>native</key>
+		<string>Utqiaġviŋmi iñuuniaqtuŋa.</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>english</key>
+		<string>What is your birthday?</string>
+		<key>native</key>
+		<string>Sumik anniviqaqpich?</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>english</key>
+		<string>Today is my birthday.</string>
+		<key>native</key>
+		<string>Uvlupak anniviḷitchuŋa.</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>english</key>
+		<string>Are you older than I am?</string>
+		<key>native</key>
+		<string>Utuqqautlukpich uvamniñ?</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>english</key>
+		<string>No, I am turning twenty. I'm younger than you.</string>
+		<key>native</key>
+		<string>Naagga, iñuiññaġuqtuŋa. Nutautluktuŋa ilipniñ.</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>english</key>
+		<string>I thought you were older!</string>
+		<key>native</key>
+		<string>Isiivva utuqqautluktutin.</string>
+	</dict>
+</dict>
+</plist>

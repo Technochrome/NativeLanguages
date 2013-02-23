@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>english</key>
+		<string>Hello. Come in, please. Here is a chair.</string>
+		<key>native</key>
+		<string>Hello. Isiġnaqtuq. Aquppiutaq uvva.</string>
+	</dict>
+	<key>10</key>
+	<dict>
+		<key>english</key>
+		<string>Yes, I want him to be able to comprehend his reading.</string>
+		<key>native</key>
+		<string>Ii, kaŋiqsitqugiga agliqiamiñik.</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>english</key>
+		<string>Very good. I will call or let you know when his reading improves.</string>
+		<key>native</key>
+		<string>Aarigaa, tuqłuġisigikpiñ nakuuqsitmukpan.</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>english</key>
+		<string>I have an appointment at one o'clock.</string>
+		<key>native</key>
+		<string>Appointma-qaqtuŋa one o'klaa-mi.</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>english</key>
+		<string>Today is parent-teacher day.</string>
+		<key>native</key>
+		<string>Uvlupak aŋayuqaallu, aglaktillu uvluat.</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>english</key>
+		<string>How is Bubba doing in school?</string>
+		<key>native</key>
+		<string>Qanuq sanuna Bubba aglakpa?</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>english</key>
+		<string>Very good, he likes math, but sometimes does not really like to read.</string>
+		<key>native</key>
+		<string>Nakuuruq, kisirrutit nakuaġigai, aglaan Uaatni agliqisupialaitchuq.</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>english</key>
+		<string>I read to him at home all the time.</string>
+		<key>native</key>
+		<string>Agliqqutigaluaġiga ataramik kiŋunigmi.</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>english</key>
+		<string>There are books here if you would like to bring some home.</string>
+		<key>native</key>
+		<string>Makpiġaaqaġaluaqtuq maani, aggisuutrisukkuvich.</string>
+	</dict>
+	<key>8</key>
+	<dict>
+		<key>english</key>
+		<string>That's okay, we have all kinds of books.</string>
+		<key>native</key>
+		<string>Nakuuruq, makpiġaaqaqtugut supayaanik.</string>
+	</dict>
+	<key>9</key>
+	<dict>
+		<key>english</key>
+		<string>Will you continue to read to him?</string>
+		<key>native</key>
+		<string>Agliqivsaaġutiniaqpiuŋ?</string>
+	</dict>
+</dict>
+</plist>
