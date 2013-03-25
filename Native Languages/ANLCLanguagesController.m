@@ -21,7 +21,6 @@
 		
 		NSURL *langURL = [[NSBundle mainBundle] URLForResource:@"languages" withExtension:@"plist" subdirectory:@"LanguageFiles"];
 		languages = [[NSMutableDictionary alloc] initWithContentsOfURL:langURL];
-//		languages = [[NSMutableDictionary alloc] initWithContentsOfURL:[[NSBundle mainBundle] URLForResource:@"Languages" withExtension:@"plist"]];
 		categories = [languages allKeys];
     }
     return self;

@@ -3,6 +3,7 @@
 	#include "stdio.h"
 	#include <sys/stat.h>
 	#import <Foundation/Foundation.h>
+	#include "parse.h"
 
 	NSMutableDictionary *languages,*categories,*currCategory,*currPhrase;
 
@@ -28,9 +29,11 @@
 }
 
 \t {}
-\n {}
+\n {
+	currentState = (currentState == NATIVE_CELL ? ENG_CELL : NULL_CELL);
+}
 
-[^\t\n]* {
+[^\t\n(//)]* {
 	int phraseId = 0;
 	switch(currentState) {
 		case SECTION_HEADER:
@@ -38,11 +41,9 @@
 			break;
 		case NATIVE_CELL:
 			[currPhrase setValue:[NSString stringWithCString:yytext encoding:NSUTF8StringEncoding] forKey:@"native"];
-			currentState = ENG_CELL;
 			break;
 		case ENG_CELL:
 			[currPhrase setValue:[NSString stringWithCString:yytext encoding:NSUTF8StringEncoding] forKey:@"english"];
-			currentState = NULL_CELL;
 			break;
 		default: break;
 	}

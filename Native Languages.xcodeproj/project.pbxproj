@@ -8,8 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		2F0B2CE316D886A300F1ADC7 /* ANLCPhrasesController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F0B2CE216D886A300F1ADC7 /* ANLCPhrasesController.m */; };
-		2F93812A16D6A72A000AA5BF /* example_category.xml in Resources */ = {isa = PBXBuildFile; fileRef = 2F93812816D6A72A000AA5BF /* example_category.xml */; };
-		2F93812C16D6AD6A000AA5BF /* Languages.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2F93812B16D6AD6A000AA5BF /* Languages.plist */; };
 		2FA9D64116BB648100BD5252 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2FA9D64016BB648100BD5252 /* UIKit.framework */; };
 		2FA9D64316BB648100BD5252 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2FA9D64216BB648100BD5252 /* Foundation.framework */; };
 		2FA9D64516BB648100BD5252 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2FA9D64416BB648100BD5252 /* CoreGraphics.framework */; };
@@ -35,8 +33,6 @@
 /* Begin PBXFileReference section */
 		2F0B2CE116D886A300F1ADC7 /* ANLCPhrasesController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANLCPhrasesController.h; sourceTree = "<group>"; };
 		2F0B2CE216D886A300F1ADC7 /* ANLCPhrasesController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ANLCPhrasesController.m; sourceTree = "<group>"; };
-		2F93812816D6A72A000AA5BF /* example_category.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = example_category.xml; sourceTree = "<group>"; };
-		2F93812B16D6AD6A000AA5BF /* Languages.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Languages.plist; sourceTree = "<group>"; };
 		2FA9D63D16BB648100BD5252 /* Native Languages.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Native Languages.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FA9D64016BB648100BD5252 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		2FA9D64216BB648100BD5252 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -113,8 +109,6 @@
 				2FA9D65B16BB648100BD5252 /* first.png */,
 				2FA9D65D16BB648100BD5252 /* first@2x.png */,
 				2FA9D66616BB648100BD5252 /* ANLCPhraseCategoriesController_iPhone.xib */,
-				2F93812B16D6AD6A000AA5BF /* Languages.plist */,
-				2F93812816D6A72A000AA5BF /* example_category.xml */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -236,8 +230,6 @@
 				2FA9D66816BB648100BD5252 /* ANLCPhraseCategoriesController_iPhone.xib in Resources */,
 				2FA9D66E16BB648100BD5252 /* ANLCSecondViewController_iPhone.xib in Resources */,
 				2FA9D67116BB648100BD5252 /* ANLCSecondViewController_iPad.xib in Resources */,
-				2F93812A16D6A72A000AA5BF /* example_category.xml in Resources */,
-				2F93812C16D6AD6A000AA5BF /* Languages.plist in Resources */,
 				2FD2D1A916D6FDFD003538C8 /* LanguageFiles in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
