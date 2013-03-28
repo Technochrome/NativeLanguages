@@ -1,0 +1,7341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>credits</key>
+	<string>
+Written and Recorded in the Kotzebue Dialect
+With English Translations
+
+By Lawrence Kaplan and Lorena Williams
+Alaska Native Language Center
+University of Alaska Fairbanks
+Mobile Version © 2013
+
+(FOREWORD)
+This booklet and tape are intended to provide basic useful phrases and expressions in Iñupiaq Eskimo for those interested in communicating in the language. Iñupiaq grammar is very different from that of English, and Iñupiaq words are based on stems or roots, which are usually followed by one or more suffixes (postbases) and then by an ending. Qipmiq is a noun stem meaning 'dog.' Qipmiqaqtut adds the suffix -qaq- 'have' and the ending -tut 'they plural,' so that the entire word means "they have a dog or dogs." A single Iñupiaq word may therefore correspond to an entire sentence in English. Iñupiaq words may be singular or plural, and they may also be dual, meaning that they refer to exactly two people or things. Qipmiq 'dog' is singular, qipmik 'dogs(2)' is dual, and qipmich 'dogs' is plural. A singular word in the English translation refers to a singular in Iñupiaq. A plural word in English refers to a plural in Iñupiaq, and duals are translated by an English plural followed by a parenthetical 2, as above in 'dogs(2)'. English 'you' is used for the Iñupiaq singular; 'you(2)' stands for a dual, and 'you(3+)' for a plural.
+Pronouns may be used in Iñupiaq, but they are usually omitted as in the example qipmiqaqtut above, since the ending-tut gives the subject 'they.' There is no difference between 'he' and 'she' in Iñupiaq, so a sentence that means 'he has arrived' can also mean 'she has arrived' and vice versa.
+This material uses the dialect of Kotzebue and Noatak in Northwest Alaska. The dialect of the Kobuk River villages and Selawik and Buckland is rather similar, and these phrases will be understood there also. The North Slope dialect is somewhat more different, but the phrases in this booklet can be understood there as well. Seward Peninsula Iñupiaq, spoken in Nome and surrounding areas, is quite a bit different from the Kotzebue dialect, and these phrases will be harder to use in communication there. Canadian Inuktitut and Greenlandic are also different enough from Northwest Alaskan Iñupiaq as to limit the usefulness of this booklet with those dialects.
+These lessons were inspired by the Yup'ik Phrase and Conversation Lessons by Anna and Steven Jacobson and borrow quite a lot from that work in terms of content and format.
+
+</string>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>ID</key>
+			<string>1</string>
+			<key>content</key>
+			<string>
+Iñupiaq uses many letters of the English alphabet, but the Iñupiaq letters often have sounds different from the English ones, so it is important to pay attention to the pronunciations given on the tape. Iñupiaq also has several letters not found in English, as shown below. Sometimes on computers we substitute ły for a dotted ł.
+
+Consonants:
+(1)	 p	t	ch	k	q
+(2)		ł s sr	ły	kh	qh
+(3) 	v	l r	ḷ y	g	ġ
+(4) 	m	n	ñ	ŋ	
+
+Vowels:
+short: a, i, u
+long: aa, ii, uu
+diphthongs: ai, ia, iu, ui, au, ua
+
+Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alaska: ai/ia are pronounced alike and so are au/ua. For most people, iu sounds like the long vowel ii.
+
+</string>
+			<key>title</key>
+			<string> Iñupiaq Sounds and Letters</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>2</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>Yes</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ii</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>No</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Naagga</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>More, again</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suli</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>Enough. That's all!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Tavra</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>It's good.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nakuuruq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>What's up? What's the matter? [lit., What is he/she/it doing?]</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suva?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>Where are you from?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sumiŋuvich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>Who are you? What is your name?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kiña ilvich? </string>
+						<string> Kisuuvich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>I want to.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Pisuktuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>I don't want to.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Pisuŋitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>May I come in.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Isiġlaŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>Excuse me. I didn't mean to.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Pisaŋŋitkikpiñ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>Here! Take it!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uvva.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>Where? Where is it?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Naami?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>Thank you.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Taikuu. </string>
+						<string> Quyaanna.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>Go ahead!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ki.</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Common Expressions</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>3</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>Don't do it. Leave it alone. Don't bother him/her [to one person].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Piñagu!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>So many! It's a lot!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Apai!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>Good! Really good!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aarigaa!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>I don't want to! Ouch! That hurts! That's too bad!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Arii!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>Hurry up!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qilamik!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>Too bad! What a shame! It's no good!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aḷakkaa!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>Watch out! Danger! It's scary [refers usually to physical danger].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aatchikaaŋ!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>Stop it! [expression of annoyance].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Araa!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>Good job!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Yatchii!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>Wow!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Yuay!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>Poor thing!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nakłiiŋ!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>It's foul smelling! It stinks!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aaqqaa!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>So small!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uuttukuu.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>It's very cold! I'm cold!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Alappaa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>Scary! Creepy! Danger!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Irigii!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>Wow! It's fun!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Allai! </string>
+						<string> Allais!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>It's good!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nakkuu!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>It's warm! [usually of a building or clothing].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uqquu!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>Nope!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nia'!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>20</string>
+					<key>english</key>
+					<array>
+						<string>How nasty, ugly, bad, wrong! [expression of dislike, disapproval].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iiiii!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>21</string>
+					<key>english</key>
+					<array>
+						<string>How cute!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Anaŋŋaa!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>22</string>
+					<key>english</key>
+					<array>
+						<string>This one too.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Unalu.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>23</string>
+					<key>english</key>
+					<array>
+						<string>This is no good!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanuq una!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>24</string>
+					<key>english</key>
+					<array>
+						<string>What in the world is he/she doing?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suvikpa una!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>25</string>
+					<key>english</key>
+					<array>
+						<string>So much! Too much!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Akkaa!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>26</string>
+					<key>english</key>
+					<array>
+						<string>It's messy, dirty!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ikkii!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>27</string>
+					<key>english</key>
+					<array>
+						<string>Be quiet!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ataa!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>28</string>
+					<key>english</key>
+					<array>
+						<string>I don't know.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Amay!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>29</string>
+					<key>english</key>
+					<array>
+						<string>Isn't that right?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Amii?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>30</string>
+					<key>english</key>
+					<array>
+						<string>What?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ay?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>31</string>
+					<key>english</key>
+					<array>
+						<string>Look! Look right here! Look over there!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ataŋii!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>32</string>
+					<key>english</key>
+					<array>
+						<string>Listen!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>A!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>33</string>
+					<key>english</key>
+					<array>
+						<string>Listen to that noise [of something unseen].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Imma!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>34</string>
+					<key>english</key>
+					<array>
+						<string>How annoying! What a pain!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uumiñaq!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>35</string>
+					<key>english</key>
+					<array>
+						<string>It's too big, too much! He/she is very big!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Apas!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>36</string>
+					<key>english</key>
+					<array>
+						<string>Serves you right!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Taikuq!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>37</string>
+					<key>english</key>
+					<array>
+						<string>Thank you very much.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Taikuullapiaq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>38</string>
+					<key>english</key>
+					<array>
+						<string>Really?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ayñ?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>39</string>
+					<key>english</key>
+					<array>
+						<string>It's been a long time.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qaŋa tai!</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>40</string>
+					<key>english</key>
+					<array>
+						<string>Almost!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ayas! </string>
+						<string> Atchas! </string>
+						<string> Atchay!</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Exclamations</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>4</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>How are you?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanuq itpich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>How are you all/you(3+)?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanuq itpisi?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>What are you doing? How are you doing?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suvich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>I'm fine.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nakuuruŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>We are fine.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nakuurugut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>How is your wife/husband? He/she is fine.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanuq itpa nulian/uiñ? Nakuuruq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>And your children, how about them? </string>
+						<string> They've been sick.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qitunġatinli? </string>
+						<string> Atniġñaqtut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>How are your relatives? </string>
+						<string> They're fine.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanuq itpat ŋatin? </string>
+						<string> Nakuurut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>Why did you come here? </string>
+						<string> For no particular reason.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Supman mauŋaqpich? </string>
+						<string> Tamaani.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>Is Nauyaq here? </string>
+						<string> She's not here.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nauyaq maaniitpa? </string>
+						<string> Maaniinŋitchuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>See you tomorrow again. </string>
+						<string> See you later.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uvlaakunlu. </string>
+						<string> Maatnugunlu.</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Greeting and Leave-Taking</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>5</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>Come in [to one person]. </string>
+						<string> Come in [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Isiġñ. </string>
+						<string> Isiġitchi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>Go out [to one person]. </string>
+						<string> Go out [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Anniñ. </string>
+						<string> Anisitchi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>Come with me [to one person]. </string>
+						<string> Come with me [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Maliŋŋa. </string>
+						<string> Maliksitŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>Help me [to one person]. </string>
+						<string> Help me [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ikayuŋŋa. </string>
+						<string> Ikayuqsitŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>Take it out [to one person]. </string>
+						<string> Take it out [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Anirruŋ. </string>
+						<string> Anitchiuŋ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>Take it, pick it up [to one person]. </string>
+						<string> Take it, pick it up [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Tigguuŋ. </string>
+						<string> Tigusiuŋ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>Give it here [to one person]. </string>
+						<string> Give them here [to one person].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qairruŋ. </string>
+						<string> Qaitkich.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>Eat [to one person]. </string>
+						<string> Eat [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niġġiiñ. </string>
+						<string> Niġisitchi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>Eat it [to one person]. </string>
+						<string> Eat it [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niġġiuŋ. </string>
+						<string> Niġisiuŋ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>Don't eat [to one person]. </string>
+						<string> Don't eat [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niġiñak. </string>
+						<string> Niġiñasi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>Drink it [to one person]. </string>
+						<string> Drink it [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Imiġuŋ. </string>
+						<string> Imiqsiuŋ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>Throw it out [to one person]. </string>
+						<string> Throw them out [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Igirruŋ. </string>
+						<string> Igitchigiŋ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>Open the door [to one person].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Taluiġuŋ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>Close the door [to one person].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Talluuŋ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>Turn on the light [to one person].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ikirruŋ [naniq].</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>Turn out the light [to one person].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qamirruŋ [naniq].</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>Get it out of the way [to one person]. </string>
+						<string> Get it out of the way [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Piiġuŋ. </string>
+						<string> Piiqsiuŋ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>Get out of the way, move [to one person]. </string>
+						<string> Get out of the way, move [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Piiġiñ. </string>
+						<string> Piiġitchi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>Take off your parka, coat [to one person]. </string>
+						<string> Take off your parka, coat [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Mattaġiñ. </string>
+						<string> Mattaġitchi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>20</string>
+					<key>english</key>
+					<array>
+						<string>Take off your boots [to one person]. </string>
+						<string> Take off your boots [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kamiḷḷaġiñ. </string>
+						<string> Kamiḷḷaġitchi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>21</string>
+					<key>english</key>
+					<array>
+						<string>Sit down [to one person]. </string>
+						<string> Sit down [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aquvittin. </string>
+						<string> Aquvittitchi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>22</string>
+					<key>english</key>
+					<array>
+						<string>Wait for me [to one person]. </string>
+						<string> Wait for me [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Utaqqiŋŋa. </string>
+						<string> Utaqqisitŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>23</string>
+					<key>english</key>
+					<array>
+						<string>Come here [to one person]. </string>
+						<string> Come here [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Mauŋaġiñ. </string>
+						<string> Mauŋaġitchi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>24</string>
+					<key>english</key>
+					<array>
+						<string>Get up [to one person]. </string>
+						<string> Get up [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Makittin. </string>
+						<string> Makittitchi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>25</string>
+					<key>english</key>
+					<array>
+						<string>Go to bed [to one person]. </string>
+						<string> Go to bed [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iŋŋaqtaaġiñ. </string>
+						<string> Iŋŋaqtaaġitchi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>26</string>
+					<key>english</key>
+					<array>
+						<string>Go away [to one person]. </string>
+						<string> Go away [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aullaġiñ. </string>
+						<string> Aullaġitchi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>27</string>
+					<key>english</key>
+					<array>
+						<string>Don't touch it [to one person]. </string>
+						<string> Don't touch it [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aksikñagu. </string>
+						<string> Aksikñasiuŋ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>28</string>
+					<key>english</key>
+					<array>
+						<string>Come again [to one person]. </string>
+						<string> Come again [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aggitqikkumautin. </string>
+						<string> Aggitqikkumausi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>29</string>
+					<key>english</key>
+					<array>
+						<string>Don't forget [to one person]. </string>
+						<string> Don't forget [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Piiguqnak. </string>
+						<string> Piiguqnasi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>30</string>
+					<key>english</key>
+					<array>
+						<string>Don't forget it [to one person]. </string>
+						<string> Don't forget it [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Piiguqnagu. </string>
+						<string> Piiguqnasiuŋ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>31</string>
+					<key>english</key>
+					<array>
+						<string>Don't do it [to one person].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Piñagu.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>32</string>
+					<key>english</key>
+					<array>
+						<string>Wake up [to one person]. </string>
+						<string> Wake up [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Itiġiñ. </string>
+						<string> ltiġitchi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>33</string>
+					<key>english</key>
+					<array>
+						<string>Move [to one person]. </string>
+						<string> Move [to many people].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nuuttin. </string>
+						<string> Nuuttitchi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>34</string>
+					<key>english</key>
+					<array>
+						<string>Please say it again [to one person].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Taitqiḷḷaguŋ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>35</string>
+					<key>english</key>
+					<array>
+						<string>Speak slowly [to one person].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sukaiḷiḷutin uqagiñ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>36</string>
+					<key>english</key>
+					<array>
+						<string>Don't get into things. Don't dig around in things.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Pakaknak. </string>
+						<string> Pakaknasi.</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Common Requests</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>6</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>What shall we do? / Let's go to the basketball game. / Let's go fishing.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suniaqpisa? </string>
+						<string> Aqsriqityaqtaunukta. / Niksigiaqta.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>What are you going to do? / What do you want to do? / I want to go to the basketball game. / I want to go fishing.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suniaqpich? / Susukpich? / Aqsriqityaqtaunuguktuŋa. / Niksigiaġuktuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>What are you doing? / I'm making Eskimo ice cream. / I'm reading. / I'm sewing. / I'm washing dishes.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suvich? / Akutchiruŋa. / Agliqiruŋa. / Killaiyaqtuŋa.  / Puggutchiqiruŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>What shall we eat? / Muktuk /  Dried fish or meat. / Frozen fish or meat. / Fish.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sumik niġiñiaqpisa? / Maktaŋmik. / Paniqtamik. / Quamik.  / Iqaluŋmik.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>What do you want to eat? / Bread. / Berries. / Eskimo ice cream. / Pilot bread.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sumik niġisukpich? / Qaqqiamik. / Asianik. / Akutumik. / Qaqqulaamik.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>What do you want? / A knñe. / A parka. / An ulu. / A pencil or pen.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sumik pisukpich? / Saviŋmik. / Atigimik. / Ulumik. / Aglautmik.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>Where are you going? / To the store. / To the school. / To the meeting.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Napmuŋniaqpich? / Tauqsiġñiaġviŋmun. / Aglagviŋmun. / Katimmaviŋmun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>Where are you staying? / At the hotel. / At the school. / With Pakik and family.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nani itpich? / Nullaġviŋmi. / Aglagviŋmi. / Pakitkukni.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>Where are you from? / I'm from Noatak. / I'm from Kotzebue. / I'm from Barrow. / I'm from Nome.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sumiuŋuvich? / Nuataaġmiuŋuruŋa. / Qikiqtaġruŋmiuŋuruŋa. / Utqiaġviŋmiuŋuruŋa. / Sitŋasuaġmiuŋuruŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>Where are you coming from? / From the school. / From my house. / From the airport.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nakikŋaqpich? / Aglagviŋmiñ. / Tupimniñ. / Mirviŋmiñ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>When did you come? / I came last night. / This morning.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qaŋa aglaan aggiqpich? / Unnuaq aggiqsuaŋa. / Uvlaaq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>How long will you be here? / One week. / All winter. / One month.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanutun maaniinniaqpich? / Week-saami. / Ukiupak. / Tatqimi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>What are you going to do here? / I'm going to work. / I'm going to study.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suniaqpich maani? / Savaŋniaqtuŋa. / Iḷisaġniaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>When are you going home? / Tomorrow. / Day after tomorrow.  / In a few days.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qakugun aiñiaqpich? / Uvlaakun. / Uvlaakutqigun. / Ikpaksraaġun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>Who are your parents? / Qapuk and Aŋutvak.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kisuŋnik aŋayuqaaqaqpich? / Qapuglu, Aŋutvaglu.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>Do you have any children? / Yes, two. / Three. / Four. / Five.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qitunġaqaqpiich? / Ii, malġuŋnik. / Piŋasunik. / Sisamanik. / Tallimanik.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>Whose is this? / This is mine. / This is Aqi's. / This is yours.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kia una pia? / Una pigigiga. / Una pigigaa Aqim. / Una pigigiñ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>Whose are these? / These are mine. / These are Aqi's. / These are yours.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kia ukua piŋi? / Ukua pigigitka. / Ukua pigigai Aqim. / Ukua pigigitin.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>Who is your mother? / My mother is Qapuk. / Qapuk is my mother.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kiña aakan? / Aakaga Qapuk. / Qapuk aakagigiga.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>20</string>
+					<key>english</key>
+					<array>
+						<string>Who is your father? / My father is Niksik. / Niksik is my father.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kiña aapan? / Aapaga Niksik. / Niksik aapagigiga.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>21</string>
+					<key>english</key>
+					<array>
+						<string>Is your grandmother (grandfather) still living? / Yes, he/she is alive but has gotten old.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aanan (ataatan) iñuuva suli? / Ii, iñuuruq aglaan utuqqaġuqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>22</string>
+					<key>english</key>
+					<array>
+						<string>Where do you work? / I work at the school. / At the hospital.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nani savakpich? / Savaktuŋa aglagviŋmi. / Naŋirviŋmi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>23</string>
+					<key>english</key>
+					<array>
+						<string>When are you leaving? / I leave tomorrow. / On Wednesday.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qakugun aullaġniaqpich? / Uvlaakun aullaġniaqtuŋa. / Wednesday-mi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>24</string>
+					<key>english</key>
+					<array>
+						<string>Will you(1) come back some time? / Yes, I'll come back next summer. / Next fall.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Utiġniaqpich iḷaatni? / Ii, upinġaaqpan utiġniaqtuŋa. / Ukiaġun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>25</string>
+					<key>english</key>
+					<array>
+						<string>Do you eat Native food? / Yes, I like to eat maktak. / But I don't like fermented whale meat.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niqipiaqtuġuuvich? / Ii, maktaktuġuuruŋa. / Aglaan mikigaqtulaitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>26</string>
+					<key>english</key>
+					<array>
+						<string>How much does that cost? / It costs a dollar. / It costs a quarter.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanutuqpa taamna? /Tamałhutuqtuq. / Qupitchuŋaqtuqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>27</string>
+					<key>english</key>
+					<array>
+						<string>Do you understand me? / Yes, when you speak slowly. / No, I don't understand you.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kaŋiqsiviŋa? / Ii, sukaiḷuuraqavich. / Naagga, kaŋiqsiŋitkikpiñ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>28</string>
+					<key>english</key>
+					<array>
+						<string>Do you like this? / Yes, I like it. / No, I don't like it.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nakuaġiviuŋ una? / Ii, nakuaġigiga. / Naagga, nakuaġiŋitkiga.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>29</string>
+					<key>english</key>
+					<array>
+						<string>May I go with you? / Go ahead.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Maliglakpiiñ? / Kiikaa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>30</string>
+					<key>english</key>
+					<array>
+						<string>How should I do it? / Like this. / Like that.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanuġluŋa? / Itna. / Taatna.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>31</string>
+					<key>english</key>
+					<array>
+						<string>Who is this? / Niksik. / My father.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kiña una? / Niksik. / Aapaga.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>32</string>
+					<key>english</key>
+					<array>
+						<string>What kind of hot drink do you want? / Coffee. / Tea.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sumik yuuqqaġukpich? / Kuukpiamik. / Saigumik.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>33</string>
+					<key>english</key>
+					<array>
+						<string>What is this in Iñupiaq? / A chair.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suna una Iñupiatun? / Aquppiutaq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>34</string>
+					<key>english</key>
+					<array>
+						<string>What is this in English?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suna una Naluaġmiutun?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>35</string>
+					<key>english</key>
+					<array>
+						<string>"How do you say ""wolverine"" in Iñupiaq? / We say, ""qapvik."""</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>"Qanuq taiñaqpa ""wolverine"" Iñupiatun? / Taisuugikput ""qapvik."""</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Common Questions and Simple Answers</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>7</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>Are you hungry? </string>
+						<string> I'm hungry. / I'm not hungry.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kaakpiich? </string>
+						<string> Kaaliqsuŋa. / Kaaŋitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>Do you want to eat? </string>
+						<string> I want to eat. / I don't want to eat.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niġisuliqpiich? </string>
+						<string> Niġisuliqsuŋa. / Niġisuŋitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>Are you sleepy? </string>
+						<string> I'm sleepy. / I'm not sleepy.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uiñġaliqpiich? </string>
+						<string> Uiñġaliqsŋa. / Uiñġaŋitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>Are you tired? </string>
+						<string> I'm tired. / I'm not tired.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Minġuqpiich? </string>
+						<string> Minġuqtuŋa. / Minġuŋitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>Are you sick?  </string>
+						<string> I'm sick. / I'm not sick.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Atniġñaqpiich? </string>
+						<string> Atniġñaqtuŋa. / Atniġñaŋitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>Do you have a headache? </string>
+						<string> I have a headache. / I don't have a headache.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niaqunŋuviich? </string>
+						<string> Niaqunŋuruŋa. / Niaqunŋuŋitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>Do you want a hot drink? </string>
+						<string> I want a hot drink. / I don't want a hot drink.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Yuuqqaġukpiich? </string>
+						<string> Yuuqqaġuktuŋa. / Yuuqqaġuŋitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>Are you cold? </string>
+						<string> I'm cold. / I'm not cold.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qiunŋuviich? </string>
+						<string> Qiunŋuruŋa. / Qiunŋuŋnitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>Are your feet cold? </string>
+						<string> My feet are cold. / My feet are not cold.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Isigaiyaqpatiin? </string>
+						<string> Isigaiyaġaaŋa./ Isigaiyaŋitkaaŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>Are you hot? </string>
+						<string> I'm hot. / I'm not hot.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uunniqiviich? </string>
+						<string> Uunniqiruŋa. / Uunniqiŋitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>Do you have a stomachache? </string>
+						<string> I have a stomachache. / I don't have a stomachache.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Narraanŋuviich? </string>
+						<string> Narraanŋuruŋa. / Narraanŋuŋitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>Are you lonely? </string>
+						<string> I'm lonely. / I'm not lonely.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Alianniuqpiich? </string>
+						<string> Alianniuqtuŋa. / Alianniuŋitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>Are you happy? </string>
+						<string> I'm happy. / I'm not happy.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Quviasukpiich? </string>
+						<string> Quviasuktuŋa. / Quviasuŋitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>Are you homesick? </string>
+						<string> I'm homesick. / I'm not homesick.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aisuliqpiich? </string>
+						<string> Aisuliqsuŋa. / Aisuliŋitchuŋa.</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Personal Conditions and Feelings</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>8</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>Who are you?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kisuuvich? / Kiña ilvich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>I'm Kapniaq.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uvaŋa Kapniaq. / Kapniaŋuruŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>Where are you from?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sumiuŋuvich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>I'm from Kotzebue.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qikiqtaġruŋmiuŋuruŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>Who(2) are your parents(2)?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kisuk aŋayuqaakiñ?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>Aŋutvak and Qapuk are my parents(2).</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aŋutvaglu Qapuglu aŋayuqaaka.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>Are you my relative?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iḷagivigiiñ?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>You're my relative!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iḷagigikpiñ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>How are we(2) related?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanuq iḷagiikpiñuk?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>We(2) are cross-cousins [meaning that our parents are brother and sister].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iḷḷuġuksuguk.</string>
+					</array>
+				</dict>
+			</array>
+			<key>subtitle</key>
+			<string>(dialogue)</string>
+			<key>title</key>
+			<string>Introductions Between People </string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>9</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>What is your English name?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kiña Naluaġmiutchisin?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>My name is Larry.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Atiġa Larry.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>What is your Eskimo name?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kiña Iñupiaqsisin?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>My Eskimo name is Taġġaq [means 'shadow'].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iñupiaqsisiga Taġġaq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>What is your older sister's Eskimo name?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aatauran kimik Iñupiaqsisiqaqpa?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>Her Eskimo name is Qaliaq.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qaliamik Iñiupiaqsisiqaqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>What is your younger sibling's English name?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nukatchian kimik Naluaġmiutchisiqaqpa?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>His name is Bill.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Atqa Bill.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>Are you married? [lit., do you have a spouse?]</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Tuvaaqatiqaqpiich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>I have a husband.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uiqaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>Do you have a wife?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nuliaqaqpiich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>I have a wife.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nuliaqaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>My spouse is Niġukkaq.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niġukkamik tuvaaqatiqaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>Do you have children?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qitunġaqaqpiich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>How many children do you have?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qavsiñik qitunġaqaqpich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>I have five children, three boys and two girls.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Tallimanik qitunġaqaqtuuŋa, piŋasunik aŋutinik aasii malġuŋnik aġnaŋnik.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>How old are you?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanutun ukiutilaaqaqpich? or Qanuq utuqqautilaaqaqpich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>I am thirty.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iñuiññaq qulinik utuqqautilaaqaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>What do your children do?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qitunġatin susuuvat?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>20</string>
+					<key>english</key>
+					<array>
+						<string>They attend school in Kotzebue.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qikiqtaġruŋmi aglaktut.</string>
+					</array>
+				</dict>
+			</array>
+			<key>subtitle</key>
+			<string>(dialogue)</string>
+			<key>title</key>
+			<string>Names and General Conversation </string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>10</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>Where were you born?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nani aniruatiin?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>I was born in Noatak.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nuataami aniruaŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>Where do you live?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nani iñuuniaqpich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>I live in Barrow.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Utqiaġviŋmi iñuuniaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>What is your birthday?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sumik anniviqaqpich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>Today is my birthday.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uvlupak anniviḷitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>Are you older than I am?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Utuqqautlukpich uvamniñ?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>No, I am turning twenty. I'm younger than you.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Naagga, iñuiññaġuqtuŋa. Nutautluktuŋa ilipniñ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>I thought you were older!</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Isiivva utuqqautluktutin.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>And where were you born?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aasiiñ ilvich, nani aniruatiin?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>I was born in Anchorage.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Anchorage-mi aniruaŋaa.</string>
+					</array>
+				</dict>
+			</array>
+			<key>subtitle</key>
+			<string>(dialogue)</string>
+			<key>title</key>
+			<string>Birthday and Birthplace </string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>11</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>That man is my husband.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>aŋun </string>
+						<string> Taamna aŋun uigigiga.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>woman </string>
+						<string> Is this woman your wife? /Yes, she is my wife.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>aġnaq </string>
+						<string> Una aġnaq nuliaġiviuŋ? / Ii, nuliaġigiga.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>boat </string>
+						<string> We(2) are going to Sisualik in my boat.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>umiaq </string>
+						<string> Sisualiŋmuŋniaqtuguk umiapkun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>house </string>
+						<string> Do you have a house in Sisualik?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tupiq </string>
+						<string> Tupiqaqpich Sisualiŋmi?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>tent </string>
+						<string> No, I have a tent.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>palapkaaq </string>
+						<string> Naagga, palapkaaqaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>school </string>
+						<string> My aunt teaches Iñupiaq at the school.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>aglagvik </string>
+						<string> Atchaga aglagviŋmi aglaktitchiruq Iñiupiatun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>child, offspring </string>
+						<string> How many children do you(2) have?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>qitunġaq </string>
+						<string> Qavsiñik qitunġaqaqpisik?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>small child </string>
+						<string> The children are being rambunctious.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>iḷiḷgaaq </string>
+						<string> Iḷiḷgaat alapisaaqtut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>store/ /How many stores are there in Kotzebue?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tauqsiġñiaġvik </string>
+						<string> Qavsiñik tauqsiġñiaġviqaqpa Qikiqtaġruŋmi?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>church </string>
+						<string> Is it time to go to church?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>agaayuvik </string>
+						<string> Agaayyiaġnaqsivaa?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>river  </string>
+						<string> Noatak is on a big river.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>kuuk </string>
+						<string> Nuataaq kuukpaqaqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>sea, ocean </string>
+						<string> My parents(2) are fishing at the beach (seashore).</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>taġiuq </string>
+						<string>  Aŋayuqaaka niksiksuqtuk taġium siñaani.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>airport </string>
+						<string> Can you take me to the airport?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>mirvik </string>
+						<string> Mirviŋmuutitlaviŋaa?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>land </string>
+						<string> The land up there has lots of berries.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>nuna </string>
+						<string> Pamna nuna asiaŋuruq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>lake </string>
+						<string> The lakes up there have sourdock.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>narvaq </string>
+						<string> Papkua narvat quaġaqaqtut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>mosquito </string>
+						<string> In summer there are lots of mosquitoes here.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>kiktuġiaq </string>
+						<string> Upinġaami kiktuġiaŋuruq apai.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>dog </string>
+						<string> The dog is unchained.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>qipmiq </string>
+						<string> Qipmiq pituitchuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>airplane </string>
+						<string> Airplanes go to Sisualik oñen.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tiŋmisuun </string>
+						<string> Tiŋmisuutit Sisualiŋmuguurut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>rifle </string>
+						<string> What kind of rifle do you have?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>suppun </string>
+						<string> Qanusimik supputiqaqpich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>20</string>
+					<key>english</key>
+					<array>
+						<string>rain </string>
+						<string> Is it going to rain?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>sialuk </string>
+						<string> Sialuguġniaqpagguuq?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>21</string>
+					<key>english</key>
+					<array>
+						<string>Iñupiaq Eskimo </string>
+						<string> Do you speak Iñupiaq to your grandmother?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iñupiaq </string>
+						<string> Aanaqnun Iñupiuraaġuuviich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>22</string>
+					<key>english</key>
+					<array>
+						<string>white person, English </string>
+						<string> The white person has red hair.  </string>
+						<string> The Iñiupiat people didn't speak English long ago.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Naluaġmiu </string>
+						<string> Naluaġmiu kaviqsaanik nuyaqaqtuq. </string>
+						<string> Iñupiat Naluaġmiuraalaitchut iŋiḷġaan.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>23</string>
+					<key>english</key>
+					<array>
+						<string>husband </string>
+						<string> My husband likes to eat muktuk.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>ui </string>
+						<string> Uiga maktaktutlaturuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>24</string>
+					<key>english</key>
+					<array>
+						<string>wife </string>
+						<string> My wife sews a lot.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>nuliaq </string>
+						<string> Nuliaġa killaiyaġuuruq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>25</string>
+					<key>english</key>
+					<array>
+						<string>daughter </string>
+						<string> Is your daughter in college?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>panik </string>
+						<string> Paniiñ college-miitpaa?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>26</string>
+					<key>english</key>
+					<array>
+						<string>son </string>
+						<string> Her son is a good hunter.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>iġñiq </string>
+						<string> Iġñiŋa aŋuniaqtilluatauruq.</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Common Nouns</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>12</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>Where are you from?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sumiuŋuvich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>I'm from California.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>California-ġmiuŋuruŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>Where do you live now?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Naniitpich pakmapak?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>Now I live in Kotzebue.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Pakmapak Qikiqtaġruŋmiittuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>What is your job in Kotzebue?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanusimik savaaqaqpich Qikiqtaġruŋmi?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>I teach at the school. / I'm a doctor at the hospital.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iḷisautriruŋa aglagviŋmi. / Taaktiŋuruŋa naŋirviŋmi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>Have you eaten yet?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niġianikpiich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>I haven't eaten yet today.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niġiŋaitchuŋa uvlupak.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>Let's(2) go eat.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niġiyaqtuaġluk.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>Where do you want to go eat?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Napmun niġiyaqtuaġukpich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>Let's(2) go to the Nullaġvik Hotel.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nullaġviŋmugluk.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>Do you want to come to my house? I have some fish.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uvamnugukpich? Iqaluutiqaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>I like fish. What kind are they?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iqaluktutlaturuŋa. Qanusiuvat?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>trout / sheefish / small whitefish / chum salmon</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>iqalukpik / sii / anigaaqtaq / iqalugruaq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>That's fine, thank you very much.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aarigaa, taikuu.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>Do you want to spend the night at our house?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Siñiktaġiaġukpich uvaptiknun?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>I won't be here. I have to leave this evening.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Maaniinniaŋitchuŋa. Aullaqtuksrauruŋa anaqapak.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>When you come back, please stay here.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Utiġuvich, maaniitchurnautin.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>I'll be back for the quarterly meeting in March.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Utiġniaqtuŋa quarterly-meetiqpata March-mi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>20</string>
+					<key>english</key>
+					<array>
+						<string>It's time to go. Thank you for letting me eat.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aullaġnaqsigaa. Taikuu niġipkaġluġikma.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>21</string>
+					<key>english</key>
+					<array>
+						<string>I'll see you again sometime.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qiñiġisigikpiñ iḷaatni.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>22</string>
+					<key>english</key>
+					<array>
+						<string>Tell your wife I say hello.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nulianguuq halauġiga.</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>General Dialogue</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>13</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>Is there a telephone here? / There is a telephone at the store.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uqaqsiutiqaqpa maani? / Uqaqsiutiqaqtuq tauqsiġñiaġviŋmi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>Where is the store? / There is one in front of the hospital. There are other stores down by the waterfront.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Naami tauqsiġñiaġvik? / Naŋirvium saaŋaniittuq. Atlanik tauqsiġñiaġviqaqtuq unani taġium siñaani.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>What is it like? Is it red? / Yes, it's red.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanusiuva? Kaviqsaaŋuva? / Ii, kaviqsaaŋuruq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>Where is the post office? / It's nearby. That's it over there.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Naami aglaqaġvik? / Qaniŋaniittuq. Iñña.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>Where's the school? / Up that way, across from the college.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Naami aglagvik? / Qamma, college-gum akianiittuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>Where's the Senior Center? / It's down that way, just this side of the A.C. store.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Naami utuqqanaaqaġvik? / Unna, A.C.-iim maaniaŋani.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>Where's the church? / Which church?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Naami agaayuvik? / Qanusiq agaayuvik?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>The Friends' Church is located the other side of the Napa store.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Friends' Church Napa-m iñaniaŋaniittuq.</string>
+					</array>
+				</dict>
+			</array>
+			<key>subtitle</key>
+			<string>(dialogue)</string>
+			<key>title</key>
+			<string>Directions </string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>14</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>How is the weather?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanuq itpa siḷa?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>It's raining.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sialuktuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>It's snowing.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanniksuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>It's windy</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Anuqłiqsuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>It's sunny.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Siqiññiraaqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>It's cold.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qiiyanaqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>It's freezing cold.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Itraliqsuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>It's warm, not cold.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Itraitchuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>It's hot.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uunaqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>It's foggy.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Taktuktuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>It's cloudy.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nuviyaliqsuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>There's no visibility.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niptaitchuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>It's good weather.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Siḷagiksuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>It's bad weather.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Siḷagiitchuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>It's stormy.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aŋniqsuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>I feel cold.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qiunŋuruŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>My feet are cold.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Isigaiyaġaaŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>My hands are cold.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Argaiyaġaaŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>My ears are cold.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Siutaiyaġaaŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>20</string>
+					<key>english</key>
+					<array>
+						<string>When it becomes warmer I will fetch some wood.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Itraiqpan qiruktaġni.aqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>21</string>
+					<key>english</key>
+					<array>
+						<string>When the weather becomes nice, I will go out with a dog team.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Siḷagiksikpan uniaġaġruaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>22</string>
+					<key>english</key>
+					<array>
+						<string>When the west wind blows, it's always cold.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kanakniqman alappaaŋuruq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>23</string>
+					<key>english</key>
+					<array>
+						<string>When the weather becomes warmer, I will go hunt seals.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Itraipayaaqpan natchiġiaġruaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>24</string>
+					<key>english</key>
+					<array>
+						<string>It's time for shee fishing in March.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niksigiaġnaqsisuuruq siiñun March-mi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>25</string>
+					<key>english</key>
+					<array>
+						<string>They will have a dog race up to the Kobuk River.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uniaġaqautraġniaqtut Kuuvaum Kaŋianun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>26</string>
+					<key>english</key>
+					<array>
+						<string>They call it Kobuk 440.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kobuk 440-mik atiqaqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>27</string>
+					<key>english</key>
+					<array>
+						<string>John Baker usually runs the dog races.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>John Baker uniaġaqautraġuuruq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>28</string>
+					<key>english</key>
+					<array>
+						<string>It's almost spring time around here.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Upinġaksraayasigaa manna.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>29</string>
+					<key>english</key>
+					<array>
+						<string>When it becomes warm, some of the people go camping.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Itraiqman iḷaŋich iñuich aullaaġuurut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>30</string>
+					<key>english</key>
+					<array>
+						<string>They usually go camping on the ocean beaches.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Taġium siñaanun aullaaġuurut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>31</string>
+					<key>english</key>
+					<array>
+						<string>Most of the people who have jobs hunt with boats from Kotzebue.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iḷaŋich iñuich savaktuat aŋuniaġuurut umianik Qikiqtaġruŋmiñ.</string>
+					</array>
+				</dict>
+			</array>
+			<key>subtitle</key>
+			<string>(words/phrases)</string>
+			<key>title</key>
+			<string>Weather </string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>15</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>one </string>
+						<string> I have one older sister.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>atausiq </string>
+						<string> Atautchimik aatauraqaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>two </string>
+						<string> I have two younger siblings.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>malġuk </string>
+						<string> Malġuŋnik nukatchiaqaquŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>three </string>
+						<string> I have three children.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>piŋasut </string>
+						<string> Piŋasunik qitunġaqaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>four </string>
+						<string> We(2) have four daughters.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>sisamat </string>
+						<string> Sisamanik paniqaqtuguk.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>five </string>
+						<string> I have five sons.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tallimat </string>
+						<string> Tallimanik iġñiqaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>six </string>
+						<string> We(2) have six grandchildren.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>itchaksrat </string>
+						<string> Itchaksranik tutitchiaqaqtuguk.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>seven </string>
+						<string> We have seven dogs.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tallimat malġuk </string>
+						<string> Tallimat malġuŋnik qipmiqaqtugut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>eight </string>
+						<string> Give me eight of them.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tallimat piŋasut </string>
+						<string> Tallimat piŋasut qaitki.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>nine </string>
+						<string> Nine people came.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>quiliŋuġutaiḷaq </string>
+						<string> Quliŋutġutaiḷat iñuich aggiqsut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>ten </string>
+						<string> Ten women sang on Sunday.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>qulit </string>
+						<string> Qulit aġnat atuġuurut Savaiḷiġmi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>eleven </string>
+						<string> The man caught eleven fish.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>qulit atausiq </string>
+						<string> Qulit atautchimik iqaluktuq aŋun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>twelve </string>
+						<string> Twelve dogs are pulling a sled.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>qulit malġuk </string>
+						<string> Qulit malġuk qipmich qimuktut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>thirteen </string>
+						<string> Father caught thirteen muskrats.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>qulit piŋasut </string>
+						<string> Qulit piŋasunik kigvaluktuq aapa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>fourteen </string>
+						<string> I have fourteen students in my class.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>akimiaġutaiḷaq </string>
+						<string> Akimiaqġutaiḷanik aglaktuaqaqtuŋa class-amni.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>fifteen </string>
+						<string> I found fifteen wild eggs.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>akimiaq </string>
+						<string> Pikuuttuŋa akimianik.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>sixteen </string>
+						<string> My daughter turned sixteen years old.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>akimiaq atausiq </string>
+						<string> Paniga akimiaq atausimik ukiuniktuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>seventeen </string>
+						<string> Seventeen people are going to Barrow.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>akimiaq malġuk </string>
+						<string> Akimiaq malġuk iñuich.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>eighteen </string>
+						<string> How many caribou are there? Eighteen.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>akimiaq piŋasut </string>
+						<string> Qavsiuvat tuttut? Akimiaq piŋasut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>nineteen </string>
+						<string> My shoes(2) cost nineteen dollars.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>iñuiññaġutaiḷaq </string>
+						<string> Sappakiika iñuiññaġutaiḷaqtuqtuk.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>20</string>
+					<key>english</key>
+					<array>
+						<string>twenty </string>
+						<string> We have twenty fingers and toes.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>iñuiññaq </string>
+						<string> Iñuiññanik iñugauraqaqtugut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>21</string>
+					<key>english</key>
+					<array>
+						<string>twenty-one </string>
+						<string> I paid him twenty-one dollars.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>iñuiññaq atausiq </string>
+						<string> Akiḷiġiga iñuiññaq atausimik.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>22</string>
+					<key>english</key>
+					<array>
+						<string>thirty </string>
+						<string> A month has thirty days.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>iñuiññaq qulit / Tatqiq iñuiññaq qulinik uvluqaqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>23</string>
+					<key>english</key>
+					<array>
+						<string>forty </string>
+						<string> I cried hard when I turned forty.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>malġukipiaq </string>
+						<string> Qiaqpaktuŋa malġukipiamik ukiunikama.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>24</string>
+					<key>english</key>
+					<array>
+						<string>sixty </string>
+						<string> Are you sixty years old?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>piŋasukipiaq </string>
+						<string> Piŋasukipiaġuqpiich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>25</string>
+					<key>english</key>
+					<array>
+						<string>one hundred </string>
+						<string> One hundred people arrived by airplane.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tallimakipiaq </string>
+						<string> Tallimakipiat iñuich tiŋmisuutikun tikitchut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>26</string>
+					<key>english</key>
+					<array>
+						<string>thousand </string>
+						<string> More than a thousand people live in Kotzebue.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>kavluutit </string>
+						<string> Kavluutit sipitlugich iñuqaqtuq Qikiqtaġruŋmi.</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Counting</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>16</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>Noorvik </string>
+						<string> I'm in Noorvik. </string>
+						<string> I'll go to Noorvik. </string>
+						<string> I'm coming from Noorvik. </string>
+						<string> I'm from Noorvik.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nuurvik </string>
+						<string> Nuurviŋmiittuŋa. </string>
+						<string> Nuurviŋñiaqtuŋa. </string>
+						<string> Nuurviŋmiñ aggiqsuŋa. </string>
+						<string> Nuurviŋmiuŋuruŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>Noatak </string>
+						<string> You're in Noatak. </string>
+						<string> You'll go to Noatak. </string>
+						<string> You're coming from Noatak. </string>
+						<string> You're from Noatak.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nuataaq </string>
+						<string> Nuataamiittutin. </string>
+						<string> Nuataaġniaqtutin. </string>
+						<string> Nuataamiñ aggiqsutin. </string>
+						<string> Nuataaġmiuŋurutin.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>Deering </string>
+						<string> He/she is in Deering. </string>
+						<string> He/she will go to Deering. </string>
+						<string> He/she is coming from Deering. </string>
+						<string> He/she is from Deering.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ipnatchiaq </string>
+						<string> Ipnatchiamiittuq. </string>
+						<string> Ipnatchiaġruaqtuq. </string>
+						<string> Ipnatchiamiñ aggiqsuq. </string>
+						<string> Ipnatchiaġmiuŋuruq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>Kotzebue</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qikiqtaġruk</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>Selawik</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Akuliġaq / Siiḷvik</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>Kiana</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Katyaaq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>Ambler </string>
+						<string> Will you(2) go to Ambler?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ivisaappaat </string>
+						<string> Ivisaappaaġniaqpisiik?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>Shungnak</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Isiŋnaq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>Kobuk</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kuuvak/Laugviik</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>Buckland</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kaŋiq / Nunatchiaq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>Kivalina</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kivaliñiq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>Sheshaalik </string>
+						<string> My mother and I will go to Sheshaalik tomorrow.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sisualik </string>
+						<string> Sisualiŋniaqtuguk aakagalu uvlaakun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>Point Hope </string>
+						<string> I arrived from Point Hope this morning.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Tikiġaq </string>
+						<string> Tikiġaġmiñ tikitchuŋa uvlaaq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>Point Lay</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kali</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>Wainwright</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ulġuniq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>Barrow / My daughter went to Barrow yesterday.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Utqiaġvik </string>
+						<string> Utqiaġviksuaq paniga ikpaksraq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>Atkasook</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Atqasuk</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>Nuiqsut</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nuiqsat</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>Barter Island/Kaktovik</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qaaktuġvik</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>20</string>
+					<key>english</key>
+					<array>
+						<string>Anaktuvuk Pass</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Naqsraq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>21</string>
+					<key>english</key>
+					<array>
+						<string>North Slope</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Siḷaliñiq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>22</string>
+					<key>english</key>
+					<array>
+						<string>King Island</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ukiuvak</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>23</string>
+					<key>english</key>
+					<array>
+						<string>Little Diomede Island</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iŋaliq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>24</string>
+					<key>english</key>
+					<array>
+						<string>Nome</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sitnasuaq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>25</string>
+					<key>english</key>
+					<array>
+						<string>Shishmaref</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qikiqtaq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>26</string>
+					<key>english</key>
+					<array>
+						<string>Koyuk</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kuuyuk</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>27</string>
+					<key>english</key>
+					<array>
+						<string>Shaktoolik</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Saqtuliq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>28</string>
+					<key>english</key>
+					<array>
+						<string>Unalakleet</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uŋalaqłiq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>29</string>
+					<key>english</key>
+					<array>
+						<string>Wales</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kiŋigin</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>30</string>
+					<key>english</key>
+					<array>
+						<string>White Mountain</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nasirvik</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>31</string>
+					<key>english</key>
+					<array>
+						<string>Golovin</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Siŋik</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>32</string>
+					<key>english</key>
+					<array>
+						<string>Mary's Igloo</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qawiaraq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>33</string>
+					<key>english</key>
+					<array>
+						<string>Siberia or Siberian person/The Siberians came to dance.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qutliq/Qutlich aggiqsut aġġityaqhutiŋ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>34</string>
+					<key>english</key>
+					<array>
+						<string>Kobuk River</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kuuvak</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>35</string>
+					<key>english</key>
+					<array>
+						<string>Yukon River</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kuukpak</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Place Names</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>17</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>When will you travel to Shungnak?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qakugun aullaġniaqpich Isiŋnamun?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>I'm leaving tomorrow.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uvlaakun aullaġniaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>I won't be going to Shungnak. I'll go to Noorvik.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Isiŋnaġniaŋnitchuŋa, Nuurviŋñiaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>What will you do in Noorvik?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suniaqpich Nuurviŋmi?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>I'll go to a meeting.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Katimmatyiaġniaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>Is your wife/husband going too?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nulian/Uiñ aullaġniaqmivaa?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>No, she/he is staying home with the children.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Naagga, paggitriñiaqtuq iḷiḷgaanik.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>Do you have friends in Noorvik?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iḷannaqaqpich Nuurviŋmi?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>I have relatives in Noorvik.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iḷaqaqtuŋa Nuurviŋmi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>My cross-cousin and family live in Noorvik.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iḷḷutkut Nuurviŋmiittut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>How far is it from Kotzebue?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanutun uŋasiksilaaqaqpa Qikiqtaġruŋmiñ?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>It's thirty minutes by airplane or three hours by snowmachine.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Thirty minutes tiŋmiñaqtuq, aasii aputikuaġutikun piŋasut sassaġniġmi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>Are there lots of fish in Noorvik in the Kobuk River?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aqaluuva Nuurviŋmi, Kuuvaum Kuuŋani?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>Yes, there are trout, sheefish, salmon, and northern pike.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ii, aqalukpiqaqtuq, siiñiglu, aqalugruaniglu, siulirjniglu.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>Noorvik is on a bluff on the banks of the Kobuk.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nuurvik ikpiŋmiittuq, Kuuvaum siñaaniittuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>Is there another village close to Noorvik?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Atlamik nunaaqqiqaqpa Nuurvium qaniŋani?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>Yes, Kiana isn't far. It's on the Kobuk too.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ii, Katyaaq uŋasiŋitchuq. Kuuvuŋmiitmiuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>How long will you be gone?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanutun piiññiaqpich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>One week.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Week-saami.</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Dialogue on Place Names</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>18</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>spring </string>
+						<string> In spring we go out to camp on the coast.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>upinġaksraq </string>
+						<string> Upinġaksraqman atiġuurugut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>summer </string>
+						<string> In summer we fish and it's hot.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>upinġaaq </string>
+						<string> Upinġaami iqaluŋniaġuurugut, uunaqmiuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>autumn </string>
+						<string> In autumn we hunt caribou.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>ukiaq </string>
+						<string> Ukiaġmi tuttuliaġuurugut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>winter </string>
+						<string> In winter it's windy and cold.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>ukiuq </string>
+						<string> Ukiumi anuqliġuuruq, alappaaŋupmiuq.</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>The Seasons</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>19</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>What time is it?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sassaq sumuiḷiva </string>
+						<string> Sassaq qanuq iḷiva?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>It's five o'clock. </string>
+						<string> It's past five o'clock.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Five o'clock-tuq. </string>
+						<string> Five o'clock qaaŋiġaa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>Time is really going fast.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sukasiḷḷapiaqtuq pivik.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>Do you have a watch?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Siqiñġuraqaqpiich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>It's time for the meeting.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Katimanaqsiruq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>What time does school start?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sumuiḷipman aglagiaġuuvat?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>It's time to go home.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aiñaqsiruq. </string>
+						<string> Aiñaqsigaa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>It's almost time for geese to arrive.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Tiŋmiat aggiyasiaqsirut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>School is almost out.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aglaŋaiyasirut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>I will come over when I'm done.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Taamuŋaġisiruŋa naatchiguma.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>We will go to Larry's place at seven o'clock.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Larry-tkutnuŋniaqtugut seven o'clock-pan.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>I will return to Fairbanks in the morning.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uvlaami utiġniaqtuŋa Fairbanks-mun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>When will we eat?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qakugun niġiñiaqpisa?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>There will be Eskimo games tonight.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Anaktaġruaqtut anaqapak.</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Time</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>20</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Savaiḷiq, Savalliiḷiq, Ilaqatchiiḷiq, Qitchiiḷiq, Sisammiiḷiq, Tallimiiḷiq, Itchaksriiḷiq</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>I'm leaving on Sunday.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aullaġniaqtuŋa Savaŋḷigxru.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>Today is Sunday (Monday, Tuesday, Wednesday, Thursday, Friday, Saturday).</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uvlupak Savaitchugut (Savalliuqtugut, Ilaqatchiuqtugut, Qitchiurugut, Sisammiuqtugut, Tallimiuqtugut, Itchaksriuqtugut).</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>What is the date today?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suŋŋuqpa uvlupak?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>Today is March tenth.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uvlupak March ten-ŋuqtuq.</string>
+					</array>
+				</dict>
+			</array>
+			<key>subtitle</key>
+			<string>(Inupiaq names for the days are not used very often, and English names are used instead.)	</string>
+			<key>title</key>
+			<string>Days of the week </string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>21</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>berry </string>
+						<string> The berries are really good. </string>
+						<string> Give me some berries.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>asiaq </string>
+						<string> Asiat nakuullapiaqtut. </string>
+						<string> Asiaksriñŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>salmonberry </string>
+						<string> The salmonberries are plentiful. </string>
+						<string> I want to go pick salmonberries.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>aqpik </string>
+						<string> Aqpiich iñugiaktut. </string>
+						<string> Aqpiŋñiaġuktuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>blueberry </string>
+						<string> Blueberries are blue. </string>
+						<string> I want to eat blueberries.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>asiavik </string>
+						<string> Asiaviich uquaqtaaŋurut. </string>
+						<string> Asiaviksuġuktuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>blackberry </string>
+						<string> Blackberries are dark in color. </string>
+						<string> Blackberries are good in Eskimo ice cream.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>paunġaq </string>
+						<string> Paunġat taaqtaaŋurut. </string>
+						<string> Paunġat nakuurut akutumi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>low-bush cranberry </string>
+						<string> Cranberries are sour.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>kipmiŋñaq </string>
+						<string> Kipmiŋñat siiġñaqtut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>nagoonberry </string>
+						<string> Nagoonberries are scarce.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>aqpiŋñaq </string>
+						<string> Aqpiŋñat iñugiaŋitchut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>dried fruit </string>
+						<string> Dried fruit can be cooked.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>siutiŋŋuaq </string>
+						<string> Siutiŋŋuat iganaqtut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>raisin </string>
+						<string> I eat raisins.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>asiatchauraq </string>
+						<string> Asiatchauraqtuġuuruŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>piece of large fruit, like apple, orange </string>
+						<string> Apples, oranges don't grow in Alaska.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>asiaqpak </string>
+						<string> Asiaqpaich Alaska-mi nausuitchut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>Eskimo ice cream </string>
+						<string> My mother makes Eskimo ice cream. </string>
+						<string> Do you like Eskimo ice cream?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>akutuq </string>
+						<string> Akutchisuuruq aakaga. </string>
+						<string> Akutuqtutlaviich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>loaf of bread </string>
+						<string> I want to buy some loaves of bread. </string>
+						<string> Do you want some bread to eat?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>qaqquq </string>
+						<string> Qaqqunik tauqsiġuktuŋa. </string>
+						<string> Qaqquqtuġukpiich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>stew </string>
+						<string> The stew is already salted. </string>
+						<string> I am making stew.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>imiġauraq </string>
+						<string> Imiġauraq taġirrianiktuq. </string>
+						<string> Imiġauraliuqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>pilot bread </string>
+						<string> Children like to eat pilot bread. </string>
+						<string> We eat pilot bread with stew.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>qaqqulaaq </string>
+						<string> Iḷiḷgaat qaqqulaaqtuġuurut. </string>
+						<string> Qaqqulaaqtuġuurugut imiġauraqtuqapta.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>dried fish </string>
+						<string> We eat dried fish with dinner. </string>
+						<string> We make dried fish in summer.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>paniqtaq </string>
+						<string> Paniqtaqtuġuurugut nullautchiqapta. </string>
+						<string> Paniqsisuurugut upinġaami.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>cooked partially dried salmon </string>
+						<string> I eat half-dried salmon with seal oil. </string>
+						<string> Half-dried salmon are good as leftovers.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>igamaaqłuk </string>
+						<string> Igamaaqłuktuġuuruŋa uqsrumik. </string>
+						<string> Igamaaqłuich igaaġruaġiksut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>coffee </string>
+						<string> My mother makes coffee in the morning. </string>
+						<string> Would you like coffee?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>kuukpiaq </string>
+						<string> Aanaga kuukpirriuġuuruq uvlaami. </string>
+						<string> Kuukpiaqtuġukpiich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>tea </string>
+						<string> This tea is brewed strong. </string>
+						<string> I would like to drink some tea.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>saigu </string>
+						<string> Saigu una isuqtuq. </string>
+						<string> Saigumik yuuqqaġuktuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>hot drink </string>
+						<string> Would you like a hot drink? </string>
+						<string> The men want a hot drink.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>yuuqqaq </string>
+						<string> Yuuqqaġukpiich? </string>
+						<string> Aŋutit yuuqqaġuktut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>water </string>
+						<string> The water is cold. </string>
+						<string> Don't spill the water.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>imiq </string>
+						<string> Imiq nigliñaqtuq. </string>
+						<string> Imiq kuviñagu.</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Foods</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>22</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>table </string>
+						<string> Wipe the table.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tiivlu, niġġivik </string>
+						<string> Allaqtiġlich tiivlut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>coffee maker </string>
+						<string> Is there coffee still in the coffee maker?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>kuukpialiuġvik </string>
+						<string> Kuukpialiuġvik imaqaqpa suli?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>bed </string>
+						<string> Move the bed. / Make the bed for them.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>siñigviich </string>
+						<string> Siñigviich nuullich. / Illiuġlugich.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>stove </string>
+						<string> The stove is hot.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>ikniġvik </string>
+						<string> Ikniġvik uunaqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>light </string>
+						<string> Turn the light on. / Turn the lights off.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>naniq </string>
+						<string> Ikirruŋ naniq.  / Qamillich nannich.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>semi-circular knife, ulu </string>
+						<string> Give me the ulu.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>ulu </string>
+						<string> Ulu qairruŋ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>window </string>
+						<string> The window is broken.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>igaliq </string>
+						<string> Igaliq piiyaqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>curtain or shade </string>
+						<string> Draw the curtain [over the window].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>talukuyaaq </string>
+						<string> Talukuyaaġli igaliq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>door </string>
+						<string> Close the door. / The door is open.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>talu </string>
+						<string> talluuŋ / Taluitchuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>pot </string>
+						<string> I will make soup in the pot.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>utkusik </string>
+						<string> Utkusiŋmun imiġauraliuġniaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>mop </string>
+						<string> The mop is hanging up.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tanirrun </string>
+						<string> Tanirrutit niviŋarut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>broom </string>
+						<string> This broom is new.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>silakuutit </string>
+						<string> Silakuutit ukua nutaaŋurut.</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Household Items</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>23</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>fish </string>
+						<string> Have some fish.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>iqaluk, aqaluk, qaluk </string>
+						<string> Iqaluktuġiñ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>salmon </string>
+						<string> Is there any salmon around here?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>iqalugruaq </string>
+						<string> Iqalugruaqaqpa maani?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>trout </string>
+						<string> Trout make good frozen fish.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>iqalukpik </string>
+						<string> Iqalukpiich quaġiksut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>sheefish </string>
+						<string> Sheefish are big.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>sii </string>
+						<string> Siich aŋirut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>tomcod </string>
+						<string> In the fall they hook for tomcod through the ice.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>uugaq </string>
+						<string> Ukiaġmi manaqtuġuurut uukkanun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>smelt </string>
+						<string> I love to eat smelt.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>iłqhuaġniq </string>
+						<string> Iłqhuaġniqtutlaturuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>herring </string>
+						<string> Herring are shiny.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>uqsruqtuuq </string>
+						<string> Uqsruqtuut qivliqtut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>caribou </string>
+						<string> They have gone caribou hunting.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tuttu </string>
+						<string> Tuttuliaqtut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>moose </string>
+						<string> Moose are big.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tiniikaq </string>
+						<string> Tmiikat aŋirut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>seal </string>
+						<string> Seals have good hides.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>natchiq </string>
+						<string> Natchiich amiġiksut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>bearded seal </string>
+						<string> We dry the bearded seal meat.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>ugruk </string>
+						<string> Ugruich paniqtitchuugivut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>walrus </string>
+						<string> Walrus often wash up on the beach.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>aiviq </string>
+						<string> Aivġich tipisuugai taġium siñaanun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>beluga </string>
+						<string> Beluga hardly come anymore.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>sisuaq </string>
+						<string> Sisuat aggipiatliaqsut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>bear </string>
+						<string> Bears are scary.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>akłaq </string>
+						<string> Akłat iqsñlaqtut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>beaver </string>
+						<string> He has a beaver hat.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>pałuqtaq </string>
+						<string> Pałuqtamik nasautiqaqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>wolverine </string>
+						<string> Wolverine make good ruffs.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>qapvik </string>
+						<string> Qapviich isiġvigiksut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>wolf </string>
+						<string> Wolves also make good ruffs.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>amaġuq </string>
+						<string> Amaqqut isiġvigikmiut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>lynx </string>
+						<string> Lynx eat rabbits.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>niutuiyiq </string>
+						<string> Niutuiyit ukalliqsuġuurut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>muskrat </string>
+						<string> I have a muskrat parka.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>kigvaluk </string>
+						<string> Kigvaluŋnik atigiqaqtuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>20</string>
+					<key>english</key>
+					<array>
+						<string>ground squirrel </string>
+						<string> My dog hunts ground squirrels.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>siksrik </string>
+						<string> Siksriŋniaguuruq qipmiġa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>21</string>
+					<key>english</key>
+					<array>
+						<string>bird, duck, goose </string>
+						<string> Birds lay their eggs around here in the springtime. ·</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tiŋmiaq </string>
+						<string> Tiŋmiat ivasuurut maani upinġaksrami.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>22</string>
+					<key>english</key>
+					<array>
+						<string>hawk </string>
+						<string> Hawks arrive the very first [of all the birds in spring].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>qiḷġiq </string>
+						<string> Qiḷġich aggiqqaaġuurut</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>23</string>
+					<key>english</key>
+					<array>
+						<string>seagull </string>
+						<string> Seagulls usually arrive early [in spring].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>nauyaq </string>
+						<string> Nauyat aggiġñaġiaġuurut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>24</string>
+					<key>english</key>
+					<array>
+						<string>raven </string>
+						<string> Ravens are black.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tulugaq </string>
+						<string> Tulukkat taaqtut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>25</string>
+					<key>english</key>
+					<array>
+						<string>pintail duck </string>
+						<string> Pintail ducks have bugs.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>kurugaq </string>
+						<string> Kurukkat kumaqaqtut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>26</string>
+					<key>english</key>
+					<array>
+						<string>Arctic tern </string>
+						<string> Arctic terns are noisy.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>mitqutaiḷaq </string>
+						<string> Mitqutaiḷat nipaturut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>27</string>
+					<key>english</key>
+					<array>
+						<string>swan </string>
+						<string> Swans have long necks.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>qugruk </string>
+						<string> Qugruich quŋusiqpaqaqtut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>28</string>
+					<key>english</key>
+					<array>
+						<string>sandhill crane </string>
+						<string> Cranes have long legs.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tatirgaq </string>
+						<string> Tatirgat kanaakturut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>29</string>
+					<key>english</key>
+					<array>
+						<string>oldsquaw [long-tailed] duck </string>
+						<string> Oldsquaws are found in lakes.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>aahaaliq </string>
+						<string> Aahaallich narvaniitchwrut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>30</string>
+					<key>english</key>
+					<array>
+						<string>black brant goose </string>
+						<string> Black brants make good soup.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>niġliq </string>
+						<string> Niġliġich imiġauraġiksut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>31</string>
+					<key>english</key>
+					<array>
+						<string>snowy owl </string>
+						<string> Some people eat snowy owl.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>ukpik </string>
+						<string> Ukpiktuġuurut iḷaŋich iñuich.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>32</string>
+					<key>english</key>
+					<array>
+						<string>common snipe </string>
+						<string> It's good to hear the common snipe.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>kuukukiaq </string>
+						<string> Tusaasuġnaqtut kuukukiat.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>33</string>
+					<key>english</key>
+					<array>
+						<string>eagle </string>
+						<string> The giant eagles of long ago must be extinct.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>tiŋmiaqpak </string>
+						<string> Tiŋmiaqpaich ipkua nuŋusuknaqtut.</string>
+					</array>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Fish, Animals, Birds</string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>24</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>What do you want to eat?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sumik niġisukpich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>I haven't eaten dinner yet.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nullautchiŋaitchuŋa uvva.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>Then we will eat.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niġiñiaġisiñiqsugut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>Thank you, I haven't eaten Eskimo food in a long time.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Taikuu, iŋilġaan niqipiaqtuŋitchuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>My son here will prepare [and cut] some frozen fish and meat.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qurriiñiaqtuq uvva iġniġa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>When you don't have any Eskimo food, you really crave it.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niqipiaŋitchuni niġisuŋnaqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>Then I will fix a sack [of food] for you.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Puuqtuiŋurallakkisiñiqsuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>It's good to have close friends.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iḷannaqaqtuni tavra nakuullapiaqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>Do you want some berries?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Asiaqtuġukpich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>It would be very good indeed to have some berries.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Asiaqtullaktuni nakuunayaqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>Call me when you plan to come here sometime.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Tuqłuġumagikma mauŋaaqsiguvich iḷaatni.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>For your information, I will come here again next year.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Samma mauŋaġnialgitchuŋa ukiuġun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>Good, we will eat together again then.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aarigaa, niġiñiaġisiḷgiññiqsugut.</string>
+					</array>
+				</dict>
+			</array>
+			<key>subtitle</key>
+			<string>(dialogue)</string>
+			<key>title</key>
+			<string>Eating </string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>25</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>Hello. Come in, please. Here is a chair.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Hello. Isiġnaqtuq. Aquppiutaq uvva.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>I have an appointment at one o'clock.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Appointma-qaqtuŋa one o'klaa-mi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>Today is parent-teacher day.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uvlupak aŋayuqaallu, aglaktillu uvluat.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>How is Bubba doing in school?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanuq sanuna Bubba aglakpa?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>Very good, he likes math, but sometimes does not really like to read.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nakuuruq, kisirrutit nakuaġigai, aglaan Uaatni agliqisupialaitchuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>I read to him at home all the time.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Agliqqutigaluaġiga ataramik kiŋunigmi.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>There are books here if you would like to bring some home.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Makpiġaaqaġaluaqtuq maani, aggisuutrisukkuvich.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>That's okay, we have all kinds of books.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nakuuruq, makpiġaaqaqtugut supayaanik.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>Will you continue to read to him?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Agliqivsaaġutiniaqpiuŋ?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>Yes, I want him to be able to comprehend his reading.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ii, kaŋiqsitqugiga agliqiamiñik.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>Very good. I will call or let you know when his reading improves.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aarigaa, tuqłuġisigikpiñ nakuuqsitmukpan.</string>
+					</array>
+				</dict>
+			</array>
+			<key>subtitle</key>
+			<string>(dialogue)</string>
+			<key>title</key>
+			<string>Conference with the Teacher </string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>26</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>How are you?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanuq itpich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>You finally came, and what might you be here for?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Tamauŋaġataġniqsutin, qanuqaviḷḷi?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>I'm looking for some small nails.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kikiaguranik pakaktuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>What are you making again?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sulilgitpich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>I want to build a grub box.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Tamaani, grub box-aliuġukłuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>Over there by the door [are nails].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ikka, talum pianiittut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>And do you have any hinges?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aasiiñ, aġimñiqaqpa?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>They're across there, behind the brooms.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ikka, silakuutit tunuatni ittut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>Do you have cartridges for a twenty-two rifle?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qaġruqaqpa twenty-two-mun?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>Are you going hunting?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aŋuniaġiaġniaqpiich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>My son is going squirrel hunting tomorrow.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iġñiġa siksrigiaġniaqtuq uvlaakun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>He also wants a raincoat.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sialuksiutiqaġukmiuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>They are in there with the clothing.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kivva, atnuġaani ittut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>How about boots?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sappakich aasiiñ?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>There are none. They haven't come in yet.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Piitchuq, aggiŋaitchut suli.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>What about rope for boats?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Akłunaamiglu umianun?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>Here is some strong rope which has just arrived.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Marra saŋŋiruat akłunaat aggiqpaalluktuat.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>How much do you want?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanutun pisukpich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>About twenty feet.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iñuiññatun taktilaamik.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>20</string>
+					<key>english</key>
+					<array>
+						<string>Where will you(3+) be going?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Napmun aullaġniaqpisi?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>21</string>
+					<key>english</key>
+					<array>
+						<string>There are lots of squirrels at Salluq.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Salluġmi siksriguruq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>22</string>
+					<key>english</key>
+					<array>
+						<string>Who made that parka? It has nice trim.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kia atigiliaŋa taamna? Qupalluataqaġniqsuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>23</string>
+					<key>english</key>
+					<array>
+						<string>I'd like to buy it for my wife. It's her birthday tomorrow.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Tauqsiġḷagu nuliamnun. Anniviḷiñiaqtuq uvlaakun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>24</string>
+					<key>english</key>
+					<array>
+						<string>Do you know my grandmother Suuyuk? She's my neighbor. She's a good seamstress.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iḷisimaviuŋ aanaga, Suuyuk? Siḷalliġigiga. Killaiyalguruq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>25</string>
+					<key>english</key>
+					<array>
+						<string>Let me pay now. What is the total cost?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Akiḷiġlagich. Qanutun akiqaqpat?</string>
+					</array>
+				</dict>
+			</array>
+			<key>subtitle</key>
+			<string>(dialogue)</string>
+			<key>title</key>
+			<string>At the Store </string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>27</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>I'm going camping at Pipe Spit tomorrow.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aullaaġniaqtuŋa Pipe Spit-mun uvlaakun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>Who else will be going along?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kisut aglaan aullaaġniaqmivat?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>Myself, some children, and some elders.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uvaŋalu, iḷiḷgaallu, utuqqanaallu iḷaŋich.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>How will you(3+) go to camp?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanuq aullaaġniaqpisi?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>We'll go by boat.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Umiaqtuġuta.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>How many boats will you(3+) take?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qavsiñik umianik atuġniaqpisi?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>Three.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Piŋasunik.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>The tents are already there. We all have sleeping bags.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Palapkaat itqanaiŋaniktut. Puuksraaqaqmiugut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>Is the food all ready? Are the boats loaded?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niqautit itqanaiŋanikpaat? Umiat usiḷiiñaqsivaat?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>There's lots of food for the journey down on the beach.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Taquat takanna iñugiaktut, apai.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>What will you(3+) all do at camp?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suniaqpisi aullaaġviŋmi?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>First, we'll set a net for trout.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Kuvriqqaaġisirugut iqalukpiŋñun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>When we catch fish, we'll cut them to make dried fish.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iqalukkupta, siiŋñiaġivut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>And we'll go hunt sea mammals [seals and walruses] when the ice is good.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aasii, niqsaġiaġniaqtugut siku nakuuqsikpan.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>When we catch seals, we'll butcher them.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Niqsaġupta, piḷaŋniaġivut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>We will also make seal oil from the blubber.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Uqsriñiaqtugut, uqsruġaniñ.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>When the fish and meat are dry, we will store them.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Paniqpata iqaluiḷḷu niqillu, tugvaġniaġivut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>Are you going to teach the children how to do this?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iḷisautiniaqpisigiŋ iḷiḷgaat?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>Yes, the elders want to teach the chikiren.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ii, utuqqanaat iḷitqugaich iḷiḷgaat.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>20</string>
+					<key>english</key>
+					<array>
+						<string>Call me on the CB radio when you arrive, so that we won't worry.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>CB-ġumagikma tikitkuvsi piŋiksraġniaŋitchumaugut.</string>
+					</array>
+				</dict>
+			</array>
+			<key>subtitle</key>
+			<string>(dialogue)</string>
+			<key>title</key>
+			<string>Going Camping </string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>28</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>In the spring, we hunt for wild eggs.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Upinġaksrami manniŋñiaġuurugut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>Where do you go to hunt eggs?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Napmun mannigiaġuuvich?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>My spouse and I are going to the Chamisso Islands.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Tuvaaqatigalu manniagiaġniaqtuguk Chamisso Islands-nun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>How do they hunt eggs? Do you have to climb up?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanuq manniŋñiaġuuvat, mayuġnaqpaa?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>Yes, you have to climb and sometimes it gets slippery when it rains.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ii, mayuġnaqtuq, suli iḷaatni qauyaġnaqsisuuruq sialukman.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>What kinds of eggs are there?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanutchiñik manniqaqpa?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>Murres and lesser gulls [smaller than seagulls] nest in the cliffs there.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Akpaaluurallu, nauyatchiallu ivasuurut ipnani tavrani.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>What else is on the island?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suqaqpa atlamik qikiqtami?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>There is sea lovage and wild celery on top of the island; they grow tall.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Tukkaayuqaqtuq, suli ikuusuqaqtuq qaaŋani; nauqpaguurut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>I would like to go along some time.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iḷaatni maliguktuŋa.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>11</string>
+					<key>english</key>
+					<array>
+						<string>Yes, but I will have to watch you closely. It's dangerous when you don't know [the place].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Ii, aglaan qaunaginiaġikpiñ. Nuyuaġnaqtuq naluruni.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>12</string>
+					<key>english</key>
+					<array>
+						<string>And there is white gravel on the mainland beach.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suli, kitiqaqtuq nunapiami taġium siñani.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>13</string>
+					<key>english</key>
+					<array>
+						<string>What is white gravel?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sunauna kitik?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>14</string>
+					<key>english</key>
+					<array>
+						<string>It's white and they use it when they take the fur off the ugruk hide when making hard soles for mukluks.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qatiqtuq, atuġuugaat mitquiqsiruni atuŋaŋnun.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>15</string>
+					<key>english</key>
+					<array>
+						<string>How do they use it?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Qanuq atuġuuvatruŋ?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>16</string>
+					<key>english</key>
+					<array>
+						<string>First they put it on the fur side [of the mukluk bottom] and then they scrape off the fur.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Mitquanun piqqaaqługu aasiiñ piiyaqługu mitquq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>17</string>
+					<key>english</key>
+					<array>
+						<string>That's great, I've learned something more.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aarigaa, iḷitchivsaalgitchuŋauvva.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>18</string>
+					<key>english</key>
+					<array>
+						<string>The eggs must be boiled [before they are eaten].</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iganaqtut manniich qalatitlugich.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>19</string>
+					<key>english</key>
+					<array>
+						<string>Some people store them in seal oil in pokes.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iḷaŋich uqsrumun puunun iḷisuugaich.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>20</string>
+					<key>english</key>
+					<array>
+						<string>It's good to eat eggs.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Manniksuqtuni nakuuruq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>21</string>
+					<key>english</key>
+					<array>
+						<string>Seagull eggs are large.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Nauyat manniŋich aŋirut.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>22</string>
+					<key>english</key>
+					<array>
+						<string>You can bake a cake using only one egg.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Atautchiḷhiñamik manniŋmik cay-ḷiuġnaqtuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>23</string>
+					<key>english</key>
+					<array>
+						<string>It makes it [the cake] rise a lot.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Puvsakpauraġuuruq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>24</string>
+					<key>english</key>
+					<array>
+						<string>It's way better than with store-bought eggs.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Mannipianiñ unnii nakuutluktuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>25</string>
+					<key>english</key>
+					<array>
+						<string>Wow, they sure eat good food.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Yoi, niġiḷḷuaqtuat asu.</string>
+					</array>
+				</dict>
+			</array>
+			<key>subtitle</key>
+			<string>(dialogue)</string>
+			<key>title</key>
+			<string>Egg Hunting </string>
+		</dict>
+		<dict>
+			<key>ID</key>
+			<string>29</string>
+			<key>phrases</key>
+			<array>
+				<dict>
+					<key>ID</key>
+					<string>1</string>
+					<key>english</key>
+					<array>
+						<string>We hardly hunt for molting ducks around here.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Isanniatlaiqsugut maani.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>2</string>
+					<key>english</key>
+					<array>
+						<string>Why not?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Suvaata?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>3</string>
+					<key>english</key>
+					<array>
+						<string>There is too much activity.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iññiqpaitḷuni.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>4</string>
+					<key>english</key>
+					<array>
+						<string>But there are molting ducks where there are no people.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aglaan samma ñluiḷaamiittut isat.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>5</string>
+					<key>english</key>
+					<array>
+						<string>A long time ago there used to be some in Anigaaq.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Iŋiḷġaan isaqaġuuruaq Anigaami.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>6</string>
+					<key>english</key>
+					<array>
+						<string>Where is Anigaaq located?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sumiitpa Anigaaq?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>7</string>
+					<key>english</key>
+					<array>
+						<string>It's past Sisualik.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Sisualgum avanitchiaŋaniittuq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>8</string>
+					<key>english</key>
+					<array>
+						<string>There used to be molting ducks there in the grass.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Tamaani ivigaani isaqaġuuniqsuaq.</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>9</string>
+					<key>english</key>
+					<array>
+						<string>How about now, are they gone?</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Aasii pakma, piiqpaat?</string>
+					</array>
+				</dict>
+				<dict>
+					<key>ID</key>
+					<string>10</string>
+					<key>english</key>
+					<array>
+						<string>They're gone. They are over where there's not much traffic.</string>
+					</array>
+					<key>native</key>
+					<array>
+						<string>Piiqsut, avani iñuiḷaamiittut.</string>
+					</array>
+				</dict>
+			</array>
+			<key>subtitle</key>
+			<string>(dialogue)</string>
+			<key>title</key>
+			<string>Hunting for Molting Ducks </string>
+		</dict>
+	</array>
+</dict>
+</plist>

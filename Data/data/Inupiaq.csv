@@ -786,16 +786,16 @@ SECTION 19	Time
 14	Anaktaġruaqtut anaqapak.
 	There will be Eskimo games tonight.
 	
-SECTION 20: Days of the week (Inupiaq names for the days are not used very often, and English names are used instead.)	
-	Savaiḷiq, Savalliiḷiq, Ilaqatchiiḷiq, Qitchiiḷiq, Sisammiiḷiq, Tallimiiḷiq, Itchaksriiḷiq
+SECTION 20	Days of the week (Inupiaq names for the days are not used very often, and English names are used instead.)	
+1	Savaiḷiq, Savalliiḷiq, Ilaqatchiiḷiq, Qitchiiḷiq, Sisammiiḷiq, Tallimiiḷiq, Itchaksriiḷiq
 	Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
-1	Aullaġniaqtuŋa Savaŋḷigxru.
+2	Aullaġniaqtuŋa Savaŋḷigxru.
 	I'm leaving on Sunday.
-2	Uvlupak Savaitchugut (Savalliuqtugut, Ilaqatchiuqtugut, Qitchiurugut, Sisammiuqtugut, Tallimiuqtugut, Itchaksriuqtugut).
+3	Uvlupak Savaitchugut (Savalliuqtugut, Ilaqatchiuqtugut, Qitchiurugut, Sisammiuqtugut, Tallimiuqtugut, Itchaksriuqtugut).
 	Today is Sunday (Monday, Tuesday, Wednesday, Thursday, Friday, Saturday).
-3	Suŋŋuqpa uvlupak?
+4	Suŋŋuqpa uvlupak?
 	What is the date today?
-4	Uvlupak March ten-ŋuqtuq.
+5	Uvlupak March ten-ŋuqtuq.
 	Today is March tenth.
 	
 SECTION 21	Foods
