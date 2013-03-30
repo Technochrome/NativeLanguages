@@ -20,27 +20,26 @@
 		[self.navigationController setNavigationBarHidden:NO animated:YES];
 		
 		NSURL *langURL = [[NSBundle mainBundle] URLForResource:@"languages" withExtension:@"plist" subdirectory:@"LanguageFiles"];
-		languages = [[NSMutableDictionary alloc] initWithContentsOfURL:langURL];
-		categories = [languages allKeys];
+		languages = [[NSArray alloc] initWithContentsOfURL:langURL];
     }
     return self;
 }
 
 -(NSInteger) tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-	return [categories count];
+	return [languages count];
 }
 -(UITableViewCell*) tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
 	UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"UITableViewCell"];
 	if(!cell)
 		cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:@"UITableViewCell"];
 	
-	[[cell textLabel] setText:categories[indexPath.row]];
+	[[cell textLabel] setText:languages[indexPath.row]];
 	return cell;
 }
 -(void) tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
 	ANLCPhraseCategoriesController * cntrl = [[ANLCPhraseCategoriesController alloc]
-											  initWithCategories:languages[categories[indexPath.row]]];
-	cntrl.title = categories[indexPath.row];
+											  initWithLanguage:languages[indexPath.row]];
+	
 	[self.navigationController pushViewController:cntrl animated:YES];
 }
 

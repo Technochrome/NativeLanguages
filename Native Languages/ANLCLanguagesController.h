@@ -10,6 +10,6 @@
 
 @interface ANLCLanguagesController : UITableViewController {
 	NSArray *categories;
-	NSMutableDictionary * languages;
+	NSArray * languages;
 }
 @end

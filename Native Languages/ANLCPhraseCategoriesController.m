@@ -11,13 +11,13 @@
 
 @implementation ANLCPhraseCategoriesController
 
--(id) initWithCategories: (NSDictionary*) c {
+-(id) initWithLanguage: (NSString*) language {
 	if((self = [super init])) {
-		NSArray * unsortedCategories = [c allKeys];
-		tableData = [unsortedCategories sortedArrayUsingComparator:^NSComparisonResult(id obj1, id obj2) {
-			return [c[obj1] compare: c[obj2]];
-		}];
-		categories = c;
+		[self setTitle:language];
+		
+		NSURL *langURL = [[NSBundle mainBundle] URLForResource:language withExtension:@"plist" subdirectory:@"LanguageFiles"];
+		categories = [[NSDictionary alloc] initWithContentsOfURL:langURL];
+		tableData = [categories objectForKey:@"sections"];
 	}
 	return self;
 }
@@ -30,16 +30,13 @@
 	if(!cell)
 		cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:@"UITableViewCell"];
 	
-	[[cell textLabel] setText:tableData[indexPath.row]];
+	[[cell textLabel] setText:tableData[indexPath.row][@"title"]];
+	[[cell detailTextLabel] setText:tableData[indexPath.row][@"subtitle"]];
 	return cell;
 }
 -(void) tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
-	NSURL *url = [[NSBundle mainBundle] URLForResource:[NSString stringWithFormat:@"%@/%@" , self.title, categories[tableData[indexPath.row]]]
-										 withExtension:@".plist"
-										  subdirectory:@"LanguageFiles"];
-	
-	ANLCPhrasesController *cntrl = [[ANLCPhrasesController alloc] initWithPhrases:[NSDictionary dictionaryWithContentsOfURL:url]];
-	cntrl.title = tableData[indexPath.row];
+	ANLCPhrasesController *cntrl = [[ANLCPhrasesController alloc] initWithPhrases:tableData[indexPath.row][@"phrases"]];
+	cntrl.title = tableData[indexPath.row][@"title"];
 	[self.navigationController pushViewController:cntrl animated:YES];
 }
 @end

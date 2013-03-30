@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 
 @interface ANLCPhrasesController : UITableViewController {
-	NSDictionary * phrases;
+	NSArray * phrases;
 }
--(id) initWithPhrases:(NSDictionary*) p;
+-(id) initWithPhrases:(NSArray*) p;
 @end

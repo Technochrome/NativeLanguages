@@ -13,5 +13,5 @@
 	NSArray * tableData;
 }
 
--(id) initWithCategories: (NSDictionary*) categories;
+-(id) initWithLanguage: (NSString*) language;
 @end

@@ -1,67 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>Inupiaq</key>
-	<dict>
-		<key>At the Store (dialogue)</key>
-		<integer>26</integer>
-		<key>Birthday and Birthplace (dialogue)</key>
-		<integer>10</integer>
-		<key>Common Expressions</key>
-		<integer>2</integer>
-		<key>Common Nouns</key>
-		<integer>11</integer>
-		<key>Common Questions and Simple Answers</key>
-		<integer>6</integer>
-		<key>Common Requests</key>
-		<integer>5</integer>
-		<key>Conference with the Teacher (dialogue)</key>
-		<integer>25</integer>
-		<key>Counting</key>
-		<integer>15</integer>
-		<key>Dialogue on Place Names</key>
-		<integer>17</integer>
-		<key>Directions (dialogue)</key>
-		<integer>13</integer>
-		<key>Eating (dialogue)</key>
-		<integer>24</integer>
-		<key>Egg Hunting (dialogue)</key>
-		<integer>28</integer>
-		<key>Exclamations</key>
-		<integer>3</integer>
-		<key>Fish, Animals, Birds</key>
-		<integer>23</integer>
-		<key>Foods</key>
-		<integer>21</integer>
-		<key>General Dialogue</key>
-		<integer>12</integer>
-		<key>Going Camping (dialogue)</key>
-		<integer>27</integer>
-		<key>Greeting and Leave-Taking</key>
-		<integer>4</integer>
-		<key>Household Items</key>
-		<integer>22</integer>
-		<key>Hunting for Molting Ducks (dialogue)</key>
-		<integer>29</integer>
-		<key>Introductions Between People (dialogue)</key>
-		<integer>8</integer>
-		<key>Names and General Conversation (dialogue)</key>
-		<integer>9</integer>
-		<key>Personal Conditions and Feelings</key>
-		<integer>7</integer>
-		<key>Place Names</key>
-		<integer>16</integer>
-		<key>Savaiḷiq, Savalliiḷiq, Ilaqatchiiḷiq, Qitchiiḷiq, Sisammiiḷiq, Tallimiiḷiq, Itchaksriiḷiq</key>
-		<integer>20</integer>
-		<key>Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday</key>
-		<integer>20</integer>
-		<key>The Seasons</key>
-		<integer>18</integer>
-		<key>Time</key>
-		<integer>19</integer>
-		<key>Weather (words/phrases)</key>
-		<integer>14</integer>
-	</dict>
-</dict>
+<array>
+	<string>Inupiaq</string>
+</array>
 </plist>
