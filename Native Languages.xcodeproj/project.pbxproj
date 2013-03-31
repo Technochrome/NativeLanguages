@@ -26,6 +26,10 @@
 		2FA9D66816BB648100BD5252 /* ANLCPhraseCategoriesController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9D66616BB648100BD5252 /* ANLCPhraseCategoriesController_iPhone.xib */; };
 		2FA9D66E16BB648100BD5252 /* ANLCSecondViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9D66C16BB648100BD5252 /* ANLCSecondViewController_iPhone.xib */; };
 		2FA9D67116BB648100BD5252 /* ANLCSecondViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9D66F16BB648100BD5252 /* ANLCSecondViewController_iPad.xib */; };
+		2FC1E36A1708E07900023A67 /* PhraseView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FC1E3691708E07900023A67 /* PhraseView.xib */; };
+		2FC1E36D1708E12C00023A67 /* ANLCCompactPhraseView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FC1E36C1708E12C00023A67 /* ANLCCompactPhraseView.m */; };
+		2FC1E36F1708EB3300023A67 /* Attributions.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 2FC1E36E1708EB3300023A67 /* Attributions.rtf */; };
+		2FC1E3711708EB6400023A67 /* Loudspeaker.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FC1E3701708EB6400023A67 /* Loudspeaker.png */; };
 		2FD2D1A716D6BA31003538C8 /* ANLCPhraseCategoriesController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FD2D1A616D6BA31003538C8 /* ANLCPhraseCategoriesController.m */; };
 		2FD2D1A916D6FDFD003538C8 /* LanguageFiles in Resources */ = {isa = PBXBuildFile; fileRef = 2FD2D1A816D6FDFD003538C8 /* LanguageFiles */; };
 /* End PBXBuildFile section */
@@ -57,6 +61,11 @@
 		2FA9D66716BB648100BD5252 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ANLCPhraseCategoriesController_iPhone.xib; sourceTree = "<group>"; };
 		2FA9D66D16BB648100BD5252 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ANLCSecondViewController_iPhone.xib; sourceTree = "<group>"; };
 		2FA9D67016BB648100BD5252 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ANLCSecondViewController_iPad.xib; sourceTree = "<group>"; };
+		2FC1E3691708E07900023A67 /* PhraseView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PhraseView.xib; sourceTree = "<group>"; };
+		2FC1E36B1708E12C00023A67 /* ANLCCompactPhraseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANLCCompactPhraseView.h; sourceTree = "<group>"; };
+		2FC1E36C1708E12C00023A67 /* ANLCCompactPhraseView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ANLCCompactPhraseView.m; sourceTree = "<group>"; };
+		2FC1E36E1708EB3300023A67 /* Attributions.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = Attributions.rtf; sourceTree = "<group>"; };
+		2FC1E3701708EB6400023A67 /* Loudspeaker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Loudspeaker.png; sourceTree = "<group>"; };
 		2FD2D1A516D6BA31003538C8 /* ANLCPhraseCategoriesController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANLCPhraseCategoriesController.h; sourceTree = "<group>"; };
 		2FD2D1A616D6BA31003538C8 /* ANLCPhraseCategoriesController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ANLCPhraseCategoriesController.m; sourceTree = "<group>"; };
 		2FD2D1A816D6FDFD003538C8 /* LanguageFiles */ = {isa = PBXFileReference; lastKnownFileType = folder; path = LanguageFiles; sourceTree = "<group>"; };
@@ -86,6 +95,8 @@
 				2FD2D1A616D6BA31003538C8 /* ANLCPhraseCategoriesController.m */,
 				2F0B2CE116D886A300F1ADC7 /* ANLCPhrasesController.h */,
 				2F0B2CE216D886A300F1ADC7 /* ANLCPhrasesController.m */,
+				2FC1E36B1708E12C00023A67 /* ANLCCompactPhraseView.h */,
+				2FC1E36C1708E12C00023A67 /* ANLCCompactPhraseView.m */,
 			);
 			name = Phrases;
 			sourceTree = "<group>";
@@ -109,6 +120,7 @@
 				2FA9D65B16BB648100BD5252 /* first.png */,
 				2FA9D65D16BB648100BD5252 /* first@2x.png */,
 				2FA9D66616BB648100BD5252 /* ANLCPhraseCategoriesController_iPhone.xib */,
+				2FC1E3691708E07900023A67 /* PhraseView.xib */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -160,9 +172,11 @@
 				2FA9D64916BB648100BD5252 /* InfoPlist.strings */,
 				2FA9D64C16BB648100BD5252 /* main.m */,
 				2FA9D64E16BB648100BD5252 /* Native Languages-Prefix.pch */,
+				2FC1E3701708EB6400023A67 /* Loudspeaker.png */,
 				2FA9D65216BB648100BD5252 /* Default.png */,
 				2FA9D65416BB648100BD5252 /* Default@2x.png */,
 				2FA9D65616BB648100BD5252 /* Default-568h@2x.png */,
+				2FC1E36E1708EB3300023A67 /* Attributions.rtf */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -231,6 +245,9 @@
 				2FA9D66E16BB648100BD5252 /* ANLCSecondViewController_iPhone.xib in Resources */,
 				2FA9D67116BB648100BD5252 /* ANLCSecondViewController_iPad.xib in Resources */,
 				2FD2D1A916D6FDFD003538C8 /* LanguageFiles in Resources */,
+				2FC1E36A1708E07900023A67 /* PhraseView.xib in Resources */,
+				2FC1E36F1708EB3300023A67 /* Attributions.rtf in Resources */,
+				2FC1E3711708EB6400023A67 /* Loudspeaker.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,6 +264,7 @@
 				2FA9D66116BB648100BD5252 /* ANLCSecondViewController.m in Sources */,
 				2FD2D1A716D6BA31003538C8 /* ANLCPhraseCategoriesController.m in Sources */,
 				2F0B2CE316D886A300F1ADC7 /* ANLCPhrasesController.m in Sources */,
+				2FC1E36D1708E12C00023A67 /* ANLCCompactPhraseView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

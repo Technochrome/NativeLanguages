@@ -30,9 +30,7 @@
 }
 
 \t
-\s*"//"\s*	{
-	return SLASH;
-}
+\s*"//"\s*	return SLASH;
 \n 			return NL;
 
 \(.*\)[\s\t]*$		{
@@ -43,7 +41,8 @@
 	yylval.obj = [NSString stringWithUTF8String:yytext];
 	return midPAREN;
 }
-.			{
+"/ "	{return SLASH;}
+"/"			{
 	yylval.iVal = *yytext;
 	return CHAR;
 }
