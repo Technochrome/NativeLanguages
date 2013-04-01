@@ -8,9 +8,8 @@
 
 #import "ANLCCompactPhraseView.h"
 
-
 @implementation ANLCCompactPhraseView
-@synthesize title,subtitle,section;
+@synthesize title,subtitle,section,delegate;
 
 - (id)initWithFrame:(CGRect)frame
 {
@@ -21,9 +20,29 @@
     return self;
 }
 
--(void) setPhrase:(NSDictionary *)phrase {
+-(void) setPhrase:(NSDictionary *)phrase  {
 	[title setText:phrase[@"native"][0]];
 	[subtitle setText:phrase[@"english"][0]];
+	
+	if([phrase[@"native"] count] > 1) {
+		[button setImage:[UIImage imageNamed:@"ExpandTriangle.png"] forState:UIControlStateNormal];
+		[button addTarget:self action:@selector(expandSection) forControlEvents:UIControlEventTouchUpInside];
+	} else {
+		[button addTarget:self action:@selector(playAudio) forControlEvents:UIControlEventTouchUpInside];
+	}
+}
+
+-(void) playAudio {
+	NSLog(@"play audio");
+}
+
+-(void) closeSection {
+	[button setImage:[UIImage imageNamed:@"ExpandTriangle.png"] forState:UIControlStateNormal];
+}
+-(void) expandSection {
+	NSLog(@"expand");
+	[button setImage:[UIImage imageNamed:@"Loudspeaker.png"] forState:UIControlStateNormal];
+	if(delegate) [delegate expandSection:self];
 }
 
 /*

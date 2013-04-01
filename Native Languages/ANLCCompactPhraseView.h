@@ -8,12 +8,22 @@
 
 #import <UIKit/UIKit.h>
 
+@class ANLCCompactPhraseView;
+
+@protocol ANLCCompactPhraseViewDelegate <NSObject>
+-(void) expandSection:(ANLCCompactPhraseView*) phraseView;
+@end
+
+
 @interface ANLCCompactPhraseView : UIView {
 	IBOutlet UILabel * title, *subtitle;
+	IBOutlet UIButton * button;
+	__weak id<ANLCCompactPhraseViewDelegate> delegate;
 }
 @property (readonly) UILabel *title, *subtitle;
 @property (readwrite) NSInteger section;
+@property (readwrite, weak) id<ANLCCompactPhraseViewDelegate> delegate;
 
 -(void) setPhrase:(NSDictionary *) phrase;
-
+-(void) closeSection;
 @end

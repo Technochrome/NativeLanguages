@@ -8,11 +8,13 @@
 
 #import <Foundation/Foundation.h>
 
-@class ANLCCompactPhraseView;
+#import "ANLCCompactPhraseView.h"
 
-@interface ANLCPhrasesController : UITableViewController {
+@interface ANLCPhrasesController : UITableViewController <ANLCCompactPhraseViewDelegate> {
 	NSArray * phrases;
 	IBOutlet ANLCCompactPhraseView * phraseView;
+	
+	ANLCCompactPhraseView * openSection;
 }
 -(id) initWithPhrases:(NSArray*) p;
 @end
