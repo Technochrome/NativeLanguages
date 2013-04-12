@@ -69,6 +69,10 @@ section : SECTION section_desc opt_endPAREN NLs phrases {
 			$2, @"title",
 			$3, @"subtitle", nil //I think that if $3 is nil it will stop there
 		];
+	for(int i=0; i<[$5 count]; i++) {
+		NSMutableDictionary * phrase = [$5 objectAtIndex:i];
+		[phrase setObject:[NSString stringWithFormat:@"%d.%@",$1,[phrase objectForKey:@"ID"]] forKey:@"ID"];
+	}
 };
 
 phrases : phrases phrase {
@@ -78,7 +82,7 @@ phrases : phrases phrase {
 };
 
 phrase : NUMBER definitions NLs definitions NLs {
-	$$ = [NSDictionary dictionaryWithObjectsAndKeys:
+	$$ = [NSMutableDictionary dictionaryWithObjectsAndKeys:
 			[NSString stringWithFormat:@"%d",$1], @"ID",
 			$2, @"native",
 			$4, @"english", nil

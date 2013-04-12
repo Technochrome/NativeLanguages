@@ -30,7 +30,9 @@ CGFloat phraseHeaderHeight;
 
 // -1 because of header
 -(NSInteger) tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-	return (openSection && [openSection section] == section ? [phrases[section][@"native"] count]-1 : 0);
+	return (openSection && [openSection section] == section ?
+			MAX([phrases[section][@"native"] count],[phrases[section][@"english"] count])-1
+			: 0);
 }
 -(UIView*) tableView:(UITableView *)tableView viewForHeaderInSection:(NSInteger)section {
 	ANLCCompactPhraseView *cell = nil;// = [tableView dequeueReusableCellWithIdentifier:@"ANLCCompactPhraseView"];
@@ -55,8 +57,15 @@ CGFloat phraseHeaderHeight;
 	NSDictionary * phrase = phrases[indexPath.section];
 	
 	// +1 because the header is part 0
-	[[cell textLabel] setText:phrase[@"native"][indexPath.row+1]];
-	[[cell detailTextLabel] setText:phrase[@"english"][indexPath.row+1]];
+	// FIXME, native and english aren't always the same length
+	NSArray * native = phrase[@"native"], *english = phrase[@"english"];
+	int idx = indexPath.row+1;
+	if(idx < [native count]) {
+		cell.textLabel.text = native[idx];
+		if(idx < [english count]) cell.detailTextLabel.text = english[idx];
+	} else {
+		cell.textLabel.text = english[idx];
+	}
 	return cell;
 }
 -(NSArray*) indexPathsForSection:(ANLCCompactPhraseView*) sectionHeader {

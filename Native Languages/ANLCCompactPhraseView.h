@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@class ANLCCompactPhraseView;
+@class ANLCCompactPhraseView,AVAudioPlayer;
 
 @protocol ANLCCompactPhraseViewDelegate <NSObject>
 -(void) expandSection:(ANLCCompactPhraseView*) phraseView;
@@ -22,6 +22,7 @@
 }
 @property (readonly) UILabel *title, *subtitle;
 @property (readwrite) NSInteger section;
+@property (readwrite) NSString * audioID;
 @property (readwrite, weak) id<ANLCCompactPhraseViewDelegate> delegate;
 
 -(void) setPhrase:(NSDictionary *) phrase;

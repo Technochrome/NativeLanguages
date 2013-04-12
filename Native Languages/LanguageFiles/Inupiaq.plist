@@ -52,7 +52,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>2.1</string>
 					<key>english</key>
 					<array>
 						<string>Yes</string>
@@ -64,7 +64,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>2.2</string>
 					<key>english</key>
 					<array>
 						<string>No</string>
@@ -76,7 +76,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>2.3</string>
 					<key>english</key>
 					<array>
 						<string>More, again</string>
@@ -88,7 +88,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>2.4</string>
 					<key>english</key>
 					<array>
 						<string>Enough. That's all!</string>
@@ -100,7 +100,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>2.5</string>
 					<key>english</key>
 					<array>
 						<string>It's good.</string>
@@ -112,7 +112,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>2.6</string>
 					<key>english</key>
 					<array>
 						<string>What's up? What's the matter? [lit., What is he/she/it doing?]</string>
@@ -124,7 +124,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>2.7</string>
 					<key>english</key>
 					<array>
 						<string>Where are you from?</string>
@@ -136,7 +136,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>2.8</string>
 					<key>english</key>
 					<array>
 						<string>Who are you? What is your name?</string>
@@ -149,7 +149,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>2.9</string>
 					<key>english</key>
 					<array>
 						<string>I want to.</string>
@@ -161,7 +161,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>2.10</string>
 					<key>english</key>
 					<array>
 						<string>I don't want to.</string>
@@ -173,7 +173,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>2.11</string>
 					<key>english</key>
 					<array>
 						<string>May I come in.</string>
@@ -185,7 +185,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>2.12</string>
 					<key>english</key>
 					<array>
 						<string>Excuse me. I didn't mean to.</string>
@@ -197,7 +197,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>2.13</string>
 					<key>english</key>
 					<array>
 						<string>Here! Take it!</string>
@@ -209,7 +209,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>2.14</string>
 					<key>english</key>
 					<array>
 						<string>Where? Where is it?</string>
@@ -221,7 +221,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>2.15</string>
 					<key>english</key>
 					<array>
 						<string>Thank you.</string>
@@ -234,7 +234,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>2.16</string>
 					<key>english</key>
 					<array>
 						<string>Go ahead!</string>
@@ -255,7 +255,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>3.1</string>
 					<key>english</key>
 					<array>
 						<string>Don't do it. Leave it alone. Don't bother him/her [to one person].</string>
@@ -267,7 +267,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>3.2</string>
 					<key>english</key>
 					<array>
 						<string>So many! It's a lot!</string>
@@ -279,7 +279,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>3.3</string>
 					<key>english</key>
 					<array>
 						<string>Good! Really good!</string>
@@ -291,7 +291,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>3.4</string>
 					<key>english</key>
 					<array>
 						<string>I don't want to! Ouch! That hurts! That's too bad!</string>
@@ -303,7 +303,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>3.5</string>
 					<key>english</key>
 					<array>
 						<string>Hurry up!</string>
@@ -315,7 +315,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>3.6</string>
 					<key>english</key>
 					<array>
 						<string>Too bad! What a shame! It's no good!</string>
@@ -327,7 +327,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>3.7</string>
 					<key>english</key>
 					<array>
 						<string>Watch out! Danger! It's scary [refers usually to physical danger].</string>
@@ -339,7 +339,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>3.8</string>
 					<key>english</key>
 					<array>
 						<string>Stop it! [expression of annoyance].</string>
@@ -351,7 +351,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>3.9</string>
 					<key>english</key>
 					<array>
 						<string>Good job!</string>
@@ -363,7 +363,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>3.10</string>
 					<key>english</key>
 					<array>
 						<string>Wow!</string>
@@ -375,7 +375,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>3.11</string>
 					<key>english</key>
 					<array>
 						<string>Poor thing!</string>
@@ -387,7 +387,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>3.12</string>
 					<key>english</key>
 					<array>
 						<string>It's foul smelling! It stinks!</string>
@@ -399,7 +399,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>3.13</string>
 					<key>english</key>
 					<array>
 						<string>So small!</string>
@@ -411,7 +411,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>3.14</string>
 					<key>english</key>
 					<array>
 						<string>It's very cold! I'm cold!</string>
@@ -423,7 +423,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>3.15</string>
 					<key>english</key>
 					<array>
 						<string>Scary! Creepy! Danger!</string>
@@ -435,7 +435,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>3.16</string>
 					<key>english</key>
 					<array>
 						<string>Wow! It's fun!</string>
@@ -448,7 +448,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>3.17</string>
 					<key>english</key>
 					<array>
 						<string>It's good!</string>
@@ -460,7 +460,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>3.18</string>
 					<key>english</key>
 					<array>
 						<string>It's warm! [usually of a building or clothing].</string>
@@ -472,7 +472,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>3.19</string>
 					<key>english</key>
 					<array>
 						<string>Nope!</string>
@@ -484,7 +484,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>20</string>
+					<string>3.20</string>
 					<key>english</key>
 					<array>
 						<string>How nasty, ugly, bad, wrong! [expression of dislike, disapproval].</string>
@@ -496,7 +496,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>21</string>
+					<string>3.21</string>
 					<key>english</key>
 					<array>
 						<string>How cute!</string>
@@ -508,7 +508,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>22</string>
+					<string>3.22</string>
 					<key>english</key>
 					<array>
 						<string>This one too.</string>
@@ -520,7 +520,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>23</string>
+					<string>3.23</string>
 					<key>english</key>
 					<array>
 						<string>This is no good!</string>
@@ -532,7 +532,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>24</string>
+					<string>3.24</string>
 					<key>english</key>
 					<array>
 						<string>What in the world is he/she doing?</string>
@@ -544,7 +544,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>25</string>
+					<string>3.25</string>
 					<key>english</key>
 					<array>
 						<string>So much! Too much!</string>
@@ -556,7 +556,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>26</string>
+					<string>3.26</string>
 					<key>english</key>
 					<array>
 						<string>It's messy, dirty!</string>
@@ -568,7 +568,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>27</string>
+					<string>3.27</string>
 					<key>english</key>
 					<array>
 						<string>Be quiet!</string>
@@ -580,7 +580,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>28</string>
+					<string>3.28</string>
 					<key>english</key>
 					<array>
 						<string>I don't know.</string>
@@ -592,7 +592,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>29</string>
+					<string>3.29</string>
 					<key>english</key>
 					<array>
 						<string>Isn't that right?</string>
@@ -604,7 +604,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>30</string>
+					<string>3.30</string>
 					<key>english</key>
 					<array>
 						<string>What?</string>
@@ -616,7 +616,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>31</string>
+					<string>3.31</string>
 					<key>english</key>
 					<array>
 						<string>Look! Look right here! Look over there!</string>
@@ -628,7 +628,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>32</string>
+					<string>3.32</string>
 					<key>english</key>
 					<array>
 						<string>Listen!</string>
@@ -640,7 +640,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>33</string>
+					<string>3.33</string>
 					<key>english</key>
 					<array>
 						<string>Listen to that noise [of something unseen].</string>
@@ -652,7 +652,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>34</string>
+					<string>3.34</string>
 					<key>english</key>
 					<array>
 						<string>How annoying! What a pain!</string>
@@ -664,7 +664,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>35</string>
+					<string>3.35</string>
 					<key>english</key>
 					<array>
 						<string>It's too big, too much! He/she is very big!</string>
@@ -676,7 +676,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>36</string>
+					<string>3.36</string>
 					<key>english</key>
 					<array>
 						<string>Serves you right!</string>
@@ -688,7 +688,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>37</string>
+					<string>3.37</string>
 					<key>english</key>
 					<array>
 						<string>Thank you very much.</string>
@@ -700,7 +700,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>38</string>
+					<string>3.38</string>
 					<key>english</key>
 					<array>
 						<string>Really?</string>
@@ -712,7 +712,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>39</string>
+					<string>3.39</string>
 					<key>english</key>
 					<array>
 						<string>It's been a long time.</string>
@@ -724,7 +724,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>40</string>
+					<string>3.40</string>
 					<key>english</key>
 					<array>
 						<string>Almost!</string>
@@ -747,7 +747,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>4.1</string>
 					<key>english</key>
 					<array>
 						<string>How are you?</string>
@@ -759,7 +759,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>4.2</string>
 					<key>english</key>
 					<array>
 						<string>How are you all/you(3+)?</string>
@@ -771,7 +771,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>4.3</string>
 					<key>english</key>
 					<array>
 						<string>What are you doing? How are you doing?</string>
@@ -783,7 +783,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>4.4</string>
 					<key>english</key>
 					<array>
 						<string>I'm fine.</string>
@@ -795,7 +795,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>4.5</string>
 					<key>english</key>
 					<array>
 						<string>We are fine.</string>
@@ -807,7 +807,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>4.6</string>
 					<key>english</key>
 					<array>
 						<string>How is your wife/husband? He/she is fine.</string>
@@ -819,7 +819,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>4.7</string>
 					<key>english</key>
 					<array>
 						<string>And your children, how about them? </string>
@@ -833,7 +833,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>4.8</string>
 					<key>english</key>
 					<array>
 						<string>How are your relatives? </string>
@@ -847,7 +847,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>4.9</string>
 					<key>english</key>
 					<array>
 						<string>Why did you come here? </string>
@@ -861,7 +861,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>4.10</string>
 					<key>english</key>
 					<array>
 						<string>Is Nauyaq here? </string>
@@ -875,7 +875,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>4.11</string>
 					<key>english</key>
 					<array>
 						<string>See you tomorrow again. </string>
@@ -898,7 +898,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>5.1</string>
 					<key>english</key>
 					<array>
 						<string>Come in [to one person]. </string>
@@ -912,7 +912,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>5.2</string>
 					<key>english</key>
 					<array>
 						<string>Go out [to one person]. </string>
@@ -926,7 +926,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>5.3</string>
 					<key>english</key>
 					<array>
 						<string>Come with me [to one person]. </string>
@@ -940,7 +940,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>5.4</string>
 					<key>english</key>
 					<array>
 						<string>Help me [to one person]. </string>
@@ -954,7 +954,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>5.5</string>
 					<key>english</key>
 					<array>
 						<string>Take it out [to one person]. </string>
@@ -968,7 +968,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>5.6</string>
 					<key>english</key>
 					<array>
 						<string>Take it, pick it up [to one person]. </string>
@@ -982,7 +982,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>5.7</string>
 					<key>english</key>
 					<array>
 						<string>Give it here [to one person]. </string>
@@ -996,7 +996,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>5.8</string>
 					<key>english</key>
 					<array>
 						<string>Eat [to one person]. </string>
@@ -1010,7 +1010,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>5.9</string>
 					<key>english</key>
 					<array>
 						<string>Eat it [to one person]. </string>
@@ -1024,7 +1024,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>5.10</string>
 					<key>english</key>
 					<array>
 						<string>Don't eat [to one person]. </string>
@@ -1038,7 +1038,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>5.11</string>
 					<key>english</key>
 					<array>
 						<string>Drink it [to one person]. </string>
@@ -1052,7 +1052,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>5.12</string>
 					<key>english</key>
 					<array>
 						<string>Throw it out [to one person]. </string>
@@ -1066,7 +1066,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>5.13</string>
 					<key>english</key>
 					<array>
 						<string>Open the door [to one person].</string>
@@ -1078,7 +1078,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>5.14</string>
 					<key>english</key>
 					<array>
 						<string>Close the door [to one person].</string>
@@ -1090,7 +1090,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>5.15</string>
 					<key>english</key>
 					<array>
 						<string>Turn on the light [to one person].</string>
@@ -1102,7 +1102,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>5.16</string>
 					<key>english</key>
 					<array>
 						<string>Turn out the light [to one person].</string>
@@ -1114,7 +1114,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>5.17</string>
 					<key>english</key>
 					<array>
 						<string>Get it out of the way [to one person]. </string>
@@ -1128,7 +1128,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>5.18</string>
 					<key>english</key>
 					<array>
 						<string>Get out of the way, move [to one person]. </string>
@@ -1142,7 +1142,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>5.19</string>
 					<key>english</key>
 					<array>
 						<string>Take off your parka, coat [to one person]. </string>
@@ -1156,7 +1156,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>20</string>
+					<string>5.20</string>
 					<key>english</key>
 					<array>
 						<string>Take off your boots [to one person]. </string>
@@ -1170,7 +1170,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>21</string>
+					<string>5.21</string>
 					<key>english</key>
 					<array>
 						<string>Sit down [to one person]. </string>
@@ -1184,7 +1184,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>22</string>
+					<string>5.22</string>
 					<key>english</key>
 					<array>
 						<string>Wait for me [to one person]. </string>
@@ -1198,7 +1198,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>23</string>
+					<string>5.23</string>
 					<key>english</key>
 					<array>
 						<string>Come here [to one person]. </string>
@@ -1212,7 +1212,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>24</string>
+					<string>5.24</string>
 					<key>english</key>
 					<array>
 						<string>Get up [to one person]. </string>
@@ -1226,7 +1226,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>25</string>
+					<string>5.25</string>
 					<key>english</key>
 					<array>
 						<string>Go to bed [to one person]. </string>
@@ -1240,7 +1240,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>26</string>
+					<string>5.26</string>
 					<key>english</key>
 					<array>
 						<string>Go away [to one person]. </string>
@@ -1254,7 +1254,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>27</string>
+					<string>5.27</string>
 					<key>english</key>
 					<array>
 						<string>Don't touch it [to one person]. </string>
@@ -1268,7 +1268,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>28</string>
+					<string>5.28</string>
 					<key>english</key>
 					<array>
 						<string>Come again [to one person]. </string>
@@ -1282,7 +1282,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>29</string>
+					<string>5.29</string>
 					<key>english</key>
 					<array>
 						<string>Don't forget [to one person]. </string>
@@ -1296,7 +1296,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>30</string>
+					<string>5.30</string>
 					<key>english</key>
 					<array>
 						<string>Don't forget it [to one person]. </string>
@@ -1310,7 +1310,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>31</string>
+					<string>5.31</string>
 					<key>english</key>
 					<array>
 						<string>Don't do it [to one person].</string>
@@ -1322,7 +1322,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>32</string>
+					<string>5.32</string>
 					<key>english</key>
 					<array>
 						<string>Wake up [to one person]. </string>
@@ -1336,7 +1336,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>33</string>
+					<string>5.33</string>
 					<key>english</key>
 					<array>
 						<string>Move [to one person]. </string>
@@ -1350,7 +1350,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>34</string>
+					<string>5.34</string>
 					<key>english</key>
 					<array>
 						<string>Please say it again [to one person].</string>
@@ -1362,7 +1362,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>35</string>
+					<string>5.35</string>
 					<key>english</key>
 					<array>
 						<string>Speak slowly [to one person].</string>
@@ -1374,7 +1374,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>36</string>
+					<string>5.36</string>
 					<key>english</key>
 					<array>
 						<string>Don't get into things. Don't dig around in things.</string>
@@ -1396,7 +1396,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>6.1</string>
 					<key>english</key>
 					<array>
 						<string>What shall we do? </string>
@@ -1412,7 +1412,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>6.2</string>
 					<key>english</key>
 					<array>
 						<string>What are you going to do? </string>
@@ -1430,7 +1430,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>6.3</string>
 					<key>english</key>
 					<array>
 						<string>What are you doing? </string>
@@ -1450,7 +1450,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>6.4</string>
 					<key>english</key>
 					<array>
 						<string>What shall we eat? </string>
@@ -1470,7 +1470,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>6.5</string>
 					<key>english</key>
 					<array>
 						<string>What do you want to eat? </string>
@@ -1490,7 +1490,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>6.6</string>
 					<key>english</key>
 					<array>
 						<string>What do you want? </string>
@@ -1510,7 +1510,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>6.7</string>
 					<key>english</key>
 					<array>
 						<string>Where are you going? </string>
@@ -1528,7 +1528,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>6.8</string>
 					<key>english</key>
 					<array>
 						<string>Where are you staying? </string>
@@ -1546,7 +1546,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>6.9</string>
 					<key>english</key>
 					<array>
 						<string>Where are you from? </string>
@@ -1566,7 +1566,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>6.10</string>
 					<key>english</key>
 					<array>
 						<string>Where are you coming from? </string>
@@ -1584,7 +1584,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>6.11</string>
 					<key>english</key>
 					<array>
 						<string>When did you come? </string>
@@ -1600,7 +1600,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>6.12</string>
 					<key>english</key>
 					<array>
 						<string>How long will you be here? </string>
@@ -1618,7 +1618,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>6.13</string>
 					<key>english</key>
 					<array>
 						<string>What are you going to do here? </string>
@@ -1634,7 +1634,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>6.14</string>
 					<key>english</key>
 					<array>
 						<string>When are you going home? </string>
@@ -1652,7 +1652,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>6.15</string>
 					<key>english</key>
 					<array>
 						<string>Who are your parents? </string>
@@ -1666,7 +1666,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>6.16</string>
 					<key>english</key>
 					<array>
 						<string>Do you have any children? </string>
@@ -1686,7 +1686,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>6.17</string>
 					<key>english</key>
 					<array>
 						<string>Whose is this? </string>
@@ -1704,7 +1704,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>6.18</string>
 					<key>english</key>
 					<array>
 						<string>Whose are these? </string>
@@ -1722,7 +1722,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>6.19</string>
 					<key>english</key>
 					<array>
 						<string>Who is your mother? </string>
@@ -1738,7 +1738,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>20</string>
+					<string>6.20</string>
 					<key>english</key>
 					<array>
 						<string>Who is your father? </string>
@@ -1754,7 +1754,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>21</string>
+					<string>6.21</string>
 					<key>english</key>
 					<array>
 						<string>Is your grandmother (grandfather) still living? </string>
@@ -1768,7 +1768,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>22</string>
+					<string>6.22</string>
 					<key>english</key>
 					<array>
 						<string>Where do you work? </string>
@@ -1784,7 +1784,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>23</string>
+					<string>6.23</string>
 					<key>english</key>
 					<array>
 						<string>When are you leaving? </string>
@@ -1800,7 +1800,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>24</string>
+					<string>6.24</string>
 					<key>english</key>
 					<array>
 						<string>Will you(1) come back some time? </string>
@@ -1816,7 +1816,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>25</string>
+					<string>6.25</string>
 					<key>english</key>
 					<array>
 						<string>Do you eat Native food? </string>
@@ -1832,7 +1832,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>26</string>
+					<string>6.26</string>
 					<key>english</key>
 					<array>
 						<string>How much does that cost? </string>
@@ -1847,7 +1847,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>27</string>
+					<string>6.27</string>
 					<key>english</key>
 					<array>
 						<string>Do you understand me? </string>
@@ -1863,7 +1863,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>28</string>
+					<string>6.28</string>
 					<key>english</key>
 					<array>
 						<string>Do you like this? </string>
@@ -1879,7 +1879,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>29</string>
+					<string>6.29</string>
 					<key>english</key>
 					<array>
 						<string>May I go with you? </string>
@@ -1893,7 +1893,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>30</string>
+					<string>6.30</string>
 					<key>english</key>
 					<array>
 						<string>How should I do it? </string>
@@ -1909,7 +1909,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>31</string>
+					<string>6.31</string>
 					<key>english</key>
 					<array>
 						<string>Who is this? </string>
@@ -1925,7 +1925,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>32</string>
+					<string>6.32</string>
 					<key>english</key>
 					<array>
 						<string>What kind of hot drink do you want? </string>
@@ -1941,7 +1941,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>33</string>
+					<string>6.33</string>
 					<key>english</key>
 					<array>
 						<string>What is this in Iñupiaq? </string>
@@ -1955,7 +1955,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>34</string>
+					<string>6.34</string>
 					<key>english</key>
 					<array>
 						<string>What is this in English?</string>
@@ -1967,7 +1967,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>35</string>
+					<string>6.35</string>
 					<key>english</key>
 					<array>
 						<string>"How do you say ""wolverine"" in Iñupiaq? </string>
@@ -1990,7 +1990,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>7.1</string>
 					<key>english</key>
 					<array>
 						<string>Are you hungry? </string>
@@ -2006,7 +2006,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>7.2</string>
 					<key>english</key>
 					<array>
 						<string>Do you want to eat? </string>
@@ -2022,7 +2022,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>7.3</string>
 					<key>english</key>
 					<array>
 						<string>Are you sleepy? </string>
@@ -2038,7 +2038,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>7.4</string>
 					<key>english</key>
 					<array>
 						<string>Are you tired? </string>
@@ -2054,7 +2054,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>7.5</string>
 					<key>english</key>
 					<array>
 						<string>Are you sick?  </string>
@@ -2070,7 +2070,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>7.6</string>
 					<key>english</key>
 					<array>
 						<string>Do you have a headache? </string>
@@ -2086,7 +2086,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>7.7</string>
 					<key>english</key>
 					<array>
 						<string>Do you want a hot drink? </string>
@@ -2102,7 +2102,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>7.8</string>
 					<key>english</key>
 					<array>
 						<string>Are you cold? </string>
@@ -2118,7 +2118,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>7.9</string>
 					<key>english</key>
 					<array>
 						<string>Are your feet cold? </string>
@@ -2134,7 +2134,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>7.10</string>
 					<key>english</key>
 					<array>
 						<string>Are you hot? </string>
@@ -2150,7 +2150,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>7.11</string>
 					<key>english</key>
 					<array>
 						<string>Do you have a stomachache? </string>
@@ -2166,7 +2166,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>7.12</string>
 					<key>english</key>
 					<array>
 						<string>Are you lonely? </string>
@@ -2182,7 +2182,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>7.13</string>
 					<key>english</key>
 					<array>
 						<string>Are you happy? </string>
@@ -2198,7 +2198,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>7.14</string>
 					<key>english</key>
 					<array>
 						<string>Are you homesick? </string>
@@ -2223,7 +2223,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>8.1</string>
 					<key>english</key>
 					<array>
 						<string>Who are you?</string>
@@ -2236,7 +2236,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>8.2</string>
 					<key>english</key>
 					<array>
 						<string>I'm Kapniaq.</string>
@@ -2249,7 +2249,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>8.3</string>
 					<key>english</key>
 					<array>
 						<string>Where are you from?</string>
@@ -2261,7 +2261,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>8.4</string>
 					<key>english</key>
 					<array>
 						<string>I'm from Kotzebue.</string>
@@ -2273,7 +2273,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>8.5</string>
 					<key>english</key>
 					<array>
 						<string>Who(2) are your parents(2)?</string>
@@ -2285,7 +2285,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>8.6</string>
 					<key>english</key>
 					<array>
 						<string>Aŋutvak and Qapuk are my parents(2).</string>
@@ -2297,7 +2297,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>8.7</string>
 					<key>english</key>
 					<array>
 						<string>Are you my relative?</string>
@@ -2309,7 +2309,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>8.8</string>
 					<key>english</key>
 					<array>
 						<string>You're my relative!</string>
@@ -2321,7 +2321,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>8.9</string>
 					<key>english</key>
 					<array>
 						<string>How are we(2) related?</string>
@@ -2333,7 +2333,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>8.10</string>
 					<key>english</key>
 					<array>
 						<string>We(2) are cross-cousins [meaning that our parents are brother and sister].</string>
@@ -2356,7 +2356,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>9.1</string>
 					<key>english</key>
 					<array>
 						<string>What is your English name?</string>
@@ -2368,7 +2368,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>9.2</string>
 					<key>english</key>
 					<array>
 						<string>My name is Larry.</string>
@@ -2380,7 +2380,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>9.3</string>
 					<key>english</key>
 					<array>
 						<string>What is your Eskimo name?</string>
@@ -2392,7 +2392,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>9.4</string>
 					<key>english</key>
 					<array>
 						<string>My Eskimo name is Taġġaq [means 'shadow'].</string>
@@ -2404,7 +2404,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>9.5</string>
 					<key>english</key>
 					<array>
 						<string>What is your older sister's Eskimo name?</string>
@@ -2416,7 +2416,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>9.6</string>
 					<key>english</key>
 					<array>
 						<string>Her Eskimo name is Qaliaq.</string>
@@ -2428,7 +2428,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>9.7</string>
 					<key>english</key>
 					<array>
 						<string>What is your younger sibling's English name?</string>
@@ -2440,7 +2440,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>9.8</string>
 					<key>english</key>
 					<array>
 						<string>His name is Bill.</string>
@@ -2452,7 +2452,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>9.9</string>
 					<key>english</key>
 					<array>
 						<string>Are you married? [lit., do you have a spouse?]</string>
@@ -2464,7 +2464,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>9.10</string>
 					<key>english</key>
 					<array>
 						<string>I have a husband.</string>
@@ -2476,7 +2476,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>9.11</string>
 					<key>english</key>
 					<array>
 						<string>Do you have a wife?</string>
@@ -2488,7 +2488,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>9.12</string>
 					<key>english</key>
 					<array>
 						<string>I have a wife.</string>
@@ -2500,7 +2500,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>9.13</string>
 					<key>english</key>
 					<array>
 						<string>My spouse is Niġukkaq.</string>
@@ -2512,7 +2512,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>9.14</string>
 					<key>english</key>
 					<array>
 						<string>Do you have children?</string>
@@ -2524,7 +2524,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>9.15</string>
 					<key>english</key>
 					<array>
 						<string>How many children do you have?</string>
@@ -2536,7 +2536,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>9.16</string>
 					<key>english</key>
 					<array>
 						<string>I have five children, three boys and two girls.</string>
@@ -2548,7 +2548,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>9.17</string>
 					<key>english</key>
 					<array>
 						<string>How old are you?</string>
@@ -2560,7 +2560,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>9.18</string>
 					<key>english</key>
 					<array>
 						<string>I am thirty.</string>
@@ -2572,7 +2572,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>9.19</string>
 					<key>english</key>
 					<array>
 						<string>What do your children do?</string>
@@ -2584,7 +2584,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>20</string>
+					<string>9.20</string>
 					<key>english</key>
 					<array>
 						<string>They attend school in Kotzebue.</string>
@@ -2607,7 +2607,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>10.1</string>
 					<key>english</key>
 					<array>
 						<string>Where were you born?</string>
@@ -2619,7 +2619,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>10.2</string>
 					<key>english</key>
 					<array>
 						<string>I was born in Noatak.</string>
@@ -2631,7 +2631,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>10.3</string>
 					<key>english</key>
 					<array>
 						<string>Where do you live?</string>
@@ -2643,7 +2643,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>10.4</string>
 					<key>english</key>
 					<array>
 						<string>I live in Barrow.</string>
@@ -2655,7 +2655,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>10.5</string>
 					<key>english</key>
 					<array>
 						<string>What is your birthday?</string>
@@ -2667,7 +2667,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>10.6</string>
 					<key>english</key>
 					<array>
 						<string>Today is my birthday.</string>
@@ -2679,7 +2679,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>10.7</string>
 					<key>english</key>
 					<array>
 						<string>Are you older than I am?</string>
@@ -2691,7 +2691,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>10.8</string>
 					<key>english</key>
 					<array>
 						<string>No, I am turning twenty. I'm younger than you.</string>
@@ -2703,7 +2703,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>10.9</string>
 					<key>english</key>
 					<array>
 						<string>I thought you were older!</string>
@@ -2715,7 +2715,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>10.10</string>
 					<key>english</key>
 					<array>
 						<string>And where were you born?</string>
@@ -2727,7 +2727,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>10.11</string>
 					<key>english</key>
 					<array>
 						<string>I was born in Anchorage.</string>
@@ -2750,7 +2750,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>11.1</string>
 					<key>english</key>
 					<array>
 						<string>That man is my husband.</string>
@@ -2763,7 +2763,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>11.2</string>
 					<key>english</key>
 					<array>
 						<string>woman </string>
@@ -2778,7 +2778,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>11.3</string>
 					<key>english</key>
 					<array>
 						<string>boat </string>
@@ -2792,7 +2792,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>11.4</string>
 					<key>english</key>
 					<array>
 						<string>house </string>
@@ -2806,7 +2806,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>11.5</string>
 					<key>english</key>
 					<array>
 						<string>tent </string>
@@ -2820,7 +2820,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>11.6</string>
 					<key>english</key>
 					<array>
 						<string>school </string>
@@ -2834,7 +2834,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>11.7</string>
 					<key>english</key>
 					<array>
 						<string>child, offspring </string>
@@ -2848,7 +2848,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>11.8</string>
 					<key>english</key>
 					<array>
 						<string>small child </string>
@@ -2862,7 +2862,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>11.9</string>
 					<key>english</key>
 					<array>
 						<string>store</string>
@@ -2876,7 +2876,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>11.10</string>
 					<key>english</key>
 					<array>
 						<string>church </string>
@@ -2890,7 +2890,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>11.11</string>
 					<key>english</key>
 					<array>
 						<string>river  </string>
@@ -2904,7 +2904,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>11.12</string>
 					<key>english</key>
 					<array>
 						<string>sea, ocean </string>
@@ -2918,7 +2918,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>11.13</string>
 					<key>english</key>
 					<array>
 						<string>airport </string>
@@ -2932,7 +2932,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>11.14</string>
 					<key>english</key>
 					<array>
 						<string>land </string>
@@ -2946,7 +2946,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>11.15</string>
 					<key>english</key>
 					<array>
 						<string>lake </string>
@@ -2960,7 +2960,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>11.16</string>
 					<key>english</key>
 					<array>
 						<string>mosquito </string>
@@ -2974,7 +2974,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>11.17</string>
 					<key>english</key>
 					<array>
 						<string>dog </string>
@@ -2988,7 +2988,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>11.18</string>
 					<key>english</key>
 					<array>
 						<string>airplane </string>
@@ -3002,7 +3002,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>11.19</string>
 					<key>english</key>
 					<array>
 						<string>rifle </string>
@@ -3016,7 +3016,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>20</string>
+					<string>11.20</string>
 					<key>english</key>
 					<array>
 						<string>rain </string>
@@ -3030,7 +3030,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>21</string>
+					<string>11.21</string>
 					<key>english</key>
 					<array>
 						<string>Iñupiaq Eskimo </string>
@@ -3044,7 +3044,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>22</string>
+					<string>11.22</string>
 					<key>english</key>
 					<array>
 						<string>white person, English </string>
@@ -3060,7 +3060,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>23</string>
+					<string>11.23</string>
 					<key>english</key>
 					<array>
 						<string>husband </string>
@@ -3074,7 +3074,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>24</string>
+					<string>11.24</string>
 					<key>english</key>
 					<array>
 						<string>wife </string>
@@ -3088,7 +3088,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>25</string>
+					<string>11.25</string>
 					<key>english</key>
 					<array>
 						<string>daughter </string>
@@ -3102,7 +3102,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>26</string>
+					<string>11.26</string>
 					<key>english</key>
 					<array>
 						<string>son </string>
@@ -3125,7 +3125,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>12.1</string>
 					<key>english</key>
 					<array>
 						<string>Where are you from?</string>
@@ -3137,7 +3137,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>12.2</string>
 					<key>english</key>
 					<array>
 						<string>I'm from California.</string>
@@ -3149,7 +3149,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>12.3</string>
 					<key>english</key>
 					<array>
 						<string>Where do you live now?</string>
@@ -3161,7 +3161,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>12.4</string>
 					<key>english</key>
 					<array>
 						<string>Now I live in Kotzebue.</string>
@@ -3173,7 +3173,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>12.5</string>
 					<key>english</key>
 					<array>
 						<string>What is your job in Kotzebue?</string>
@@ -3185,7 +3185,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>12.6</string>
 					<key>english</key>
 					<array>
 						<string>I teach at the school. </string>
@@ -3199,7 +3199,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>12.7</string>
 					<key>english</key>
 					<array>
 						<string>Have you eaten yet?</string>
@@ -3211,7 +3211,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>12.8</string>
 					<key>english</key>
 					<array>
 						<string>I haven't eaten yet today.</string>
@@ -3223,7 +3223,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>12.9</string>
 					<key>english</key>
 					<array>
 						<string>Let's(2) go eat.</string>
@@ -3235,7 +3235,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>12.10</string>
 					<key>english</key>
 					<array>
 						<string>Where do you want to go eat?</string>
@@ -3247,7 +3247,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>12.11</string>
 					<key>english</key>
 					<array>
 						<string>Let's(2) go to the Nullaġvik Hotel.</string>
@@ -3259,7 +3259,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>12.12</string>
 					<key>english</key>
 					<array>
 						<string>Do you want to come to my house? I have some fish.</string>
@@ -3271,7 +3271,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>12.13</string>
 					<key>english</key>
 					<array>
 						<string>I like fish. What kind are they?</string>
@@ -3283,7 +3283,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>12.14</string>
 					<key>english</key>
 					<array>
 						<string>trout </string>
@@ -3301,7 +3301,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>12.15</string>
 					<key>english</key>
 					<array>
 						<string>That's fine, thank you very much.</string>
@@ -3313,7 +3313,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>12.16</string>
 					<key>english</key>
 					<array>
 						<string>Do you want to spend the night at our house?</string>
@@ -3325,7 +3325,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>12.17</string>
 					<key>english</key>
 					<array>
 						<string>I won't be here. I have to leave this evening.</string>
@@ -3337,7 +3337,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>12.18</string>
 					<key>english</key>
 					<array>
 						<string>When you come back, please stay here.</string>
@@ -3349,7 +3349,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>12.19</string>
 					<key>english</key>
 					<array>
 						<string>I'll be back for the quarterly meeting in March.</string>
@@ -3361,7 +3361,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>20</string>
+					<string>12.20</string>
 					<key>english</key>
 					<array>
 						<string>It's time to go. Thank you for letting me eat.</string>
@@ -3373,7 +3373,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>21</string>
+					<string>12.21</string>
 					<key>english</key>
 					<array>
 						<string>I'll see you again sometime.</string>
@@ -3385,7 +3385,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>22</string>
+					<string>12.22</string>
 					<key>english</key>
 					<array>
 						<string>Tell your wife I say hello.</string>
@@ -3406,7 +3406,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>13.1</string>
 					<key>english</key>
 					<array>
 						<string>Is there a telephone here? </string>
@@ -3420,7 +3420,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>13.2</string>
 					<key>english</key>
 					<array>
 						<string>Where is the store? </string>
@@ -3434,7 +3434,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>13.3</string>
 					<key>english</key>
 					<array>
 						<string>What is it like? Is it red? </string>
@@ -3448,7 +3448,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>13.4</string>
 					<key>english</key>
 					<array>
 						<string>Where is the post office? </string>
@@ -3462,7 +3462,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>13.5</string>
 					<key>english</key>
 					<array>
 						<string>Where's the school? </string>
@@ -3476,7 +3476,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>13.6</string>
 					<key>english</key>
 					<array>
 						<string>Where's the Senior Center? </string>
@@ -3490,7 +3490,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>13.7</string>
 					<key>english</key>
 					<array>
 						<string>Where's the church? </string>
@@ -3504,7 +3504,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>13.8</string>
 					<key>english</key>
 					<array>
 						<string>The Friends' Church is located the other side of the Napa store.</string>
@@ -3527,7 +3527,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>14.1</string>
 					<key>english</key>
 					<array>
 						<string>How is the weather?</string>
@@ -3539,7 +3539,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>14.2</string>
 					<key>english</key>
 					<array>
 						<string>It's raining.</string>
@@ -3551,7 +3551,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>14.3</string>
 					<key>english</key>
 					<array>
 						<string>It's snowing.</string>
@@ -3563,7 +3563,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>14.4</string>
 					<key>english</key>
 					<array>
 						<string>It's windy</string>
@@ -3575,7 +3575,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>14.5</string>
 					<key>english</key>
 					<array>
 						<string>It's sunny.</string>
@@ -3587,7 +3587,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>14.6</string>
 					<key>english</key>
 					<array>
 						<string>It's cold.</string>
@@ -3599,7 +3599,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>14.7</string>
 					<key>english</key>
 					<array>
 						<string>It's freezing cold.</string>
@@ -3611,7 +3611,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>14.8</string>
 					<key>english</key>
 					<array>
 						<string>It's warm, not cold.</string>
@@ -3623,7 +3623,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>14.9</string>
 					<key>english</key>
 					<array>
 						<string>It's hot.</string>
@@ -3635,7 +3635,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>14.10</string>
 					<key>english</key>
 					<array>
 						<string>It's foggy.</string>
@@ -3647,7 +3647,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>14.11</string>
 					<key>english</key>
 					<array>
 						<string>It's cloudy.</string>
@@ -3659,7 +3659,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>14.12</string>
 					<key>english</key>
 					<array>
 						<string>There's no visibility.</string>
@@ -3671,7 +3671,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>14.13</string>
 					<key>english</key>
 					<array>
 						<string>It's good weather.</string>
@@ -3683,7 +3683,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>14.14</string>
 					<key>english</key>
 					<array>
 						<string>It's bad weather.</string>
@@ -3695,7 +3695,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>14.15</string>
 					<key>english</key>
 					<array>
 						<string>It's stormy.</string>
@@ -3707,7 +3707,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>14.16</string>
 					<key>english</key>
 					<array>
 						<string>I feel cold.</string>
@@ -3719,7 +3719,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>14.17</string>
 					<key>english</key>
 					<array>
 						<string>My feet are cold.</string>
@@ -3731,7 +3731,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>14.18</string>
 					<key>english</key>
 					<array>
 						<string>My hands are cold.</string>
@@ -3743,7 +3743,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>14.19</string>
 					<key>english</key>
 					<array>
 						<string>My ears are cold.</string>
@@ -3755,7 +3755,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>20</string>
+					<string>14.20</string>
 					<key>english</key>
 					<array>
 						<string>When it becomes warmer I will fetch some wood.</string>
@@ -3767,7 +3767,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>21</string>
+					<string>14.21</string>
 					<key>english</key>
 					<array>
 						<string>When the weather becomes nice, I will go out with a dog team.</string>
@@ -3779,7 +3779,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>22</string>
+					<string>14.22</string>
 					<key>english</key>
 					<array>
 						<string>When the west wind blows, it's always cold.</string>
@@ -3791,7 +3791,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>23</string>
+					<string>14.23</string>
 					<key>english</key>
 					<array>
 						<string>When the weather becomes warmer, I will go hunt seals.</string>
@@ -3803,7 +3803,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>24</string>
+					<string>14.24</string>
 					<key>english</key>
 					<array>
 						<string>It's time for shee fishing in March.</string>
@@ -3815,7 +3815,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>25</string>
+					<string>14.25</string>
 					<key>english</key>
 					<array>
 						<string>They will have a dog race up to the Kobuk River.</string>
@@ -3827,7 +3827,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>26</string>
+					<string>14.26</string>
 					<key>english</key>
 					<array>
 						<string>They call it Kobuk 440.</string>
@@ -3839,7 +3839,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>27</string>
+					<string>14.27</string>
 					<key>english</key>
 					<array>
 						<string>John Baker usually runs the dog races.</string>
@@ -3851,7 +3851,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>28</string>
+					<string>14.28</string>
 					<key>english</key>
 					<array>
 						<string>It's almost spring time around here.</string>
@@ -3863,7 +3863,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>29</string>
+					<string>14.29</string>
 					<key>english</key>
 					<array>
 						<string>When it becomes warm, some of the people go camping.</string>
@@ -3875,7 +3875,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>30</string>
+					<string>14.30</string>
 					<key>english</key>
 					<array>
 						<string>They usually go camping on the ocean beaches.</string>
@@ -3887,7 +3887,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>31</string>
+					<string>14.31</string>
 					<key>english</key>
 					<array>
 						<string>Most of the people who have jobs hunt with boats from Kotzebue.</string>
@@ -3910,7 +3910,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>15.1</string>
 					<key>english</key>
 					<array>
 						<string>one </string>
@@ -3924,7 +3924,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>15.2</string>
 					<key>english</key>
 					<array>
 						<string>two </string>
@@ -3938,7 +3938,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>15.3</string>
 					<key>english</key>
 					<array>
 						<string>three </string>
@@ -3952,7 +3952,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>15.4</string>
 					<key>english</key>
 					<array>
 						<string>four </string>
@@ -3966,7 +3966,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>15.5</string>
 					<key>english</key>
 					<array>
 						<string>five </string>
@@ -3980,7 +3980,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>15.6</string>
 					<key>english</key>
 					<array>
 						<string>six </string>
@@ -3994,7 +3994,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>15.7</string>
 					<key>english</key>
 					<array>
 						<string>seven </string>
@@ -4008,7 +4008,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>15.8</string>
 					<key>english</key>
 					<array>
 						<string>eight </string>
@@ -4022,7 +4022,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>15.9</string>
 					<key>english</key>
 					<array>
 						<string>nine </string>
@@ -4036,7 +4036,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>15.10</string>
 					<key>english</key>
 					<array>
 						<string>ten </string>
@@ -4050,7 +4050,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>15.11</string>
 					<key>english</key>
 					<array>
 						<string>eleven </string>
@@ -4064,7 +4064,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>15.12</string>
 					<key>english</key>
 					<array>
 						<string>twelve </string>
@@ -4078,7 +4078,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>15.13</string>
 					<key>english</key>
 					<array>
 						<string>thirteen </string>
@@ -4092,7 +4092,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>15.14</string>
 					<key>english</key>
 					<array>
 						<string>fourteen </string>
@@ -4106,7 +4106,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>15.15</string>
 					<key>english</key>
 					<array>
 						<string>fifteen </string>
@@ -4120,7 +4120,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>15.16</string>
 					<key>english</key>
 					<array>
 						<string>sixteen </string>
@@ -4134,7 +4134,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>15.17</string>
 					<key>english</key>
 					<array>
 						<string>seventeen </string>
@@ -4148,7 +4148,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>15.18</string>
 					<key>english</key>
 					<array>
 						<string>eighteen </string>
@@ -4162,7 +4162,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>15.19</string>
 					<key>english</key>
 					<array>
 						<string>nineteen </string>
@@ -4176,7 +4176,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>20</string>
+					<string>15.20</string>
 					<key>english</key>
 					<array>
 						<string>twenty </string>
@@ -4190,7 +4190,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>21</string>
+					<string>15.21</string>
 					<key>english</key>
 					<array>
 						<string>twenty-one </string>
@@ -4204,7 +4204,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>22</string>
+					<string>15.22</string>
 					<key>english</key>
 					<array>
 						<string>thirty </string>
@@ -4218,7 +4218,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>23</string>
+					<string>15.23</string>
 					<key>english</key>
 					<array>
 						<string>forty </string>
@@ -4232,7 +4232,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>24</string>
+					<string>15.24</string>
 					<key>english</key>
 					<array>
 						<string>sixty </string>
@@ -4246,7 +4246,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>25</string>
+					<string>15.25</string>
 					<key>english</key>
 					<array>
 						<string>one hundred </string>
@@ -4260,7 +4260,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>26</string>
+					<string>15.26</string>
 					<key>english</key>
 					<array>
 						<string>thousand </string>
@@ -4283,7 +4283,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>16.1</string>
 					<key>english</key>
 					<array>
 						<string>Noorvik </string>
@@ -4303,7 +4303,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>16.2</string>
 					<key>english</key>
 					<array>
 						<string>Noatak </string>
@@ -4323,7 +4323,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>16.3</string>
 					<key>english</key>
 					<array>
 						<string>Deering </string>
@@ -4343,7 +4343,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>16.4</string>
 					<key>english</key>
 					<array>
 						<string>Kotzebue</string>
@@ -4355,7 +4355,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>16.5</string>
 					<key>english</key>
 					<array>
 						<string>Selawik</string>
@@ -4368,7 +4368,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>16.6</string>
 					<key>english</key>
 					<array>
 						<string>Kiana</string>
@@ -4380,7 +4380,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>16.7</string>
 					<key>english</key>
 					<array>
 						<string>Ambler </string>
@@ -4394,7 +4394,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>16.8</string>
 					<key>english</key>
 					<array>
 						<string>Shungnak</string>
@@ -4406,7 +4406,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>16.9</string>
 					<key>english</key>
 					<array>
 						<string>Kobuk</string>
@@ -4418,7 +4418,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>16.10</string>
 					<key>english</key>
 					<array>
 						<string>Buckland</string>
@@ -4431,7 +4431,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>16.11</string>
 					<key>english</key>
 					<array>
 						<string>Kivalina</string>
@@ -4443,7 +4443,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>16.12</string>
 					<key>english</key>
 					<array>
 						<string>Sheshaalik </string>
@@ -4457,7 +4457,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>16.13</string>
 					<key>english</key>
 					<array>
 						<string>Point Hope </string>
@@ -4471,7 +4471,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>16.14</string>
 					<key>english</key>
 					<array>
 						<string>Point Lay</string>
@@ -4483,7 +4483,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>16.15</string>
 					<key>english</key>
 					<array>
 						<string>Wainwright</string>
@@ -4495,7 +4495,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>16.16</string>
 					<key>english</key>
 					<array>
 						<string>Barrow </string>
@@ -4509,7 +4509,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>16.17</string>
 					<key>english</key>
 					<array>
 						<string>Atkasook</string>
@@ -4521,7 +4521,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>16.18</string>
 					<key>english</key>
 					<array>
 						<string>Nuiqsut</string>
@@ -4533,7 +4533,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>16.19</string>
 					<key>english</key>
 					<array>
 						<string>Barter Island/Kaktovik</string>
@@ -4545,7 +4545,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>20</string>
+					<string>16.20</string>
 					<key>english</key>
 					<array>
 						<string>Anaktuvuk Pass</string>
@@ -4557,7 +4557,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>21</string>
+					<string>16.21</string>
 					<key>english</key>
 					<array>
 						<string>North Slope</string>
@@ -4569,7 +4569,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>22</string>
+					<string>16.22</string>
 					<key>english</key>
 					<array>
 						<string>King Island</string>
@@ -4581,7 +4581,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>23</string>
+					<string>16.23</string>
 					<key>english</key>
 					<array>
 						<string>Little Diomede Island</string>
@@ -4593,7 +4593,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>24</string>
+					<string>16.24</string>
 					<key>english</key>
 					<array>
 						<string>Nome</string>
@@ -4605,7 +4605,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>25</string>
+					<string>16.25</string>
 					<key>english</key>
 					<array>
 						<string>Shishmaref</string>
@@ -4617,7 +4617,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>26</string>
+					<string>16.26</string>
 					<key>english</key>
 					<array>
 						<string>Koyuk</string>
@@ -4629,7 +4629,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>27</string>
+					<string>16.27</string>
 					<key>english</key>
 					<array>
 						<string>Shaktoolik</string>
@@ -4641,7 +4641,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>28</string>
+					<string>16.28</string>
 					<key>english</key>
 					<array>
 						<string>Unalakleet</string>
@@ -4653,7 +4653,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>29</string>
+					<string>16.29</string>
 					<key>english</key>
 					<array>
 						<string>Wales</string>
@@ -4665,7 +4665,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>30</string>
+					<string>16.30</string>
 					<key>english</key>
 					<array>
 						<string>White Mountain</string>
@@ -4677,7 +4677,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>31</string>
+					<string>16.31</string>
 					<key>english</key>
 					<array>
 						<string>Golovin</string>
@@ -4689,7 +4689,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>32</string>
+					<string>16.32</string>
 					<key>english</key>
 					<array>
 						<string>Mary's Igloo</string>
@@ -4701,7 +4701,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>33</string>
+					<string>16.33</string>
 					<key>english</key>
 					<array>
 						<string>Siberia or Siberian person/The Siberians came to dance.</string>
@@ -4713,7 +4713,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>34</string>
+					<string>16.34</string>
 					<key>english</key>
 					<array>
 						<string>Kobuk River</string>
@@ -4725,7 +4725,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>35</string>
+					<string>16.35</string>
 					<key>english</key>
 					<array>
 						<string>Yukon River</string>
@@ -4746,7 +4746,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>17.1</string>
 					<key>english</key>
 					<array>
 						<string>When will you travel to Shungnak?</string>
@@ -4758,7 +4758,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>17.2</string>
 					<key>english</key>
 					<array>
 						<string>I'm leaving tomorrow.</string>
@@ -4770,7 +4770,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>17.3</string>
 					<key>english</key>
 					<array>
 						<string>I won't be going to Shungnak. I'll go to Noorvik.</string>
@@ -4782,7 +4782,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>17.4</string>
 					<key>english</key>
 					<array>
 						<string>What will you do in Noorvik?</string>
@@ -4794,7 +4794,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>17.5</string>
 					<key>english</key>
 					<array>
 						<string>I'll go to a meeting.</string>
@@ -4806,7 +4806,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>17.6</string>
 					<key>english</key>
 					<array>
 						<string>Is your wife/husband going too?</string>
@@ -4818,7 +4818,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>17.7</string>
 					<key>english</key>
 					<array>
 						<string>No, she/he is staying home with the children.</string>
@@ -4830,7 +4830,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>17.8</string>
 					<key>english</key>
 					<array>
 						<string>Do you have friends in Noorvik?</string>
@@ -4842,7 +4842,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>17.9</string>
 					<key>english</key>
 					<array>
 						<string>I have relatives in Noorvik.</string>
@@ -4854,7 +4854,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>17.10</string>
 					<key>english</key>
 					<array>
 						<string>My cross-cousin and family live in Noorvik.</string>
@@ -4866,7 +4866,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>17.11</string>
 					<key>english</key>
 					<array>
 						<string>How far is it from Kotzebue?</string>
@@ -4878,7 +4878,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>17.12</string>
 					<key>english</key>
 					<array>
 						<string>It's thirty minutes by airplane or three hours by snowmachine.</string>
@@ -4890,7 +4890,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>17.13</string>
 					<key>english</key>
 					<array>
 						<string>Are there lots of fish in Noorvik in the Kobuk River?</string>
@@ -4902,7 +4902,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>17.14</string>
 					<key>english</key>
 					<array>
 						<string>Yes, there are trout, sheefish, salmon, and northern pike.</string>
@@ -4914,7 +4914,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>17.15</string>
 					<key>english</key>
 					<array>
 						<string>Noorvik is on a bluff on the banks of the Kobuk.</string>
@@ -4926,7 +4926,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>17.16</string>
 					<key>english</key>
 					<array>
 						<string>Is there another village close to Noorvik?</string>
@@ -4938,7 +4938,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>17.17</string>
 					<key>english</key>
 					<array>
 						<string>Yes, Kiana isn't far. It's on the Kobuk too.</string>
@@ -4950,7 +4950,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>17.18</string>
 					<key>english</key>
 					<array>
 						<string>How long will you be gone?</string>
@@ -4962,7 +4962,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>17.19</string>
 					<key>english</key>
 					<array>
 						<string>One week.</string>
@@ -4983,7 +4983,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>18.1</string>
 					<key>english</key>
 					<array>
 						<string>spring </string>
@@ -4997,7 +4997,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>18.2</string>
 					<key>english</key>
 					<array>
 						<string>summer </string>
@@ -5011,7 +5011,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>18.3</string>
 					<key>english</key>
 					<array>
 						<string>autumn </string>
@@ -5025,7 +5025,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>18.4</string>
 					<key>english</key>
 					<array>
 						<string>winter </string>
@@ -5048,7 +5048,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>19.1</string>
 					<key>english</key>
 					<array>
 						<string>What time is it?</string>
@@ -5061,7 +5061,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>19.2</string>
 					<key>english</key>
 					<array>
 						<string>It's five o'clock. </string>
@@ -5075,7 +5075,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>19.3</string>
 					<key>english</key>
 					<array>
 						<string>Time is really going fast.</string>
@@ -5087,7 +5087,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>19.4</string>
 					<key>english</key>
 					<array>
 						<string>Do you have a watch?</string>
@@ -5099,7 +5099,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>19.5</string>
 					<key>english</key>
 					<array>
 						<string>It's time for the meeting.</string>
@@ -5111,7 +5111,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>19.6</string>
 					<key>english</key>
 					<array>
 						<string>What time does school start?</string>
@@ -5123,7 +5123,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>19.7</string>
 					<key>english</key>
 					<array>
 						<string>It's time to go home.</string>
@@ -5136,7 +5136,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>19.8</string>
 					<key>english</key>
 					<array>
 						<string>It's almost time for geese to arrive.</string>
@@ -5148,7 +5148,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>19.9</string>
 					<key>english</key>
 					<array>
 						<string>School is almost out.</string>
@@ -5160,7 +5160,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>19.10</string>
 					<key>english</key>
 					<array>
 						<string>I will come over when I'm done.</string>
@@ -5172,7 +5172,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>19.11</string>
 					<key>english</key>
 					<array>
 						<string>We will go to Larry's place at seven o'clock.</string>
@@ -5184,7 +5184,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>19.12</string>
 					<key>english</key>
 					<array>
 						<string>I will return to Fairbanks in the morning.</string>
@@ -5196,7 +5196,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>19.13</string>
 					<key>english</key>
 					<array>
 						<string>When will we eat?</string>
@@ -5208,7 +5208,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>19.14</string>
 					<key>english</key>
 					<array>
 						<string>There will be Eskimo games tonight.</string>
@@ -5229,7 +5229,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>20.1</string>
 					<key>english</key>
 					<array>
 						<string>Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday</string>
@@ -5241,7 +5241,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>20.2</string>
 					<key>english</key>
 					<array>
 						<string>I'm leaving on Sunday.</string>
@@ -5253,7 +5253,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>20.3</string>
 					<key>english</key>
 					<array>
 						<string>Today is Sunday (Monday, Tuesday, Wednesday, Thursday, Friday, Saturday).</string>
@@ -5265,7 +5265,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>20.4</string>
 					<key>english</key>
 					<array>
 						<string>What is the date today?</string>
@@ -5277,7 +5277,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>20.5</string>
 					<key>english</key>
 					<array>
 						<string>Today is March tenth.</string>
@@ -5300,7 +5300,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>21.1</string>
 					<key>english</key>
 					<array>
 						<string>berry </string>
@@ -5316,7 +5316,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>21.2</string>
 					<key>english</key>
 					<array>
 						<string>salmonberry </string>
@@ -5332,7 +5332,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>21.3</string>
 					<key>english</key>
 					<array>
 						<string>blueberry </string>
@@ -5348,7 +5348,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>21.4</string>
 					<key>english</key>
 					<array>
 						<string>blackberry </string>
@@ -5364,7 +5364,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>21.5</string>
 					<key>english</key>
 					<array>
 						<string>low-bush cranberry </string>
@@ -5378,7 +5378,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>21.6</string>
 					<key>english</key>
 					<array>
 						<string>nagoonberry </string>
@@ -5392,7 +5392,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>21.7</string>
 					<key>english</key>
 					<array>
 						<string>dried fruit </string>
@@ -5406,7 +5406,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>21.8</string>
 					<key>english</key>
 					<array>
 						<string>raisin </string>
@@ -5420,7 +5420,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>21.9</string>
 					<key>english</key>
 					<array>
 						<string>piece of large fruit, like apple, orange </string>
@@ -5434,7 +5434,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>21.10</string>
 					<key>english</key>
 					<array>
 						<string>Eskimo ice cream </string>
@@ -5450,7 +5450,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>21.11</string>
 					<key>english</key>
 					<array>
 						<string>loaf of bread </string>
@@ -5466,7 +5466,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>21.12</string>
 					<key>english</key>
 					<array>
 						<string>stew </string>
@@ -5482,7 +5482,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>21.13</string>
 					<key>english</key>
 					<array>
 						<string>pilot bread </string>
@@ -5498,7 +5498,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>21.14</string>
 					<key>english</key>
 					<array>
 						<string>dried fish </string>
@@ -5514,7 +5514,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>21.15</string>
 					<key>english</key>
 					<array>
 						<string>cooked partially dried salmon </string>
@@ -5530,7 +5530,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>21.16</string>
 					<key>english</key>
 					<array>
 						<string>coffee </string>
@@ -5546,7 +5546,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>21.17</string>
 					<key>english</key>
 					<array>
 						<string>tea </string>
@@ -5562,7 +5562,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>21.18</string>
 					<key>english</key>
 					<array>
 						<string>hot drink </string>
@@ -5578,7 +5578,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>21.19</string>
 					<key>english</key>
 					<array>
 						<string>water </string>
@@ -5603,7 +5603,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>22.1</string>
 					<key>english</key>
 					<array>
 						<string>table </string>
@@ -5617,7 +5617,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>22.2</string>
 					<key>english</key>
 					<array>
 						<string>coffee maker </string>
@@ -5631,7 +5631,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>22.3</string>
 					<key>english</key>
 					<array>
 						<string>bed </string>
@@ -5647,7 +5647,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>22.4</string>
 					<key>english</key>
 					<array>
 						<string>stove </string>
@@ -5661,7 +5661,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>22.5</string>
 					<key>english</key>
 					<array>
 						<string>light </string>
@@ -5677,7 +5677,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>22.6</string>
 					<key>english</key>
 					<array>
 						<string>semi-circular knife, ulu </string>
@@ -5691,7 +5691,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>22.7</string>
 					<key>english</key>
 					<array>
 						<string>window </string>
@@ -5705,7 +5705,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>22.8</string>
 					<key>english</key>
 					<array>
 						<string>curtain or shade </string>
@@ -5719,7 +5719,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>22.9</string>
 					<key>english</key>
 					<array>
 						<string>door </string>
@@ -5735,7 +5735,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>22.10</string>
 					<key>english</key>
 					<array>
 						<string>pot </string>
@@ -5749,7 +5749,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>22.11</string>
 					<key>english</key>
 					<array>
 						<string>mop </string>
@@ -5763,7 +5763,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>22.12</string>
 					<key>english</key>
 					<array>
 						<string>broom </string>
@@ -5786,7 +5786,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>23.1</string>
 					<key>english</key>
 					<array>
 						<string>fish </string>
@@ -5800,7 +5800,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>23.2</string>
 					<key>english</key>
 					<array>
 						<string>salmon </string>
@@ -5814,7 +5814,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>23.3</string>
 					<key>english</key>
 					<array>
 						<string>trout </string>
@@ -5828,7 +5828,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>23.4</string>
 					<key>english</key>
 					<array>
 						<string>sheefish </string>
@@ -5842,7 +5842,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>23.5</string>
 					<key>english</key>
 					<array>
 						<string>tomcod </string>
@@ -5856,7 +5856,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>23.6</string>
 					<key>english</key>
 					<array>
 						<string>smelt </string>
@@ -5870,7 +5870,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>23.7</string>
 					<key>english</key>
 					<array>
 						<string>herring </string>
@@ -5884,7 +5884,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>23.8</string>
 					<key>english</key>
 					<array>
 						<string>caribou </string>
@@ -5898,7 +5898,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>23.9</string>
 					<key>english</key>
 					<array>
 						<string>moose </string>
@@ -5912,7 +5912,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>23.10</string>
 					<key>english</key>
 					<array>
 						<string>seal </string>
@@ -5926,7 +5926,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>23.11</string>
 					<key>english</key>
 					<array>
 						<string>bearded seal </string>
@@ -5940,7 +5940,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>23.12</string>
 					<key>english</key>
 					<array>
 						<string>walrus </string>
@@ -5954,7 +5954,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>23.13</string>
 					<key>english</key>
 					<array>
 						<string>beluga </string>
@@ -5968,7 +5968,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>23.14</string>
 					<key>english</key>
 					<array>
 						<string>bear </string>
@@ -5982,7 +5982,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>23.15</string>
 					<key>english</key>
 					<array>
 						<string>beaver </string>
@@ -5996,7 +5996,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>23.16</string>
 					<key>english</key>
 					<array>
 						<string>wolverine </string>
@@ -6010,7 +6010,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>23.17</string>
 					<key>english</key>
 					<array>
 						<string>wolf </string>
@@ -6024,7 +6024,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>23.18</string>
 					<key>english</key>
 					<array>
 						<string>lynx </string>
@@ -6038,7 +6038,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>23.19</string>
 					<key>english</key>
 					<array>
 						<string>muskrat </string>
@@ -6052,7 +6052,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>20</string>
+					<string>23.20</string>
 					<key>english</key>
 					<array>
 						<string>ground squirrel </string>
@@ -6066,7 +6066,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>21</string>
+					<string>23.21</string>
 					<key>english</key>
 					<array>
 						<string>bird, duck, goose </string>
@@ -6080,7 +6080,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>22</string>
+					<string>23.22</string>
 					<key>english</key>
 					<array>
 						<string>hawk </string>
@@ -6094,7 +6094,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>23</string>
+					<string>23.23</string>
 					<key>english</key>
 					<array>
 						<string>seagull </string>
@@ -6108,7 +6108,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>24</string>
+					<string>23.24</string>
 					<key>english</key>
 					<array>
 						<string>raven </string>
@@ -6122,7 +6122,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>25</string>
+					<string>23.25</string>
 					<key>english</key>
 					<array>
 						<string>pintail duck </string>
@@ -6136,7 +6136,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>26</string>
+					<string>23.26</string>
 					<key>english</key>
 					<array>
 						<string>Arctic tern </string>
@@ -6150,7 +6150,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>27</string>
+					<string>23.27</string>
 					<key>english</key>
 					<array>
 						<string>swan </string>
@@ -6164,7 +6164,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>28</string>
+					<string>23.28</string>
 					<key>english</key>
 					<array>
 						<string>sandhill crane </string>
@@ -6178,7 +6178,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>29</string>
+					<string>23.29</string>
 					<key>english</key>
 					<array>
 						<string>oldsquaw [long-tailed] duck </string>
@@ -6192,7 +6192,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>30</string>
+					<string>23.30</string>
 					<key>english</key>
 					<array>
 						<string>black brant goose </string>
@@ -6206,7 +6206,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>31</string>
+					<string>23.31</string>
 					<key>english</key>
 					<array>
 						<string>snowy owl </string>
@@ -6220,7 +6220,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>32</string>
+					<string>23.32</string>
 					<key>english</key>
 					<array>
 						<string>common snipe </string>
@@ -6234,7 +6234,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>33</string>
+					<string>23.33</string>
 					<key>english</key>
 					<array>
 						<string>eagle </string>
@@ -6257,7 +6257,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>24.1</string>
 					<key>english</key>
 					<array>
 						<string>What do you want to eat?</string>
@@ -6269,7 +6269,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>24.2</string>
 					<key>english</key>
 					<array>
 						<string>I haven't eaten dinner yet.</string>
@@ -6281,7 +6281,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>24.3</string>
 					<key>english</key>
 					<array>
 						<string>Then we will eat.</string>
@@ -6293,7 +6293,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>24.4</string>
 					<key>english</key>
 					<array>
 						<string>Thank you, I haven't eaten Eskimo food in a long time.</string>
@@ -6305,7 +6305,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>24.5</string>
 					<key>english</key>
 					<array>
 						<string>My son here will prepare [and cut] some frozen fish and meat.</string>
@@ -6317,7 +6317,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>24.6</string>
 					<key>english</key>
 					<array>
 						<string>When you don't have any Eskimo food, you really crave it.</string>
@@ -6329,7 +6329,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>24.7</string>
 					<key>english</key>
 					<array>
 						<string>Then I will fix a sack [of food] for you.</string>
@@ -6341,7 +6341,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>24.8</string>
 					<key>english</key>
 					<array>
 						<string>It's good to have close friends.</string>
@@ -6353,7 +6353,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>24.9</string>
 					<key>english</key>
 					<array>
 						<string>Do you want some berries?</string>
@@ -6365,7 +6365,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>24.10</string>
 					<key>english</key>
 					<array>
 						<string>It would be very good indeed to have some berries.</string>
@@ -6377,7 +6377,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>24.11</string>
 					<key>english</key>
 					<array>
 						<string>Call me when you plan to come here sometime.</string>
@@ -6389,7 +6389,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>24.12</string>
 					<key>english</key>
 					<array>
 						<string>For your information, I will come here again next year.</string>
@@ -6401,7 +6401,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>24.13</string>
 					<key>english</key>
 					<array>
 						<string>Good, we will eat together again then.</string>
@@ -6424,7 +6424,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>25.1</string>
 					<key>english</key>
 					<array>
 						<string>Hello. Come in, please. Here is a chair.</string>
@@ -6436,7 +6436,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>25.2</string>
 					<key>english</key>
 					<array>
 						<string>I have an appointment at one o'clock.</string>
@@ -6448,7 +6448,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>25.3</string>
 					<key>english</key>
 					<array>
 						<string>Today is parent-teacher day.</string>
@@ -6460,7 +6460,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>25.4</string>
 					<key>english</key>
 					<array>
 						<string>How is Bubba doing in school?</string>
@@ -6472,7 +6472,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>25.5</string>
 					<key>english</key>
 					<array>
 						<string>Very good, he likes math, but sometimes does not really like to read.</string>
@@ -6484,7 +6484,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>25.6</string>
 					<key>english</key>
 					<array>
 						<string>I read to him at home all the time.</string>
@@ -6496,7 +6496,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>25.7</string>
 					<key>english</key>
 					<array>
 						<string>There are books here if you would like to bring some home.</string>
@@ -6508,7 +6508,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>25.8</string>
 					<key>english</key>
 					<array>
 						<string>That's okay, we have all kinds of books.</string>
@@ -6520,7 +6520,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>25.9</string>
 					<key>english</key>
 					<array>
 						<string>Will you continue to read to him?</string>
@@ -6532,7 +6532,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>25.10</string>
 					<key>english</key>
 					<array>
 						<string>Yes, I want him to be able to comprehend his reading.</string>
@@ -6544,7 +6544,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>25.11</string>
 					<key>english</key>
 					<array>
 						<string>Very good. I will call or let you know when his reading improves.</string>
@@ -6567,7 +6567,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>26.1</string>
 					<key>english</key>
 					<array>
 						<string>How are you?</string>
@@ -6579,7 +6579,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>26.2</string>
 					<key>english</key>
 					<array>
 						<string>You finally came, and what might you be here for?</string>
@@ -6591,7 +6591,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>26.3</string>
 					<key>english</key>
 					<array>
 						<string>I'm looking for some small nails.</string>
@@ -6603,7 +6603,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>26.4</string>
 					<key>english</key>
 					<array>
 						<string>What are you making again?</string>
@@ -6615,7 +6615,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>26.5</string>
 					<key>english</key>
 					<array>
 						<string>I want to build a grub box.</string>
@@ -6627,7 +6627,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>26.6</string>
 					<key>english</key>
 					<array>
 						<string>Over there by the door [are nails].</string>
@@ -6639,7 +6639,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>26.7</string>
 					<key>english</key>
 					<array>
 						<string>And do you have any hinges?</string>
@@ -6651,7 +6651,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>26.8</string>
 					<key>english</key>
 					<array>
 						<string>They're across there, behind the brooms.</string>
@@ -6663,7 +6663,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>26.9</string>
 					<key>english</key>
 					<array>
 						<string>Do you have cartridges for a twenty-two rifle?</string>
@@ -6675,7 +6675,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>26.10</string>
 					<key>english</key>
 					<array>
 						<string>Are you going hunting?</string>
@@ -6687,7 +6687,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>26.11</string>
 					<key>english</key>
 					<array>
 						<string>My son is going squirrel hunting tomorrow.</string>
@@ -6699,7 +6699,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>26.12</string>
 					<key>english</key>
 					<array>
 						<string>He also wants a raincoat.</string>
@@ -6711,7 +6711,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>26.13</string>
 					<key>english</key>
 					<array>
 						<string>They are in there with the clothing.</string>
@@ -6723,7 +6723,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>26.14</string>
 					<key>english</key>
 					<array>
 						<string>How about boots?</string>
@@ -6735,7 +6735,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>26.15</string>
 					<key>english</key>
 					<array>
 						<string>There are none. They haven't come in yet.</string>
@@ -6747,7 +6747,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>26.16</string>
 					<key>english</key>
 					<array>
 						<string>What about rope for boats?</string>
@@ -6759,7 +6759,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>26.17</string>
 					<key>english</key>
 					<array>
 						<string>Here is some strong rope which has just arrived.</string>
@@ -6771,7 +6771,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>26.18</string>
 					<key>english</key>
 					<array>
 						<string>How much do you want?</string>
@@ -6783,7 +6783,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>26.19</string>
 					<key>english</key>
 					<array>
 						<string>About twenty feet.</string>
@@ -6795,7 +6795,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>20</string>
+					<string>26.20</string>
 					<key>english</key>
 					<array>
 						<string>Where will you(3+) be going?</string>
@@ -6807,7 +6807,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>21</string>
+					<string>26.21</string>
 					<key>english</key>
 					<array>
 						<string>There are lots of squirrels at Salluq.</string>
@@ -6819,7 +6819,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>22</string>
+					<string>26.22</string>
 					<key>english</key>
 					<array>
 						<string>Who made that parka? It has nice trim.</string>
@@ -6831,7 +6831,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>23</string>
+					<string>26.23</string>
 					<key>english</key>
 					<array>
 						<string>I'd like to buy it for my wife. It's her birthday tomorrow.</string>
@@ -6843,7 +6843,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>24</string>
+					<string>26.24</string>
 					<key>english</key>
 					<array>
 						<string>Do you know my grandmother Suuyuk? She's my neighbor. She's a good seamstress.</string>
@@ -6855,7 +6855,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>25</string>
+					<string>26.25</string>
 					<key>english</key>
 					<array>
 						<string>Let me pay now. What is the total cost?</string>
@@ -6878,7 +6878,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>27.1</string>
 					<key>english</key>
 					<array>
 						<string>I'm going camping at Pipe Spit tomorrow.</string>
@@ -6890,7 +6890,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>27.2</string>
 					<key>english</key>
 					<array>
 						<string>Who else will be going along?</string>
@@ -6902,7 +6902,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>27.3</string>
 					<key>english</key>
 					<array>
 						<string>Myself, some children, and some elders.</string>
@@ -6914,7 +6914,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>27.4</string>
 					<key>english</key>
 					<array>
 						<string>How will you(3+) go to camp?</string>
@@ -6926,7 +6926,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>27.5</string>
 					<key>english</key>
 					<array>
 						<string>We'll go by boat.</string>
@@ -6938,7 +6938,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>27.6</string>
 					<key>english</key>
 					<array>
 						<string>How many boats will you(3+) take?</string>
@@ -6950,7 +6950,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>27.7</string>
 					<key>english</key>
 					<array>
 						<string>Three.</string>
@@ -6962,7 +6962,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>27.8</string>
 					<key>english</key>
 					<array>
 						<string>The tents are already there. We all have sleeping bags.</string>
@@ -6974,7 +6974,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>27.9</string>
 					<key>english</key>
 					<array>
 						<string>Is the food all ready? Are the boats loaded?</string>
@@ -6986,7 +6986,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>27.10</string>
 					<key>english</key>
 					<array>
 						<string>There's lots of food for the journey down on the beach.</string>
@@ -6998,7 +6998,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>27.11</string>
 					<key>english</key>
 					<array>
 						<string>What will you(3+) all do at camp?</string>
@@ -7010,7 +7010,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>27.12</string>
 					<key>english</key>
 					<array>
 						<string>First, we'll set a net for trout.</string>
@@ -7022,7 +7022,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>27.13</string>
 					<key>english</key>
 					<array>
 						<string>When we catch fish, we'll cut them to make dried fish.</string>
@@ -7034,7 +7034,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>27.14</string>
 					<key>english</key>
 					<array>
 						<string>And we'll go hunt sea mammals [seals and walruses] when the ice is good.</string>
@@ -7046,7 +7046,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>27.15</string>
 					<key>english</key>
 					<array>
 						<string>When we catch seals, we'll butcher them.</string>
@@ -7058,7 +7058,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>27.16</string>
 					<key>english</key>
 					<array>
 						<string>We will also make seal oil from the blubber.</string>
@@ -7070,7 +7070,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>27.17</string>
 					<key>english</key>
 					<array>
 						<string>When the fish and meat are dry, we will store them.</string>
@@ -7082,7 +7082,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>27.18</string>
 					<key>english</key>
 					<array>
 						<string>Are you going to teach the children how to do this?</string>
@@ -7094,7 +7094,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>27.19</string>
 					<key>english</key>
 					<array>
 						<string>Yes, the elders want to teach the chikiren.</string>
@@ -7106,7 +7106,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>20</string>
+					<string>27.20</string>
 					<key>english</key>
 					<array>
 						<string>Call me on the CB radio when you arrive, so that we won't worry.</string>
@@ -7129,7 +7129,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>28.1</string>
 					<key>english</key>
 					<array>
 						<string>In the spring, we hunt for wild eggs.</string>
@@ -7141,7 +7141,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>28.2</string>
 					<key>english</key>
 					<array>
 						<string>Where do you go to hunt eggs?</string>
@@ -7153,7 +7153,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>28.3</string>
 					<key>english</key>
 					<array>
 						<string>My spouse and I are going to the Chamisso Islands.</string>
@@ -7165,7 +7165,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>28.4</string>
 					<key>english</key>
 					<array>
 						<string>How do they hunt eggs? Do you have to climb up?</string>
@@ -7177,7 +7177,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>28.5</string>
 					<key>english</key>
 					<array>
 						<string>Yes, you have to climb and sometimes it gets slippery when it rains.</string>
@@ -7189,7 +7189,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>28.6</string>
 					<key>english</key>
 					<array>
 						<string>What kinds of eggs are there?</string>
@@ -7201,7 +7201,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>28.7</string>
 					<key>english</key>
 					<array>
 						<string>Murres and lesser gulls [smaller than seagulls] nest in the cliffs there.</string>
@@ -7213,7 +7213,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>28.8</string>
 					<key>english</key>
 					<array>
 						<string>What else is on the island?</string>
@@ -7225,7 +7225,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>28.9</string>
 					<key>english</key>
 					<array>
 						<string>There is sea lovage and wild celery on top of the island; they grow tall.</string>
@@ -7237,7 +7237,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>28.10</string>
 					<key>english</key>
 					<array>
 						<string>I would like to go along some time.</string>
@@ -7249,7 +7249,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>11</string>
+					<string>28.11</string>
 					<key>english</key>
 					<array>
 						<string>Yes, but I will have to watch you closely. It's dangerous when you don't know [the place].</string>
@@ -7261,7 +7261,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>12</string>
+					<string>28.12</string>
 					<key>english</key>
 					<array>
 						<string>And there is white gravel on the mainland beach.</string>
@@ -7273,7 +7273,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>13</string>
+					<string>28.13</string>
 					<key>english</key>
 					<array>
 						<string>What is white gravel?</string>
@@ -7285,7 +7285,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>14</string>
+					<string>28.14</string>
 					<key>english</key>
 					<array>
 						<string>It's white and they use it when they take the fur off the ugruk hide when making hard soles for mukluks.</string>
@@ -7297,7 +7297,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>15</string>
+					<string>28.15</string>
 					<key>english</key>
 					<array>
 						<string>How do they use it?</string>
@@ -7309,7 +7309,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>16</string>
+					<string>28.16</string>
 					<key>english</key>
 					<array>
 						<string>First they put it on the fur side [of the mukluk bottom] and then they scrape off the fur.</string>
@@ -7321,7 +7321,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>17</string>
+					<string>28.17</string>
 					<key>english</key>
 					<array>
 						<string>That's great, I've learned something more.</string>
@@ -7333,7 +7333,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>18</string>
+					<string>28.18</string>
 					<key>english</key>
 					<array>
 						<string>The eggs must be boiled [before they are eaten].</string>
@@ -7345,7 +7345,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>19</string>
+					<string>28.19</string>
 					<key>english</key>
 					<array>
 						<string>Some people store them in seal oil in pokes.</string>
@@ -7357,7 +7357,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>20</string>
+					<string>28.20</string>
 					<key>english</key>
 					<array>
 						<string>It's good to eat eggs.</string>
@@ -7369,7 +7369,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>21</string>
+					<string>28.21</string>
 					<key>english</key>
 					<array>
 						<string>Seagull eggs are large.</string>
@@ -7381,7 +7381,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>22</string>
+					<string>28.22</string>
 					<key>english</key>
 					<array>
 						<string>You can bake a cake using only one egg.</string>
@@ -7393,7 +7393,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>23</string>
+					<string>28.23</string>
 					<key>english</key>
 					<array>
 						<string>It makes it [the cake] rise a lot.</string>
@@ -7405,7 +7405,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>24</string>
+					<string>28.24</string>
 					<key>english</key>
 					<array>
 						<string>It's way better than with store-bought eggs.</string>
@@ -7417,7 +7417,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>25</string>
+					<string>28.25</string>
 					<key>english</key>
 					<array>
 						<string>Wow, they sure eat good food.</string>
@@ -7440,7 +7440,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 			<array>
 				<dict>
 					<key>ID</key>
-					<string>1</string>
+					<string>29.1</string>
 					<key>english</key>
 					<array>
 						<string>We hardly hunt for molting ducks around here.</string>
@@ -7452,7 +7452,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>2</string>
+					<string>29.2</string>
 					<key>english</key>
 					<array>
 						<string>Why not?</string>
@@ -7464,7 +7464,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>3</string>
+					<string>29.3</string>
 					<key>english</key>
 					<array>
 						<string>There is too much activity.</string>
@@ -7476,7 +7476,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>4</string>
+					<string>29.4</string>
 					<key>english</key>
 					<array>
 						<string>But there are molting ducks where there are no people.</string>
@@ -7488,7 +7488,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>5</string>
+					<string>29.5</string>
 					<key>english</key>
 					<array>
 						<string>A long time ago there used to be some in Anigaaq.</string>
@@ -7500,7 +7500,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>6</string>
+					<string>29.6</string>
 					<key>english</key>
 					<array>
 						<string>Where is Anigaaq located?</string>
@@ -7512,7 +7512,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>7</string>
+					<string>29.7</string>
 					<key>english</key>
 					<array>
 						<string>It's past Sisualik.</string>
@@ -7524,7 +7524,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>8</string>
+					<string>29.8</string>
 					<key>english</key>
 					<array>
 						<string>There used to be molting ducks there in the grass.</string>
@@ -7536,7 +7536,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>9</string>
+					<string>29.9</string>
 					<key>english</key>
 					<array>
 						<string>How about now, are they gone?</string>
@@ -7548,7 +7548,7 @@ Two pairs of diphthongs are pronounced alike for most speakers in Northwest Alas
 				</dict>
 				<dict>
 					<key>ID</key>
-					<string>10</string>
+					<string>29.10</string>
 					<key>english</key>
 					<array>
 						<string>They're gone. They are over where there's not much traffic.</string>
