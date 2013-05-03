@@ -12,4 +12,5 @@
 	NSArray *categories;
 	NSArray * languages;
 }
++(id) shared;
 @end

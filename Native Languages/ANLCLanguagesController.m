@@ -9,12 +9,17 @@
 #import "ANLCLanguagesController.h"
 #import "ANLCPhraseCategoriesController.h"
 
+static id shared;
+
 @implementation ANLCLanguagesController
+
++(id) shared { return shared; }
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
+		shared = self;
 		self.title = @"Phrase Book";//NSLocalizedString(@"First", @"First");
 		self.tabBarItem.image = [UIImage imageNamed:@"first"];
 		[self.navigationController setNavigationBarHidden:NO animated:YES];
@@ -40,6 +45,7 @@
 	ANLCPhraseCategoriesController * cntrl = [[ANLCPhraseCategoriesController alloc]
 											  initWithLanguage:languages[indexPath.row]];
 	
+	[self.navigationController popToRootViewControllerAnimated:YES];
 	[self.navigationController pushViewController:cntrl animated:YES];
 }
 

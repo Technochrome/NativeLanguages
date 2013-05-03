@@ -8,7 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		2F0B2CE316D886A300F1ADC7 /* ANLCPhrasesController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F0B2CE216D886A300F1ADC7 /* ANLCPhrasesController.m */; };
+		2F6ECB591730A68F00E462FC /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F6ECB581730A63D00E462FC /* FirstViewController.m */; };
+		2F6ECB5B1730A6D800E462FC /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F6ECB5A1730A6D800E462FC /* MapKit.framework */; };
+		2F6ECB621730A88C00E462FC /* First.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2F6ECB611730A88B00E462FC /* First.xib */; };
 		2F765AFA17179FC300A914EB /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F765AF917179FC200A914EB /* AVFoundation.framework */; };
+		2F9BE8FA17334147005F9328 /* Logo57.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F9BE8F917334147005F9328 /* Logo57.png */; };
+		2F9BE8FC17334218005F9328 /* Logo114.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F9BE8FB17334218005F9328 /* Logo114.png */; };
 		2FA9D64116BB648100BD5252 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2FA9D64016BB648100BD5252 /* UIKit.framework */; };
 		2FA9D64316BB648100BD5252 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2FA9D64216BB648100BD5252 /* Foundation.framework */; };
 		2FA9D64516BB648100BD5252 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2FA9D64416BB648100BD5252 /* CoreGraphics.framework */; };
@@ -24,7 +29,7 @@
 		2FA9D66116BB648100BD5252 /* ANLCSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FA9D66016BB648100BD5252 /* ANLCSecondViewController.m */; };
 		2FA9D66316BB648100BD5252 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9D66216BB648100BD5252 /* second.png */; };
 		2FA9D66516BB648100BD5252 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9D66416BB648100BD5252 /* second@2x.png */; };
-		2FA9D66816BB648100BD5252 /* ANLCPhraseCategoriesController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9D66616BB648100BD5252 /* ANLCPhraseCategoriesController_iPhone.xib */; };
+		2FA9D66816BB648100BD5252 /* ANLCPhrasesController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9D66616BB648100BD5252 /* ANLCPhrasesController_iPhone.xib */; };
 		2FA9D66E16BB648100BD5252 /* ANLCSecondViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9D66C16BB648100BD5252 /* ANLCSecondViewController_iPhone.xib */; };
 		2FA9D67116BB648100BD5252 /* ANLCSecondViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FA9D66F16BB648100BD5252 /* ANLCSecondViewController_iPad.xib */; };
 		2FC1E36A1708E07900023A67 /* PhraseView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2FC1E3691708E07900023A67 /* PhraseView.xib */; };
@@ -39,7 +44,13 @@
 /* Begin PBXFileReference section */
 		2F0B2CE116D886A300F1ADC7 /* ANLCPhrasesController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANLCPhrasesController.h; sourceTree = "<group>"; };
 		2F0B2CE216D886A300F1ADC7 /* ANLCPhrasesController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ANLCPhrasesController.m; sourceTree = "<group>"; };
+		2F6ECB571730A63D00E462FC /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		2F6ECB581730A63D00E462FC /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		2F6ECB5A1730A6D800E462FC /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		2F6ECB611730A88B00E462FC /* First.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = First.xib; sourceTree = "<group>"; };
 		2F765AF917179FC200A914EB /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		2F9BE8F917334147005F9328 /* Logo57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Logo57.png; path = ../Logo57.png; sourceTree = "<group>"; };
+		2F9BE8FB17334218005F9328 /* Logo114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Logo114.png; path = ../Logo114.png; sourceTree = "<group>"; };
 		2FA9D63D16BB648100BD5252 /* Native Languages.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Native Languages.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FA9D64016BB648100BD5252 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		2FA9D64216BB648100BD5252 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -61,7 +72,7 @@
 		2FA9D66016BB648100BD5252 /* ANLCSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ANLCSecondViewController.m; sourceTree = "<group>"; };
 		2FA9D66216BB648100BD5252 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		2FA9D66416BB648100BD5252 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
-		2FA9D66716BB648100BD5252 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ANLCPhraseCategoriesController_iPhone.xib; sourceTree = "<group>"; };
+		2FA9D66716BB648100BD5252 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ANLCPhrasesController_iPhone.xib; sourceTree = "<group>"; };
 		2FA9D66D16BB648100BD5252 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ANLCSecondViewController_iPhone.xib; sourceTree = "<group>"; };
 		2FA9D67016BB648100BD5252 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ANLCSecondViewController_iPad.xib; sourceTree = "<group>"; };
 		2FC1E3691708E07900023A67 /* PhraseView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PhraseView.xib; sourceTree = "<group>"; };
@@ -80,6 +91,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F6ECB5B1730A6D800E462FC /* MapKit.framework in Frameworks */,
 				2F765AFA17179FC300A914EB /* AVFoundation.framework in Frameworks */,
 				2FA9D64116BB648100BD5252 /* UIKit.framework in Frameworks */,
 				2FA9D64316BB648100BD5252 /* Foundation.framework in Frameworks */,
@@ -124,7 +136,8 @@
 			children = (
 				2FA9D65B16BB648100BD5252 /* first.png */,
 				2FA9D65D16BB648100BD5252 /* first@2x.png */,
-				2FA9D66616BB648100BD5252 /* ANLCPhraseCategoriesController_iPhone.xib */,
+				2FA9D66616BB648100BD5252 /* ANLCPhrasesController_iPhone.xib */,
+				2F6ECB611730A88B00E462FC /* First.xib */,
 				2FC1E3691708E07900023A67 /* PhraseView.xib */,
 			);
 			name = Resources;
@@ -133,6 +146,7 @@
 		2FA9D63416BB648100BD5252 = {
 			isa = PBXGroup;
 			children = (
+				2F6ECB5A1730A6D800E462FC /* MapKit.framework */,
 				2F765AF917179FC200A914EB /* AVFoundation.framework */,
 				2FA9D64616BB648100BD5252 /* Native Languages */,
 				2FA9D63F16BB648100BD5252 /* Frameworks */,
@@ -165,6 +179,8 @@
 				2F11E93E16CE065F0092642D /* Phrases */,
 				2FA9D64F16BB648100BD5252 /* ANLCAppDelegate.h */,
 				2FA9D65016BB648100BD5252 /* ANLCAppDelegate.m */,
+				2F6ECB571730A63D00E462FC /* FirstViewController.h */,
+				2F6ECB581730A63D00E462FC /* FirstViewController.m */,
 				2FA9D64716BB648100BD5252 /* Supporting Files */,
 			);
 			path = "Native Languages";
@@ -173,6 +189,8 @@
 		2FA9D64716BB648100BD5252 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2F9BE8FB17334218005F9328 /* Logo114.png */,
+				2F9BE8F917334147005F9328 /* Logo57.png */,
 				2FD2D1A816D6FDFD003538C8 /* LanguageFiles */,
 				2FA9D64816BB648100BD5252 /* Native Languages-Info.plist */,
 				2FA9D64916BB648100BD5252 /* InfoPlist.strings */,
@@ -248,7 +266,7 @@
 				2FA9D65E16BB648100BD5252 /* first@2x.png in Resources */,
 				2FA9D66316BB648100BD5252 /* second.png in Resources */,
 				2FA9D66516BB648100BD5252 /* second@2x.png in Resources */,
-				2FA9D66816BB648100BD5252 /* ANLCPhraseCategoriesController_iPhone.xib in Resources */,
+				2FA9D66816BB648100BD5252 /* ANLCPhrasesController_iPhone.xib in Resources */,
 				2FA9D66E16BB648100BD5252 /* ANLCSecondViewController_iPhone.xib in Resources */,
 				2FA9D67116BB648100BD5252 /* ANLCSecondViewController_iPad.xib in Resources */,
 				2FD2D1A916D6FDFD003538C8 /* LanguageFiles in Resources */,
@@ -256,6 +274,9 @@
 				2FC1E36F1708EB3300023A67 /* Attributions.rtf in Resources */,
 				2FC1E3711708EB6400023A67 /* Loudspeaker.png in Resources */,
 				2FC1E3731708FA5D00023A67 /* ExpandTriangle.png in Resources */,
+				2F6ECB621730A88C00E462FC /* First.xib in Resources */,
+				2F9BE8FA17334147005F9328 /* Logo57.png in Resources */,
+				2F9BE8FC17334218005F9328 /* Logo114.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +294,7 @@
 				2FD2D1A716D6BA31003538C8 /* ANLCPhraseCategoriesController.m in Sources */,
 				2F0B2CE316D886A300F1ADC7 /* ANLCPhrasesController.m in Sources */,
 				2FC1E36D1708E12C00023A67 /* ANLCCompactPhraseView.m in Sources */,
+				2F6ECB591730A68F00E462FC /* FirstViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,12 +309,12 @@
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		2FA9D66616BB648100BD5252 /* ANLCPhraseCategoriesController_iPhone.xib */ = {
+		2FA9D66616BB648100BD5252 /* ANLCPhrasesController_iPhone.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
 				2FA9D66716BB648100BD5252 /* en */,
 			);
-			name = ANLCPhraseCategoriesController_iPhone.xib;
+			name = ANLCPhrasesController_iPhone.xib;
 			sourceTree = "<group>";
 		};
 		2FA9D66C16BB648100BD5252 /* ANLCSecondViewController_iPhone.xib */ = {

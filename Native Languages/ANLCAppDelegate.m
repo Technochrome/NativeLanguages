@@ -11,18 +11,27 @@
 #import "ANLCLanguagesController.h"
 
 #import "ANLCSecondViewController.h"
+#import "FirstViewController.h"
+
+static id shared;
 
 @implementation ANLCAppDelegate
 
++(id) shared {
+	return shared;
+}
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+	shared = self;
+	
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
 	UIViewController *viewController1, *viewController2;
 //	if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPhone) {
 		viewController1 = [[UINavigationController alloc] initWithRootViewController:
 						   [[ANLCLanguagesController alloc]initWithNibName:@"ANLCPhrasesController_iPhone" bundle:nil]];
-	    viewController2 = [[ANLCSecondViewController alloc] initWithNibName:@"ANLCSecondViewController_iPhone" bundle:nil];
+	    viewController2 = [[FirstViewController alloc] initWithNibName:@"First" bundle:nil];
 //	} else {
 //	    viewController1 = [[ANLCPhrasesController alloc] initWithNibName:@"ANLCFirstViewController_iPad" bundle:nil];
 //	    viewController2 = [[ANLCSecondViewController alloc] initWithNibName:@"ANLCSecondViewController_iPad" bundle:nil];

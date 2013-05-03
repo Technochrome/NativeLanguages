@@ -11,8 +11,14 @@
 
 AVAudioPlayer * audioPlayer;
 
+NSURL* audioServerURL=nil;
+
 @implementation ANLCCompactPhraseView
 @synthesize title,subtitle,section,delegate,audioID;
+
++(void) initialize {
+	audioServerURL = [NSURL URLWithString:@"http://rovrcomp.local/audio/"];
+}
 
 - (id)initWithFrame:(CGRect)frame
 {
@@ -36,11 +42,45 @@ AVAudioPlayer * audioPlayer;
 	}
 }
 
+-(void) getAudio:(NSArray*)obj {
+	isDownloading = YES;
+	NSData * audioData = [NSData dataWithContentsOfURL:obj[0]];
+	[audioData writeToFile:obj[1] atomically:YES];
+	isDownloading = NO;
+	if(audioData) {
+		[self performSelector:@selector(playAudio)
+					 onThread:[NSThread mainThread]
+				   withObject:nil
+				waitUntilDone:NO];
+	} else {
+		UIAlertView * alert = [[UIAlertView alloc] initWithTitle:@"Error Downloading"
+														 message:@"The audio file could not be accessed."
+														delegate:nil
+											   cancelButtonTitle:@"Okay"
+											   otherButtonTitles: nil];
+		[alert performSelector:@selector(show)
+					  onThread:[NSThread mainThread]
+					withObject:nil
+				 waitUntilDone:YES];
+	}
+}
+
 -(void) playAudio {
+	if(isDownloading) return;
 	NSError *error;
-	NSURL *audioURL = [[NSBundle mainBundle] URLForResource:audioID withExtension:@"m4a" subdirectory:@"LanguageFiles/Audio"];
-	NSData *audioData = [NSData dataWithContentsOfURL:audioURL];
-	NSLog(@"%@ %d",audioPlayer, [audioPlayer isPlaying]);
+	NSData *audioData;
+	
+	NSString *documentsPath = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES)[0];
+	NSString *audioDocPath = [documentsPath stringByAppendingFormat:@"/audio%@.m4a",audioID];
+	
+	if(![[NSFileManager defaultManager] fileExistsAtPath:audioDocPath]) {
+		NSURL *audioURL = [NSURL URLWithString:[NSString stringWithFormat:@"%@.m4a",audioID] relativeToURL:audioServerURL];
+		[NSThread detachNewThreadSelector:@selector(getAudio:) toTarget:self withObject:@[audioURL,audioDocPath]];
+		return;
+	} else {
+		audioData = [NSData dataWithContentsOfFile:audioDocPath];
+	}
+	
 	if([audioPlayer isPlaying]) {
 		NSLog(@"stop");
 		[audioPlayer stop];

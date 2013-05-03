@@ -19,6 +19,7 @@
 	IBOutlet UILabel * title, *subtitle;
 	IBOutlet UIButton * button;
 	__weak id<ANLCCompactPhraseViewDelegate> delegate;
+	BOOL isDownloading;
 }
 @property (readonly) UILabel *title, *subtitle;
 @property (readwrite) NSInteger section;
