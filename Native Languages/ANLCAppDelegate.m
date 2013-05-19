@@ -23,6 +23,7 @@ static id shared;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+	NSLog(@"The delegate should now setup the views");
 	shared = self;
 	
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
@@ -40,6 +41,10 @@ static id shared;
 	self.tabBarController.viewControllers = @[viewController1, viewController2];
 	self.window.rootViewController = self.tabBarController;
     [self.window makeKeyAndVisible];
+	NSLog(@"The window: %@",self.window);
+	NSLog(@"Tab bar: %@,%@",self.window.rootViewController,self.tabBarController);
+	NSLog(@"List view: %@",self.tabBarController.viewControllers[0]);
+	NSLog(@"Map view: %@",self.tabBarController.viewControllers[1]);
     return YES;
 }
 
